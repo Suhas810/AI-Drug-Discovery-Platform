@@ -1,0 +1,1501 @@
+drug,smiles,target,binding_affinity,disease
+Niclosamide,CC(C)CC,NS5 Polymerase,0.591,Dengue
+Quercetin,CC(C)CC,Capsid Protein,0.655,Dengue
+Celgosivir,CC(C)CC,NS5 Polymerase,0.768,Dengue
+Sofosbuvir,CCNCO,Envelope Protein,0.845,Dengue
+Favipiravir,CC(C)CC,NS3 Protease,0.622,Dengue
+Balapiravir,CC(C)CC,RNA-dependent RNA Polymerase,0.925,Dengue
+Arbidol,CCN(CC)CC,RNA-dependent RNA Polymerase,0.87,Dengue
+Arbidol,CCNC,Capsid Protein,0.686,Dengue
+Niclosamide,CCO,NS5 Polymerase,0.571,Dengue
+Sofosbuvir,C1CCCCC1,Envelope Protein,0.641,Dengue
+Curcumin,CCNCO,Capsid Protein,0.933,Dengue
+Suramin,CCO,RNA-dependent RNA Polymerase,0.926,Dengue
+Balapiravir,CCOC(=O)C,Helicase,0.923,Dengue
+Interferon,CCCO,NS5 Polymerase,0.851,Dengue
+Curcumin,CCN(CC)CC,Envelope Protein,0.942,Dengue
+Sofosbuvir,CCNCO,Capsid Protein,0.638,Dengue
+Celgosivir,CCNC,Helicase,0.595,Dengue
+Interferon,COC,NS3 Protease,0.626,Dengue
+Balapiravir,COC,RNA-dependent RNA Polymerase,0.926,Dengue
+Quercetin,COC,Envelope Protein,0.831,Dengue
+NITD008,CCCN,Helicase,0.696,Dengue
+Ivermectin,C1CCCCC1,NS3 Protease,0.65,Dengue
+Favipiravir,CC(C)O,RNA-dependent RNA Polymerase,0.561,Dengue
+Niclosamide,CCCN,Helicase,0.878,Dengue
+Curcumin,CCOC,NS3 Protease,0.579,Dengue
+Interferon,CCCO,NS3 Protease,0.707,Dengue
+Balapiravir,CCCO,Capsid Protein,0.698,Dengue
+Ivermectin,C1CCCCC1,NS3 Protease,0.944,Dengue
+Ribavirin,CCN(CC)CC,NS3 Protease,0.98,Dengue
+Niclosamide,CCO,NS5 Polymerase,0.79,Dengue
+Quercetin,CCO,NS5 Polymerase,0.851,Dengue
+Balapiravir,CCOC(=O)C,RNA-dependent RNA Polymerase,0.688,Dengue
+Suramin,CCOC,RNA-dependent RNA Polymerase,0.729,Dengue
+Curcumin,CNC,Envelope Protein,0.962,Dengue
+Quercetin,CCNCO,RNA-dependent RNA Polymerase,0.582,Dengue
+Curcumin,CCNCO,Envelope Protein,0.821,Dengue
+Curcumin,CCCN,Helicase,0.614,Dengue
+Curcumin,CCNCO,NS3 Protease,0.706,Dengue
+Niclosamide,CCOC,RNA-dependent RNA Polymerase,0.639,Dengue
+Arbidol,CCO,RNA-dependent RNA Polymerase,0.879,Dengue
+Ribavirin,CCCO,Capsid Protein,0.791,Dengue
+Ribavirin,CCO,Capsid Protein,0.583,Dengue
+Ribavirin,CCC,NS3 Protease,0.618,Dengue
+Chloroquine,COC,NS5 Polymerase,0.699,Dengue
+Azithromycin,CC(C)O,NS5 Polymerase,0.65,Dengue
+Ribavirin,COC,NS3 Protease,0.58,Dengue
+Interferon,CNC,Envelope Protein,0.773,Dengue
+NITD008,COC,RNA-dependent RNA Polymerase,0.765,Dengue
+Quercetin,CCCN,NS3 Protease,0.621,Dengue
+Suramin,CC(C)O,Envelope Protein,0.892,Dengue
+Interferon,CCN(CC)CC,Capsid Protein,0.83,Dengue
+Ribavirin,CCOC,Envelope Protein,0.592,Dengue
+NITD008,CC(C)O,Capsid Protein,0.928,Dengue
+NITD008,C1CCCCC1,RNA-dependent RNA Polymerase,0.553,Dengue
+Sofosbuvir,CCN(CC)CC,NS3 Protease,0.895,Dengue
+Arbidol,CCOC,NS5 Polymerase,0.874,Dengue
+Celgosivir,CCCO,RNA-dependent RNA Polymerase,0.7,Dengue
+NITD008,CCOC(=O)C,Helicase,0.715,Dengue
+Chloroquine,CCNC,NS5 Polymerase,0.74,Dengue
+NITD008,CNC,NS3 Protease,0.65,Dengue
+Quercetin,CNC,RNA-dependent RNA Polymerase,0.708,Dengue
+Sofosbuvir,CCNCO,Envelope Protein,0.615,Dengue
+Chloroquine,CNC,NS5 Polymerase,0.832,Dengue
+Balapiravir,CCO,NS5 Polymerase,0.921,Dengue
+Niclosamide,CCOC(=O)C,Envelope Protein,0.696,Dengue
+NITD008,CCCN,NS3 Protease,0.645,Dengue
+Interferon,CCN,Capsid Protein,0.945,Dengue
+Curcumin,CC(C)O,Envelope Protein,0.727,Dengue
+Ribavirin,C1CCCCC1,Envelope Protein,0.788,Dengue
+Interferon,COC,NS5 Polymerase,0.661,Dengue
+Arbidol,CCOC,Capsid Protein,0.862,Dengue
+Celgosivir,CCO,RNA-dependent RNA Polymerase,0.647,Dengue
+Quercetin,CC(C)CC,Helicase,0.63,Dengue
+Balapiravir,CCNC,Capsid Protein,0.584,Dengue
+Interferon,CCNCO,Capsid Protein,0.895,Dengue
+Quercetin,CCNC,NS3 Protease,0.849,Dengue
+Celgosivir,CCNCO,Helicase,0.649,Dengue
+Niclosamide,CCOC,NS5 Polymerase,0.893,Dengue
+Azithromycin,CCN(CC)CC,Helicase,0.598,Dengue
+Sofosbuvir,CCN(CC)CC,Helicase,0.833,Dengue
+Ribavirin,CCN(CC)CC,Envelope Protein,0.72,Dengue
+Suramin,CCO,NS5 Polymerase,0.623,Dengue
+Sofosbuvir,C1CCCCC1,RNA-dependent RNA Polymerase,0.631,Dengue
+Azithromycin,CCNCO,Envelope Protein,0.637,Dengue
+NITD008,CCOC,RNA-dependent RNA Polymerase,0.978,Dengue
+NITD008,CNC,Envelope Protein,0.625,Dengue
+Niclosamide,CCNCO,NS3 Protease,0.7,Dengue
+Balapiravir,CCCO,Envelope Protein,0.645,Dengue
+Suramin,CCO,NS3 Protease,0.939,Dengue
+NITD008,CCC,Capsid Protein,0.923,Dengue
+Suramin,CC(C)O,Capsid Protein,0.833,Dengue
+Ribavirin,CCCO,Capsid Protein,0.975,Dengue
+Arbidol,CCCO,NS5 Polymerase,0.767,Dengue
+Azithromycin,CCCN,Envelope Protein,0.803,Dengue
+Interferon,CCCN,NS3 Protease,0.98,Dengue
+Suramin,CCN,Helicase,0.891,Dengue
+Interferon,CC(C)CC,RNA-dependent RNA Polymerase,0.592,Dengue
+Favipiravir,CCCO,Helicase,0.901,Dengue
+Ivermectin,CCNCO,NS3 Protease,0.865,Dengue
+Ivermectin,CCOC(=O)C,Envelope Protein,0.727,Dengue
+Ribavirin,CCCO,RNA-dependent RNA Polymerase,0.694,Dengue
+Niclosamide,CCNC,RNA-dependent RNA Polymerase,0.627,Dengue
+Balapiravir,CC(C)O,NS3 Protease,0.77,Dengue
+Interferon,CCOC(=O)C,Envelope Protein,0.916,Dengue
+Azithromycin,COC,Helicase,0.774,Dengue
+Arbidol,CNC,NS3 Protease,0.713,Dengue
+Ribavirin,CCCN,RNA-dependent RNA Polymerase,0.72,Dengue
+Quercetin,CCO,Helicase,0.563,Dengue
+Interferon,CNC,Helicase,0.814,Dengue
+Favipiravir,CC(C)O,RNA-dependent RNA Polymerase,0.694,Dengue
+Favipiravir,CCCO,Capsid Protein,0.772,Dengue
+Curcumin,CCCO,Helicase,0.635,Dengue
+Quercetin,C1CCCCC1,NS3 Protease,0.875,Dengue
+Sofosbuvir,CCOC,NS3 Protease,0.672,Dengue
+Niclosamide,CCN,RNA-dependent RNA Polymerase,0.936,Dengue
+Curcumin,COC,RNA-dependent RNA Polymerase,0.942,Dengue
+NITD008,CCO,Envelope Protein,0.915,Dengue
+Ribavirin,CCCN,Capsid Protein,0.57,Dengue
+Ribavirin,C1CCCCC1,Helicase,0.685,Dengue
+Interferon,C1CCCCC1,Helicase,0.685,Dengue
+Favipiravir,C1CCCCC1,NS3 Protease,0.753,Dengue
+Ivermectin,CCNCO,RNA-dependent RNA Polymerase,0.887,Dengue
+Arbidol,CCOC(=O)C,NS5 Polymerase,0.962,Dengue
+Niclosamide,CC(C)CC,NS3 Protease,0.85,Dengue
+Ribavirin,CCO,RNA-dependent RNA Polymerase,0.658,Dengue
+Arbidol,CC(C)O,NS5 Polymerase,0.758,Dengue
+Sofosbuvir,CCC,Envelope Protein,0.591,Dengue
+Niclosamide,CCOC,Envelope Protein,0.969,Dengue
+Favipiravir,CCN,Envelope Protein,0.558,Dengue
+Curcumin,CCC,Helicase,0.827,Dengue
+Favipiravir,CCN(CC)CC,Helicase,0.763,Dengue
+Arbidol,CCNCO,Helicase,0.911,Dengue
+Niclosamide,CCCO,Envelope Protein,0.818,Dengue
+Ivermectin,CCO,Helicase,0.733,Dengue
+Balapiravir,CCNCO,Helicase,0.979,Dengue
+Balapiravir,CCC,NS3 Protease,0.655,Dengue
+Niclosamide,CCOC,RNA-dependent RNA Polymerase,0.962,Dengue
+Arbidol,COC,NS5 Polymerase,0.741,Dengue
+NITD008,CCCO,Capsid Protein,0.651,Dengue
+Celgosivir,CCC,Envelope Protein,0.725,Dengue
+Ivermectin,CCC,RNA-dependent RNA Polymerase,0.862,Dengue
+Curcumin,CCC,Helicase,0.564,Dengue
+Sofosbuvir,CC(C)CC,Helicase,0.852,Dengue
+Ribavirin,CCNC,NS3 Protease,0.914,Dengue
+Ivermectin,CCO,Helicase,0.613,Dengue
+Sofosbuvir,CCN,Helicase,0.739,Dengue
+Curcumin,CCOC(=O)C,NS3 Protease,0.812,Dengue
+Sofosbuvir,COC,Envelope Protein,0.657,Dengue
+Suramin,CC(C)O,RNA-dependent RNA Polymerase,0.915,Dengue
+Suramin,CCO,NS5 Polymerase,0.958,Dengue
+Azithromycin,CCNC,NS5 Polymerase,0.857,Dengue
+Curcumin,CNC,Capsid Protein,0.711,Dengue
+Azithromycin,CCC,NS3 Protease,0.96,Dengue
+Niclosamide,CC(C)CC,Helicase,0.77,Dengue
+Celgosivir,CCNCO,Helicase,0.756,Dengue
+Azithromycin,COC,NS5 Polymerase,0.881,Dengue
+Interferon,CCOC(=O)C,NS5 Polymerase,0.828,Dengue
+Sofosbuvir,CCCN,NS5 Polymerase,0.717,Dengue
+Favipiravir,COC,NS5 Polymerase,0.918,Dengue
+Celgosivir,CCNCO,NS5 Polymerase,0.769,Dengue
+Niclosamide,CCOC,Envelope Protein,0.644,Dengue
+Niclosamide,CCNCO,Helicase,0.776,Dengue
+Ribavirin,CCNCO,NS3 Protease,0.942,Dengue
+Suramin,CCNC,NS5 Polymerase,0.57,Dengue
+Curcumin,CCNC,Envelope Protein,0.739,Dengue
+Sofosbuvir,CC(C)CC,NS5 Polymerase,0.855,Dengue
+Arbidol,CCOC(=O)C,Envelope Protein,0.652,Dengue
+Ivermectin,CCN(CC)CC,RNA-dependent RNA Polymerase,0.868,Dengue
+Interferon,CCCN,RNA-dependent RNA Polymerase,0.82,Dengue
+Sofosbuvir,CCC,NS3 Protease,0.932,Dengue
+Balapiravir,CCN(CC)CC,Capsid Protein,0.978,Dengue
+Interferon,CNC,Capsid Protein,0.744,Dengue
+NITD008,CCN,RNA-dependent RNA Polymerase,0.707,Dengue
+NITD008,CCCO,NS3 Protease,0.709,Dengue
+Arbidol,CC(C)O,RNA-dependent RNA Polymerase,0.666,Dengue
+Curcumin,CCNC,NS3 Protease,0.647,Dengue
+Suramin,CCN(CC)CC,Capsid Protein,0.914,Dengue
+Favipiravir,CCCO,NS5 Polymerase,0.979,Dengue
+NITD008,CCCN,NS5 Polymerase,0.671,Dengue
+NITD008,CCOC(=O)C,NS3 Protease,0.832,Dengue
+Curcumin,CCOC(=O)C,Capsid Protein,0.659,Dengue
+Arbidol,CCCO,NS5 Polymerase,0.898,Dengue
+Chloroquine,CNC,Envelope Protein,0.913,Dengue
+Interferon,CCN(CC)CC,Helicase,0.615,Dengue
+Chloroquine,CCOC,Envelope Protein,0.818,Dengue
+Interferon,CC(C)CC,Capsid Protein,0.929,Dengue
+Azithromycin,COC,Envelope Protein,0.613,Dengue
+NITD008,CCC,Helicase,0.757,Dengue
+Balapiravir,CCNCO,NS5 Polymerase,0.816,Dengue
+Ivermectin,COC,RNA-dependent RNA Polymerase,0.916,Dengue
+Arbidol,CCCO,NS3 Protease,0.846,Dengue
+Arbidol,CNC,NS5 Polymerase,0.61,Dengue
+Ribavirin,C1CCCCC1,NS5 Polymerase,0.663,Dengue
+Ivermectin,CCCO,Capsid Protein,0.696,Dengue
+Curcumin,CNC,Capsid Protein,0.819,Dengue
+NITD008,CC(C)CC,Capsid Protein,0.867,Dengue
+Celgosivir,CCCO,Capsid Protein,0.65,Dengue
+Curcumin,CCC,RNA-dependent RNA Polymerase,0.947,Dengue
+Curcumin,CCCO,Capsid Protein,0.724,Dengue
+Curcumin,C1CCCCC1,Capsid Protein,0.745,Dengue
+Ribavirin,CCO,Helicase,0.862,Dengue
+Ivermectin,CC(C)O,Envelope Protein,0.785,Dengue
+Quercetin,CCOC(=O)C,Capsid Protein,0.806,Dengue
+Sofosbuvir,CCN,Envelope Protein,0.747,Dengue
+Celgosivir,CNC,NS5 Polymerase,0.815,Dengue
+Celgosivir,CCO,Envelope Protein,0.85,Dengue
+Sofosbuvir,CC(C)O,Envelope Protein,0.616,Dengue
+Interferon,CCOC,NS3 Protease,0.68,Dengue
+Celgosivir,CCC,Envelope Protein,0.7,Dengue
+Curcumin,CNC,Capsid Protein,0.736,Dengue
+Curcumin,CNC,Envelope Protein,0.798,Dengue
+Quercetin,CCCN,RNA-dependent RNA Polymerase,0.802,Dengue
+Ivermectin,CCO,Envelope Protein,0.877,Dengue
+Niclosamide,CCCN,Envelope Protein,0.614,Dengue
+Niclosamide,CCOC,NS3 Protease,0.732,Dengue
+Arbidol,C1CCCCC1,Capsid Protein,0.734,Dengue
+Ivermectin,CCC,Helicase,0.866,Dengue
+Chloroquine,CNC,Capsid Protein,0.912,Dengue
+Curcumin,CCOC(=O)C,NS3 Protease,0.723,Dengue
+Suramin,CCNC,NS5 Polymerase,0.822,Dengue
+NITD008,CCOC(=O)C,Helicase,0.557,Dengue
+Arbidol,CCN,RNA-dependent RNA Polymerase,0.551,Dengue
+Balapiravir,C1CCCCC1,RNA-dependent RNA Polymerase,0.937,Dengue
+Azithromycin,CC(C)CC,NS5 Polymerase,0.862,Dengue
+Quercetin,C1CCCCC1,Capsid Protein,0.565,Dengue
+Celgosivir,CCOC,NS5 Polymerase,0.712,Dengue
+Balapiravir,CCO,NS5 Polymerase,0.863,Dengue
+Chloroquine,C1CCCCC1,Helicase,0.636,Dengue
+Chloroquine,CCCO,Capsid Protein,0.899,Dengue
+Ivermectin,CCOC(=O)C,Envelope Protein,0.69,Dengue
+Interferon,C1CCCCC1,Helicase,0.905,Dengue
+Quercetin,CCC,NS3 Protease,0.835,Dengue
+Celgosivir,CCCO,NS5 Polymerase,0.625,Dengue
+Celgosivir,CCOC,Helicase,0.57,Dengue
+Celgosivir,CC(C)CC,Helicase,0.837,Dengue
+Arbidol,CCNCO,RNA-dependent RNA Polymerase,0.578,Dengue
+Curcumin,C1CCCCC1,Envelope Protein,0.884,Dengue
+Quercetin,CCCN,Envelope Protein,0.631,Dengue
+Niclosamide,C1CCCCC1,Envelope Protein,0.552,Dengue
+Arbidol,CCNCO,NS5 Polymerase,0.668,Dengue
+Balapiravir,CNC,Envelope Protein,0.75,Dengue
+Favipiravir,CCNC,RNA-dependent RNA Polymerase,0.55,Dengue
+Interferon,CCOC(=O)C,NS3 Protease,0.819,Dengue
+Chloroquine,CCC,Capsid Protein,0.703,Dengue
+Ribavirin,CNC,Capsid Protein,0.585,Dengue
+Ivermectin,CCOC,NS3 Protease,0.747,Dengue
+Ivermectin,CC(C)CC,Helicase,0.95,Dengue
+Sofosbuvir,CCOC,NS3 Protease,0.578,Dengue
+Suramin,CC(C)O,NS5 Polymerase,0.823,Dengue
+Ribavirin,CCN(CC)CC,NS5 Polymerase,0.738,Dengue
+Arbidol,CCO,NS3 Protease,0.719,Dengue
+Balapiravir,CCOC(=O)C,Envelope Protein,0.736,Dengue
+Quercetin,CCN,Helicase,0.862,Dengue
+Celgosivir,CCOC(=O)C,Capsid Protein,0.963,Dengue
+Sofosbuvir,CCN,Helicase,0.86,Dengue
+Azithromycin,CCCO,Capsid Protein,0.779,Dengue
+Balapiravir,CCN,Capsid Protein,0.578,Dengue
+Suramin,CCN(CC)CC,NS5 Polymerase,0.596,Dengue
+Suramin,CCC,NS3 Protease,0.798,Dengue
+Ribavirin,CCOC(=O)C,Helicase,0.721,Dengue
+Ivermectin,CCC,Helicase,0.635,Dengue
+Arbidol,CCOC(=O)C,RNA-dependent RNA Polymerase,0.812,Dengue
+Azithromycin,CCNC,Envelope Protein,0.647,Dengue
+Arbidol,CCN,RNA-dependent RNA Polymerase,0.779,Dengue
+Favipiravir,CCNC,NS3 Protease,0.681,Dengue
+Quercetin,CCNCO,Helicase,0.931,Dengue
+Chloroquine,CCOC(=O)C,Capsid Protein,0.887,Dengue
+Chloroquine,CCNC,Capsid Protein,0.582,Dengue
+Azithromycin,CC(C)CC,RNA-dependent RNA Polymerase,0.945,Dengue
+NITD008,CC(C)O,NS3 Protease,0.654,Dengue
+Suramin,COC,Capsid Protein,0.898,Dengue
+Ribavirin,CCN,NS3 Protease,0.554,Dengue
+Favipiravir,COC,NS3 Protease,0.877,Dengue
+Celgosivir,CCCO,NS3 Protease,0.871,Dengue
+NITD008,C1CCCCC1,NS5 Polymerase,0.954,Dengue
+Chloroquine,CCOC,Capsid Protein,0.809,Dengue
+Azithromycin,CCC,RNA-dependent RNA Polymerase,0.796,Dengue
+Suramin,CCNCO,NS3 Protease,0.96,Dengue
+Arbidol,COC,NS5 Polymerase,0.761,Dengue
+Favipiravir,CCNC,NS5 Polymerase,0.551,Dengue
+Curcumin,CCO,NS5 Polymerase,0.698,Dengue
+Sofosbuvir,CCCN,Capsid Protein,0.898,Dengue
+Azithromycin,CCOC,NS3 Protease,0.56,Dengue
+Ivermectin,CCC,Envelope Protein,0.748,Dengue
+Suramin,CCCN,Envelope Protein,0.607,Dengue
+Suramin,C1CCCCC1,RNA-dependent RNA Polymerase,0.706,Dengue
+Azithromycin,CCOC(=O)C,Helicase,0.801,Dengue
+Azithromycin,CNC,Capsid Protein,0.691,Dengue
+Interferon,CCN,Helicase,0.973,Dengue
+Chloroquine,COC,Helicase,0.934,Dengue
+Interferon,CCCO,Helicase,0.74,Dengue
+Curcumin,CC(C)CC,Capsid Protein,0.584,Dengue
+Chloroquine,CCCO,Helicase,0.871,Dengue
+Favipiravir,CCNCO,Helicase,0.717,Dengue
+Niclosamide,CNC,NS5 Polymerase,0.623,Dengue
+Niclosamide,CNC,Capsid Protein,0.6,Dengue
+Favipiravir,CCCN,NS3 Protease,0.56,Dengue
+Celgosivir,COC,Envelope Protein,0.905,Dengue
+Interferon,CCO,Capsid Protein,0.744,Dengue
+NITD008,COC,NS3 Protease,0.949,Dengue
+Ivermectin,CCO,RNA-dependent RNA Polymerase,0.584,Dengue
+Sofosbuvir,COC,Envelope Protein,0.606,Dengue
+Balapiravir,CCN,Helicase,0.954,Dengue
+Ribavirin,CCNCO,Envelope Protein,0.929,Dengue
+Balapiravir,CCOC(=O)C,Capsid Protein,0.791,Dengue
+Interferon,CCC,Envelope Protein,0.8,Dengue
+Interferon,CCOC,NS3 Protease,0.9,Dengue
+Interferon,CCO,RNA-dependent RNA Polymerase,0.722,Dengue
+Chloroquine,CCNC,RNA-dependent RNA Polymerase,0.78,Dengue
+Sofosbuvir,CCO,NS5 Polymerase,0.73,Dengue
+Niclosamide,C1CCCCC1,Helicase,0.597,Dengue
+Celgosivir,CCO,Helicase,0.913,Dengue
+Arbidol,CCOC(=O)C,RNA-dependent RNA Polymerase,0.824,Dengue
+Chloroquine,CCOC(=O)C,Envelope Protein,0.938,Dengue
+Curcumin,CC(C)O,NS5 Polymerase,0.757,Dengue
+Azithromycin,CCN(CC)CC,Envelope Protein,0.559,Dengue
+Curcumin,CCC,Capsid Protein,0.919,Dengue
+Niclosamide,C1CCCCC1,Envelope Protein,0.726,Dengue
+Suramin,CCOC,RNA-dependent RNA Polymerase,0.675,Dengue
+Ivermectin,CCOC(=O)C,Helicase,0.56,Dengue
+Balapiravir,CC(C)CC,NS5 Polymerase,0.875,Dengue
+Arbidol,CCNC,NS5 Polymerase,0.831,Dengue
+Azithromycin,CNC,Capsid Protein,0.608,Dengue
+Favipiravir,COC,NS5 Polymerase,0.88,Dengue
+Balapiravir,CCOC(=O)C,Envelope Protein,0.84,Dengue
+Quercetin,CCNCO,NS5 Polymerase,0.626,Dengue
+NITD008,CCN,Capsid Protein,0.947,Dengue
+Niclosamide,CCOC,NS5 Polymerase,0.805,Dengue
+Balapiravir,CCNCO,Helicase,0.754,Dengue
+Interferon,CC(C)O,Helicase,0.777,Dengue
+Suramin,CCO,Capsid Protein,0.679,Dengue
+NITD008,COC,NS5 Polymerase,0.838,Dengue
+Celgosivir,CNC,Envelope Protein,0.709,Dengue
+Chloroquine,CCOC(=O)C,RNA-dependent RNA Polymerase,0.952,Dengue
+Favipiravir,CCOC(=O)C,RNA-dependent RNA Polymerase,0.665,Dengue
+Azithromycin,CNC,NS5 Polymerase,0.829,Dengue
+Curcumin,CCNCO,NS3 Protease,0.563,Dengue
+Celgosivir,CCNCO,NS5 Polymerase,0.799,Dengue
+Curcumin,CC(C)O,Helicase,0.856,Dengue
+Favipiravir,CCN,NS3 Protease,0.83,Dengue
+Niclosamide,CCCO,NS3 Protease,0.883,Dengue
+Suramin,CCO,Helicase,0.801,Dengue
+Favipiravir,CCN(CC)CC,Helicase,0.792,Dengue
+Balapiravir,CCCO,Capsid Protein,0.639,Dengue
+Ribavirin,CCOC,Envelope Protein,0.617,Dengue
+Quercetin,CNC,Envelope Protein,0.876,Dengue
+Arbidol,CC(C)CC,Capsid Protein,0.672,Dengue
+Ivermectin,CCC,NS3 Protease,0.797,Dengue
+Celgosivir,CCN(CC)CC,Helicase,0.559,Dengue
+Chloroquine,CCNCO,NS3 Protease,0.858,Dengue
+Niclosamide,CCOC,RNA-dependent RNA Polymerase,0.873,Dengue
+Arbidol,CCO,NS5 Polymerase,0.746,Dengue
+Azithromycin,CNC,RNA-dependent RNA Polymerase,0.582,Dengue
+Curcumin,CCO,Capsid Protein,0.843,Dengue
+Azithromycin,CC(C)CC,NS3 Protease,0.574,Dengue
+Favipiravir,CC(C)O,Helicase,0.753,Dengue
+Favipiravir,CCOC(=O)C,NS5 Polymerase,0.775,Dengue
+Chloroquine,CCCN,NS3 Protease,0.886,Dengue
+Favipiravir,CNC,RNA-dependent RNA Polymerase,0.668,Dengue
+Interferon,CCOC,RNA-dependent RNA Polymerase,0.666,Dengue
+Sofosbuvir,COC,Helicase,0.844,Dengue
+Curcumin,CCNCO,Envelope Protein,0.743,Dengue
+Interferon,CCCN,RNA-dependent RNA Polymerase,0.759,Dengue
+Curcumin,CCOC,NS3 Protease,0.898,Dengue
+Azithromycin,CCN,Capsid Protein,0.876,Dengue
+Interferon,C1CCCCC1,Capsid Protein,0.754,Dengue
+Celgosivir,CCOC,Capsid Protein,0.609,Dengue
+Quercetin,COC,RNA-dependent RNA Polymerase,0.951,Dengue
+Azithromycin,CC(C)O,Envelope Protein,0.674,Dengue
+Ribavirin,CCN(CC)CC,NS5 Polymerase,0.98,Dengue
+Ivermectin,CNC,Capsid Protein,0.876,Dengue
+Quercetin,CCNCO,Helicase,0.633,Dengue
+Favipiravir,CCCO,Helicase,0.563,Dengue
+Favipiravir,CCCN,RNA-dependent RNA Polymerase,0.86,Dengue
+Ivermectin,CCCO,NS3 Protease,0.558,Dengue
+Balapiravir,C1CCCCC1,Capsid Protein,0.684,Dengue
+Favipiravir,CC(C)CC,Helicase,0.87,Dengue
+Chloroquine,CCCO,Capsid Protein,0.787,Dengue
+Sofosbuvir,CCCN,Envelope Protein,0.634,Dengue
+Suramin,CCO,RNA-dependent RNA Polymerase,0.792,Dengue
+Celgosivir,COC,Envelope Protein,0.91,Dengue
+Azithromycin,CCC,Capsid Protein,0.82,Dengue
+Sofosbuvir,CCCN,Capsid Protein,0.836,Dengue
+Suramin,CCO,Capsid Protein,0.736,Dengue
+Curcumin,CNC,Helicase,0.707,Dengue
+Ribavirin,CCOC(=O)C,RNA-dependent RNA Polymerase,0.81,Dengue
+Celgosivir,C1CCCCC1,NS5 Polymerase,0.805,Dengue
+Curcumin,CCCO,Capsid Protein,0.802,Dengue
+NITD008,C1CCCCC1,NS5 Polymerase,0.709,Dengue
+Ribavirin,CCNCO,Capsid Protein,0.627,Dengue
+Azithromycin,CCCN,Envelope Protein,0.717,Dengue
+Ivermectin,CCO,Envelope Protein,0.794,Dengue
+Niclosamide,CCCO,Envelope Protein,0.641,Dengue
+Quercetin,CCCN,Helicase,0.939,Dengue
+Favipiravir,C1CCCCC1,Envelope Protein,0.971,Dengue
+Chloroquine,CC(C)O,Capsid Protein,0.662,Dengue
+Curcumin,CC(C)O,NS5 Polymerase,0.553,Dengue
+Interferon,CCN(CC)CC,Capsid Protein,0.979,Dengue
+Interferon,CC(C)CC,Envelope Protein,0.941,Dengue
+Azithromycin,CCNC,NS3 Protease,0.978,Dengue
+Celgosivir,C1CCCCC1,Helicase,0.951,Dengue
+Suramin,CCN,RNA-dependent RNA Polymerase,0.619,Dengue
+Ivermectin,CCOC(=O)C,NS3 Protease,0.677,Dengue
+Balapiravir,CCCO,RNA-dependent RNA Polymerase,0.571,Dengue
+Ribavirin,CCNC,NS5 Polymerase,0.909,Dengue
+Celgosivir,CC(C)CC,Helicase,0.583,Dengue
+Interferon,CCCO,NS5 Polymerase,0.807,Dengue
+Chloroquine,CCO,NS3 Protease,0.655,Dengue
+Curcumin,COC,NS5 Polymerase,0.665,Dengue
+Niclosamide,CCNCO,RNA-dependent RNA Polymerase,0.887,Dengue
+Sofosbuvir,CCOC,Envelope Protein,0.723,Dengue
+Interferon,CCOC,NS5 Polymerase,0.913,Dengue
+Favipiravir,CCOC,NS5 Polymerase,0.941,Dengue
+Ivermectin,CCN(CC)CC,Envelope Protein,0.915,Dengue
+Interferon,CCNCO,Helicase,0.909,Dengue
+Balapiravir,CCO,Helicase,0.592,Dengue
+Azithromycin,CCOC,NS3 Protease,0.685,Dengue
+Chloroquine,CCCN,Helicase,0.679,Dengue
+Niclosamide,CCOC(=O)C,NS5 Polymerase,0.884,Dengue
+Sofosbuvir,CC(C)O,Envelope Protein,0.617,Dengue
+Ivermectin,COC,NS5 Polymerase,0.64,Dengue
+Arbidol,CC(C)CC,NS3 Protease,0.632,Dengue
+Interferon,COC,Helicase,0.794,Dengue
+Ivermectin,C1CCCCC1,Helicase,0.814,Dengue
+Ivermectin,CC(C)CC,Capsid Protein,0.788,Dengue
+Quercetin,CCCN,NS3 Protease,0.679,Dengue
+Curcumin,CCOC,Envelope Protein,0.666,Dengue
+Balapiravir,CCO,Helicase,0.593,Dengue
+Suramin,CCN(CC)CC,NS5 Polymerase,0.861,Dengue
+Niclosamide,C1CCCCC1,Envelope Protein,0.956,Dengue
+Niclosamide,CC(C)O,NS3 Protease,0.883,Dengue
+Ribavirin,CCCN,Envelope Protein,0.692,Dengue
+Quercetin,CCN(CC)CC,Capsid Protein,0.636,Dengue
+Suramin,C1CCCCC1,Helicase,0.911,Dengue
+Favipiravir,CCO,NS3 Protease,0.923,Dengue
+Ribavirin,CCN(CC)CC,Capsid Protein,0.766,Dengue
+Interferon,CNC,NS3 Protease,0.84,Dengue
+Chloroquine,CC(C)CC,Helicase,0.724,Dengue
+Arbidol,CCOC(=O)C,Capsid Protein,0.565,Dengue
+Favipiravir,CC(C)O,RNA-dependent RNA Polymerase,0.922,Dengue
+Sofosbuvir,C1CCCCC1,NS3 Protease,0.75,Dengue
+Curcumin,C1CCCCC1,NS3 Protease,0.646,Dengue
+Suramin,CCOC(=O)C,NS5 Polymerase,0.713,Dengue
+Ribavirin,CCC,Capsid Protein,0.943,Dengue
+Sofosbuvir,CCC,Capsid Protein,0.908,Dengue
+Celgosivir,CC(C)O,Capsid Protein,0.745,Dengue
+Suramin,COC,NS3 Protease,0.681,Dengue
+Celgosivir,CCN,Capsid Protein,0.8,Dengue
+Favipiravir,CCN,Capsid Protein,0.892,Dengue
+Ivermectin,C1CCCCC1,Helicase,0.662,Dengue
+Ribavirin,CCNC,Helicase,0.691,Dengue
+Celgosivir,CCCO,RNA-dependent RNA Polymerase,0.772,Dengue
+Ribavirin,CC(C)CC,NS3 Protease,0.859,Dengue
+Interferon,CCN,Capsid Protein,0.718,Dengue
+Suramin,CNC,NS5 Polymerase,0.801,Dengue
+Chloroquine,CC(C)O,Envelope Protein,0.759,Dengue
+Sofosbuvir,CC(C)CC,Helicase,0.586,Dengue
+Quercetin,CCCN,Helicase,0.686,Dengue
+Ribavirin,C1CCCCC1,Envelope Protein,0.946,Dengue
+Balapiravir,CC(C)O,Capsid Protein,0.734,Dengue
+NITD008,CCN(CC)CC,Capsid Protein,0.794,Dengue
+Ribavirin,CCCN,Helicase,0.778,Dengue
+Celgosivir,CCO,RNA-dependent RNA Polymerase,0.899,Dengue
+Chloroquine,CCOC,NS3 Protease,0.691,Dengue
+Favipiravir,CCN,NS5 Polymerase,0.81,Dengue
+Balapiravir,CC(C)CC,NS3 Protease,0.597,Dengue
+Balapiravir,CCCO,Helicase,0.754,Dengue
+Curcumin,CCN,Envelope Protein,0.912,Dengue
+Ribavirin,CCCN,NS5 Polymerase,0.839,Dengue
+Ivermectin,CCOC,NS3 Protease,0.557,Dengue
+Ribavirin,CCN,NS3 Protease,0.901,Dengue
+Sofosbuvir,CCN(CC)CC,RNA-dependent RNA Polymerase,0.743,Dengue
+Sofosbuvir,C1CCCCC1,Helicase,0.914,Dengue
+Celgosivir,CCOC,Helicase,0.659,Dengue
+Arbidol,COC,Envelope Protein,0.66,Dengue
+Arbidol,COC,RNA-dependent RNA Polymerase,0.662,Dengue
+Sofosbuvir,CNC,RNA-dependent RNA Polymerase,0.956,Dengue
+Curcumin,CCOC,Helicase,0.917,Dengue
+Curcumin,CCN(CC)CC,RNA-dependent RNA Polymerase,0.667,Dengue
+Quercetin,CCNC,Envelope Protein,0.761,Dengue
+Ribavirin,CCOC(=O)C,NS5 Polymerase,0.869,Dengue
+Sofosbuvir,CCOC(=O)C,Helicase,0.936,Dengue
+Ivermectin,CCCO,Envelope Protein,0.588,Dengue
+Niclosamide,COC,NS3 Protease,0.893,Dengue
+Ribavirin,CCOC,Helicase,0.65,Dengue
+Ribavirin,CCNC,Capsid Protein,0.753,Dengue
+Chloroquine,CCNC,Capsid Protein,0.759,Dengue
+Sofosbuvir,CCCO,NS3 Protease,0.923,Dengue
+Balapiravir,CCCN,Envelope Protein,0.554,Dengue
+Azithromycin,CCCN,RNA-dependent RNA Polymerase,0.808,Dengue
+Arbidol,CCN,Capsid Protein,0.924,Dengue
+Interferon,CCN(CC)CC,Envelope Protein,0.893,Dengue
+Ribavirin,CC(C)O,Envelope Protein,0.698,Dengue
+Azithromycin,C1CCCCC1,RNA-dependent RNA Polymerase,0.873,Dengue
+Celgosivir,CCO,RNA-dependent RNA Polymerase,0.885,Dengue
+Favipiravir,CC(C)CC,Envelope Protein,0.777,Dengue
+Niclosamide,CCN(CC)CC,Helicase,0.806,Dengue
+Arbidol,CCO,Envelope Protein,0.906,Dengue
+Chloroquine,CCC,NS3 Protease,0.748,Dengue
+Celgosivir,CCCN,NS5 Polymerase,0.634,Dengue
+Chloroquine,CCN(CC)CC,Capsid Protein,0.895,Dengue
+NITD008,CCNCO,Capsid Protein,0.731,Dengue
+NITD008,C1CCCCC1,NS3 Protease,0.654,Dengue
+Azithromycin,C1CCCCC1,Capsid Protein,0.625,Dengue
+Curcumin,CC(C)O,RNA-dependent RNA Polymerase,0.658,Dengue
+Ivermectin,CNC,Envelope Protein,0.58,Dengue
+Balapiravir,CC(C)O,NS5 Polymerase,0.864,Dengue
+Quercetin,CCOC(=O)C,NS5 Polymerase,0.768,Dengue
+Ivermectin,CCCO,Helicase,0.734,Dengue
+Suramin,CCC,Helicase,0.608,Dengue
+Interferon,CCN,NS5 Polymerase,0.943,Dengue
+Ivermectin,COC,NS5 Polymerase,0.583,Dengue
+NITD008,CC(C)O,RNA-dependent RNA Polymerase,0.889,Dengue
+Ivermectin,CCNCO,NS3 Protease,0.626,Dengue
+Ribavirin,CCN,NS5 Polymerase,0.679,Dengue
+Arbidol,CCNC,NS5 Polymerase,0.651,Dengue
+Celgosivir,CCCN,RNA-dependent RNA Polymerase,0.554,Dengue
+Celgosivir,CNC,Helicase,0.592,Dengue
+Chloroquine,CCNCO,Envelope Protein,0.809,Dengue
+Quercetin,CC(C)O,Capsid Protein,0.586,Dengue
+Favipiravir,CCN(CC)CC,NS3 Protease,0.839,Dengue
+Celgosivir,CCCN,NS5 Polymerase,0.779,Dengue
+Chloroquine,CC(C)CC,Helicase,0.75,Dengue
+Ribavirin,CCNCO,Capsid Protein,0.66,Dengue
+Celgosivir,CC(C)CC,NS5 Polymerase,0.743,Dengue
+Quercetin,CCOC(=O)C,Helicase,0.815,Dengue
+NITD008,CCC,NS5 Polymerase,0.575,Dengue
+Balapiravir,CC(C)CC,Envelope Protein,0.957,Dengue
+Arbidol,CCCN,Capsid Protein,0.81,Dengue
+Chloroquine,CCN,NS5 Polymerase,0.681,Dengue
+Chloroquine,CCO,RNA-dependent RNA Polymerase,0.552,Dengue
+Azithromycin,CCNCO,Envelope Protein,0.732,Dengue
+Arbidol,COC,NS3 Protease,0.942,Dengue
+Favipiravir,CCC,RNA-dependent RNA Polymerase,0.583,Dengue
+Arbidol,CCN,Helicase,0.867,Dengue
+Curcumin,CCCN,Helicase,0.596,Dengue
+Curcumin,CC(C)O,RNA-dependent RNA Polymerase,0.889,Dengue
+Curcumin,C1CCCCC1,RNA-dependent RNA Polymerase,0.878,Dengue
+Chloroquine,CC(C)CC,Helicase,0.742,Dengue
+Suramin,CCC,Capsid Protein,0.578,Dengue
+Sofosbuvir,COC,NS5 Polymerase,0.872,Dengue
+NITD008,CC(C)O,NS5 Polymerase,0.83,Dengue
+Interferon,CCOC,Capsid Protein,0.756,Dengue
+Chloroquine,CCOC(=O)C,Capsid Protein,0.868,Dengue
+Balapiravir,CCNCO,NS5 Polymerase,0.582,Dengue
+Interferon,CC(C)CC,RNA-dependent RNA Polymerase,0.678,Dengue
+Quercetin,CCCN,Helicase,0.916,Dengue
+Quercetin,CCNCO,RNA-dependent RNA Polymerase,0.885,Dengue
+Suramin,CCN,NS3 Protease,0.568,Dengue
+Suramin,CCO,NS3 Protease,0.629,Dengue
+Favipiravir,C1CCCCC1,RNA-dependent RNA Polymerase,0.974,Dengue
+Ribavirin,CC(C)O,NS3 Protease,0.758,Dengue
+Niclosamide,CCOC,Envelope Protein,0.808,Dengue
+Suramin,CC(C)O,Capsid Protein,0.595,Dengue
+Celgosivir,COC,Envelope Protein,0.645,Dengue
+Interferon,CCN(CC)CC,Envelope Protein,0.94,Dengue
+Interferon,CCCO,NS3 Protease,0.611,Dengue
+Ribavirin,CCO,RNA-dependent RNA Polymerase,0.642,Dengue
+Favipiravir,CCCN,NS3 Protease,0.954,Dengue
+Ivermectin,CC(C)O,Capsid Protein,0.599,Dengue
+Chloroquine,CC(C)O,NS3 Protease,0.732,Dengue
+Chloroquine,CCC,Envelope Protein,0.699,Dengue
+Curcumin,CC(C)O,Capsid Protein,0.729,Dengue
+Celgosivir,CCO,Capsid Protein,0.666,Dengue
+Suramin,CCN(CC)CC,NS5 Polymerase,0.733,Dengue
+Ribavirin,CCN,Envelope Protein,0.618,Dengue
+Quercetin,CCNCO,Capsid Protein,0.755,Dengue
+Ivermectin,C1CCCCC1,RNA-dependent RNA Polymerase,0.645,Dengue
+Azithromycin,CCO,RNA-dependent RNA Polymerase,0.864,Dengue
+Sofosbuvir,CCCN,NS3 Protease,0.705,Dengue
+Sofosbuvir,CCN(CC)CC,RNA-dependent RNA Polymerase,0.893,Dengue
+Quercetin,CCOC(=O)C,Envelope Protein,0.654,Dengue
+Celgosivir,CC(C)CC,Capsid Protein,0.599,Dengue
+Ivermectin,CCOC(=O)C,RNA-dependent RNA Polymerase,0.762,Dengue
+Favipiravir,CCN(CC)CC,Helicase,0.78,Dengue
+Arbidol,COC,NS3 Protease,0.668,Dengue
+Ivermectin,CC(C)CC,NS5 Polymerase,0.702,Dengue
+Balapiravir,CCC,Capsid Protein,0.609,Dengue
+Suramin,C1CCCCC1,RNA-dependent RNA Polymerase,0.924,Dengue
+Balapiravir,CCC,Helicase,0.554,Dengue
+Azithromycin,CC(C)O,RNA-dependent RNA Polymerase,0.872,Dengue
+Chloroquine,CCCO,RNA-dependent RNA Polymerase,0.83,Dengue
+Niclosamide,CCNCO,RNA-dependent RNA Polymerase,0.846,Dengue
+Arbidol,CCO,NS3 Protease,0.689,Dengue
+Balapiravir,CCOC(=O)C,RNA-dependent RNA Polymerase,0.553,Dengue
+Ribavirin,CCCO,RNA-dependent RNA Polymerase,0.577,Dengue
+Ribavirin,CCN(CC)CC,Capsid Protein,0.568,Dengue
+Celgosivir,CCOC,NS3 Protease,0.944,Dengue
+Balapiravir,CCN(CC)CC,Helicase,0.696,Dengue
+Arbidol,CC(C)O,Envelope Protein,0.802,Dengue
+NITD008,C1CCCCC1,NS5 Polymerase,0.566,Dengue
+Ribavirin,COC,Capsid Protein,0.844,Dengue
+Quercetin,CCN,NS3 Protease,0.593,Dengue
+Suramin,CC(C)CC,Envelope Protein,0.738,Dengue
+Arbidol,CCC,NS3 Protease,0.574,Dengue
+Arbidol,CNC,NS3 Protease,0.63,Dengue
+Azithromycin,CC(C)O,Helicase,0.565,Dengue
+Ribavirin,CCO,Capsid Protein,0.854,Dengue
+Arbidol,CCOC,RNA-dependent RNA Polymerase,0.605,Dengue
+Interferon,CCO,NS3 Protease,0.554,Dengue
+Niclosamide,C1CCCCC1,Envelope Protein,0.699,Dengue
+Azithromycin,CNC,RNA-dependent RNA Polymerase,0.86,Dengue
+Chloroquine,CCOC(=O)C,Helicase,0.55,Dengue
+Azithromycin,CCCO,Helicase,0.652,Dengue
+Ivermectin,CC(C)O,NS5 Polymerase,0.563,Dengue
+Ribavirin,CCNC,Capsid Protein,0.81,Dengue
+Celgosivir,CCN,Capsid Protein,0.928,Dengue
+Curcumin,COC,Capsid Protein,0.83,Dengue
+Curcumin,C1CCCCC1,NS5 Polymerase,0.767,Dengue
+Favipiravir,COC,Envelope Protein,0.8,Dengue
+Ivermectin,CCOC,Helicase,0.842,Dengue
+Ribavirin,CCC,Capsid Protein,0.943,Dengue
+Balapiravir,CCCN,Capsid Protein,0.85,Dengue
+Niclosamide,CCOC,Capsid Protein,0.689,Dengue
+Arbidol,CNC,Capsid Protein,0.65,Dengue
+Favipiravir,C1CCCCC1,NS3 Protease,0.662,Dengue
+Niclosamide,CC(C)CC,NS5 Polymerase,0.907,Dengue
+Arbidol,CCNC,NS3 Protease,0.869,Dengue
+NITD008,CCNCO,Helicase,0.769,Dengue
+Sofosbuvir,CCNC,NS5 Polymerase,0.64,Dengue
+Ivermectin,COC,NS5 Polymerase,0.962,Dengue
+Arbidol,CC(C)O,NS3 Protease,0.956,Dengue
+NITD008,CC(C)O,NS3 Protease,0.928,Dengue
+Azithromycin,CCN(CC)CC,Helicase,0.82,Dengue
+Interferon,COC,NS3 Protease,0.897,Dengue
+Niclosamide,CCN,Capsid Protein,0.64,Dengue
+Chloroquine,CCNCO,Envelope Protein,0.805,Dengue
+Quercetin,CCCO,NS3 Protease,0.668,Dengue
+Azithromycin,CCOC,Capsid Protein,0.719,Dengue
+Chloroquine,CCC,Capsid Protein,0.757,Dengue
+Chloroquine,CCNCO,NS3 Protease,0.769,Dengue
+Curcumin,CCCN,NS3 Protease,0.98,Dengue
+Celgosivir,CNC,NS3 Protease,0.639,Dengue
+Arbidol,CCOC,NS3 Protease,0.925,Dengue
+Interferon,CCC,Capsid Protein,0.612,Dengue
+NITD008,CCNC,Helicase,0.705,Dengue
+Niclosamide,CCNC,Helicase,0.964,Dengue
+Arbidol,CCNCO,NS3 Protease,0.899,Dengue
+Ribavirin,CCN,Helicase,0.973,Dengue
+Arbidol,CCNC,NS3 Protease,0.972,Dengue
+Quercetin,CCN(CC)CC,NS5 Polymerase,0.975,Dengue
+Sofosbuvir,CCC,RNA-dependent RNA Polymerase,0.669,Dengue
+Azithromycin,CCOC,Capsid Protein,0.603,Dengue
+Favipiravir,CCOC(=O)C,Capsid Protein,0.818,Dengue
+Suramin,CCNCO,Capsid Protein,0.727,Dengue
+Ribavirin,CCCO,NS5 Polymerase,0.849,Dengue
+NITD008,COC,Envelope Protein,0.677,Dengue
+Suramin,CCO,Envelope Protein,0.819,Dengue
+Suramin,CNC,Helicase,0.769,Dengue
+Suramin,CNC,RNA-dependent RNA Polymerase,0.724,Dengue
+Favipiravir,CCC,Helicase,0.839,Dengue
+Arbidol,CNC,NS3 Protease,0.755,Dengue
+Celgosivir,CNC,Helicase,0.6,Dengue
+Quercetin,CCCO,NS3 Protease,0.954,Dengue
+NITD008,CCC,Capsid Protein,0.758,Dengue
+Celgosivir,CCN,Helicase,0.702,Dengue
+Celgosivir,C1CCCCC1,NS5 Polymerase,0.639,Dengue
+Suramin,C1CCCCC1,RNA-dependent RNA Polymerase,0.658,Dengue
+Suramin,COC,Envelope Protein,0.792,Dengue
+Balapiravir,CCC,Helicase,0.835,Dengue
+Ivermectin,CC(C)O,NS3 Protease,0.635,Dengue
+Ribavirin,CCC,Envelope Protein,0.869,Dengue
+Niclosamide,CCNCO,RNA-dependent RNA Polymerase,0.89,Dengue
+Celgosivir,CCCO,RNA-dependent RNA Polymerase,0.836,Dengue
+Niclosamide,CC(C)O,Capsid Protein,0.968,Dengue
+Favipiravir,CCCN,Capsid Protein,0.686,Dengue
+Sofosbuvir,CCO,Envelope Protein,0.793,Dengue
+Curcumin,CCNCO,Helicase,0.92,Dengue
+Chloroquine,CC(C)CC,NS5 Polymerase,0.885,Dengue
+Azithromycin,C1CCCCC1,Capsid Protein,0.832,Dengue
+Sofosbuvir,CCN(CC)CC,Helicase,0.749,Dengue
+NITD008,CCNC,RNA-dependent RNA Polymerase,0.756,Dengue
+Suramin,CCC,NS3 Protease,0.659,Dengue
+Sofosbuvir,CCCN,NS3 Protease,0.773,Dengue
+Niclosamide,C1CCCCC1,Envelope Protein,0.733,Dengue
+Interferon,CCN,Helicase,0.711,Dengue
+Favipiravir,CCN(CC)CC,RNA-dependent RNA Polymerase,0.761,Dengue
+Azithromycin,CCN,RNA-dependent RNA Polymerase,0.799,Dengue
+Sofosbuvir,COC,NS3 Protease,0.791,Dengue
+Ribavirin,CCO,Capsid Protein,0.861,Dengue
+Quercetin,CCO,Envelope Protein,0.811,Dengue
+Curcumin,CCOC,NS3 Protease,0.554,Dengue
+Interferon,CNC,Capsid Protein,0.604,Dengue
+Curcumin,CCNCO,NS5 Polymerase,0.677,Dengue
+Suramin,CCNCO,RNA-dependent RNA Polymerase,0.839,Dengue
+Ribavirin,CCC,NS3 Protease,0.696,Dengue
+Curcumin,C1CCCCC1,Envelope Protein,0.968,Dengue
+Quercetin,CCOC,Capsid Protein,0.706,Dengue
+Sofosbuvir,CCCN,NS5 Polymerase,0.755,Dengue
+Quercetin,CCN(CC)CC,RNA-dependent RNA Polymerase,0.603,Dengue
+Quercetin,CCO,Envelope Protein,0.747,Dengue
+NITD008,CCO,NS3 Protease,0.727,Dengue
+Chloroquine,CCCO,NS5 Polymerase,0.631,Dengue
+Niclosamide,CCOC(=O)C,Envelope Protein,0.886,Dengue
+Suramin,CNC,RNA-dependent RNA Polymerase,0.884,Dengue
+Quercetin,CCNCO,RNA-dependent RNA Polymerase,0.786,Dengue
+Ivermectin,CCO,NS3 Protease,0.793,Dengue
+Celgosivir,C1CCCCC1,NS3 Protease,0.673,Dengue
+NITD008,CC(C)O,Helicase,0.939,Dengue
+Interferon,CCO,NS5 Polymerase,0.563,Dengue
+Quercetin,CNC,Capsid Protein,0.616,Dengue
+Suramin,CC(C)CC,Envelope Protein,0.868,Dengue
+Ivermectin,C1CCCCC1,Capsid Protein,0.839,Dengue
+Curcumin,CCNCO,NS3 Protease,0.592,Dengue
+Niclosamide,CNC,Envelope Protein,0.946,Dengue
+Sofosbuvir,CCOC,NS5 Polymerase,0.731,Dengue
+Balapiravir,CCCO,Envelope Protein,0.802,Dengue
+Favipiravir,COC,Capsid Protein,0.681,Dengue
+Chloroquine,CCNCO,NS5 Polymerase,0.59,Dengue
+NITD008,CC(C)CC,Capsid Protein,0.844,Dengue
+Azithromycin,CCN(CC)CC,NS5 Polymerase,0.803,Dengue
+Quercetin,CCOC(=O)C,Envelope Protein,0.801,Dengue
+Arbidol,CCCN,Envelope Protein,0.721,Dengue
+Quercetin,CCOC(=O)C,RNA-dependent RNA Polymerase,0.888,Dengue
+Azithromycin,CCCO,Capsid Protein,0.795,Dengue
+Sofosbuvir,CCOC,Helicase,0.75,Dengue
+Azithromycin,C1CCCCC1,Helicase,0.898,Dengue
+Niclosamide,CCN,NS3 Protease,0.942,Dengue
+Ivermectin,CCNCO,Helicase,0.866,Dengue
+Quercetin,CCC,Capsid Protein,0.703,Dengue
+Niclosamide,CCC,Capsid Protein,0.605,Dengue
+Favipiravir,CCNC,Capsid Protein,0.945,Dengue
+Interferon,CCN,NS5 Polymerase,0.634,Dengue
+Niclosamide,CCNCO,Envelope Protein,0.68,Dengue
+Ivermectin,CCO,Helicase,0.601,Dengue
+Ribavirin,CCNC,NS3 Protease,0.949,Dengue
+NITD008,CNC,Envelope Protein,0.97,Dengue
+Favipiravir,CCO,Helicase,0.73,Dengue
+Arbidol,CCN(CC)CC,Capsid Protein,0.811,Dengue
+Favipiravir,CCOC,Helicase,0.973,Dengue
+Ribavirin,CCO,Envelope Protein,0.898,Dengue
+Interferon,CCOC,RNA-dependent RNA Polymerase,0.765,Dengue
+NITD008,CCN(CC)CC,RNA-dependent RNA Polymerase,0.557,Dengue
+Niclosamide,CCC,NS5 Polymerase,0.78,Dengue
+Celgosivir,CCOC,Capsid Protein,0.628,Dengue
+Curcumin,C1CCCCC1,Envelope Protein,0.838,Dengue
+NITD008,CCN,Capsid Protein,0.673,Dengue
+NITD008,COC,Capsid Protein,0.947,Dengue
+Niclosamide,CCOC(=O)C,RNA-dependent RNA Polymerase,0.916,Dengue
+Curcumin,CC(C)O,Helicase,0.763,Dengue
+Balapiravir,C1CCCCC1,Helicase,0.719,Dengue
+Ribavirin,CCNCO,NS3 Protease,0.898,Dengue
+Celgosivir,C1CCCCC1,NS5 Polymerase,0.682,Dengue
+Balapiravir,CCOC(=O)C,Capsid Protein,0.569,Dengue
+Ribavirin,CCC,NS5 Polymerase,0.979,Dengue
+NITD008,C1CCCCC1,NS5 Polymerase,0.71,Dengue
+Ivermectin,CC(C)CC,Helicase,0.78,Dengue
+Quercetin,CNC,Envelope Protein,0.759,Dengue
+Curcumin,CC(C)O,NS5 Polymerase,0.967,Dengue
+Interferon,CCCN,Helicase,0.695,Dengue
+Interferon,CCNC,Helicase,0.66,Dengue
+Curcumin,CCN(CC)CC,NS3 Protease,0.713,Dengue
+Curcumin,CCNC,NS3 Protease,0.744,Dengue
+Arbidol,CCCN,Capsid Protein,0.703,Dengue
+NITD008,C1CCCCC1,Capsid Protein,0.756,Dengue
+Curcumin,CCNC,NS5 Polymerase,0.866,Dengue
+Ribavirin,COC,NS3 Protease,0.883,Dengue
+Sofosbuvir,CCCO,NS5 Polymerase,0.618,Dengue
+Favipiravir,CC(C)O,Envelope Protein,0.761,Dengue
+Quercetin,CCN(CC)CC,RNA-dependent RNA Polymerase,0.695,Dengue
+Ribavirin,CCNCO,Helicase,0.879,Dengue
+Celgosivir,CC(C)O,Envelope Protein,0.883,Dengue
+Curcumin,CCN,Envelope Protein,0.826,Dengue
+Quercetin,CCNCO,Envelope Protein,0.642,Dengue
+Ivermectin,CNC,Capsid Protein,0.967,Dengue
+Azithromycin,CCO,Capsid Protein,0.794,Dengue
+Sofosbuvir,CCNCO,RNA-dependent RNA Polymerase,0.643,Dengue
+Sofosbuvir,CCOC,NS5 Polymerase,0.799,Dengue
+Favipiravir,CCN,NS5 Polymerase,0.752,Dengue
+Interferon,CCCO,Envelope Protein,0.626,Dengue
+Quercetin,CCOC(=O)C,NS5 Polymerase,0.865,Dengue
+Sofosbuvir,COC,Helicase,0.757,Dengue
+Ivermectin,C1CCCCC1,RNA-dependent RNA Polymerase,0.598,Dengue
+Interferon,CCOC,Envelope Protein,0.98,Dengue
+Azithromycin,CCNCO,RNA-dependent RNA Polymerase,0.972,Dengue
+Sofosbuvir,C1CCCCC1,NS3 Protease,0.845,Dengue
+Arbidol,CCC,NS5 Polymerase,0.727,Dengue
+Suramin,C1CCCCC1,RNA-dependent RNA Polymerase,0.744,Dengue
+Suramin,C1CCCCC1,Helicase,0.85,Dengue
+Curcumin,CCN,Envelope Protein,0.924,Dengue
+Azithromycin,COC,RNA-dependent RNA Polymerase,0.639,Dengue
+Quercetin,CNC,NS3 Protease,0.71,Dengue
+Celgosivir,CNC,Envelope Protein,0.823,Dengue
+NITD008,CCCO,NS3 Protease,0.653,Dengue
+NITD008,CC(C)CC,NS3 Protease,0.954,Dengue
+Quercetin,CNC,NS5 Polymerase,0.865,Dengue
+Arbidol,CC(C)CC,NS3 Protease,0.704,Dengue
+Balapiravir,CCNC,RNA-dependent RNA Polymerase,0.622,Dengue
+Quercetin,CCOC(=O)C,NS3 Protease,0.862,Dengue
+Suramin,C1CCCCC1,Capsid Protein,0.93,Dengue
+Ivermectin,CCO,Helicase,0.842,Dengue
+Sofosbuvir,CCCN,Helicase,0.817,Dengue
+Celgosivir,CCC,Capsid Protein,0.959,Dengue
+Favipiravir,CCOC,RNA-dependent RNA Polymerase,0.76,Dengue
+Favipiravir,COC,NS3 Protease,0.621,Dengue
+Sofosbuvir,CCNCO,NS5 Polymerase,0.556,Dengue
+Interferon,COC,NS3 Protease,0.588,Dengue
+Celgosivir,CCN,Helicase,0.551,Dengue
+Arbidol,CCN,Capsid Protein,0.693,Dengue
+Quercetin,CCN,Helicase,0.72,Dengue
+Azithromycin,CCOC,NS5 Polymerase,0.694,Dengue
+Quercetin,CCOC(=O)C,NS3 Protease,0.924,Dengue
+Favipiravir,CCCO,NS5 Polymerase,0.572,Dengue
+Balapiravir,CCN,Envelope Protein,0.627,Dengue
+Balapiravir,CCCO,Envelope Protein,0.935,Dengue
+Arbidol,CCOC(=O)C,RNA-dependent RNA Polymerase,0.855,Dengue
+Curcumin,CCCN,Helicase,0.855,Dengue
+Sofosbuvir,CCOC(=O)C,RNA-dependent RNA Polymerase,0.794,Dengue
+Balapiravir,CCOC(=O)C,Envelope Protein,0.875,Dengue
+Interferon,CCC,NS3 Protease,0.839,Dengue
+Niclosamide,COC,NS5 Polymerase,0.557,Dengue
+Ribavirin,CNC,RNA-dependent RNA Polymerase,0.837,Dengue
+Balapiravir,C1CCCCC1,RNA-dependent RNA Polymerase,0.607,Dengue
+Interferon,CCOC(=O)C,Helicase,0.846,Dengue
+Suramin,CCCN,Capsid Protein,0.67,Dengue
+Chloroquine,CCCO,NS3 Protease,0.952,Dengue
+Chloroquine,CC(C)CC,NS3 Protease,0.596,Dengue
+Curcumin,CCO,Capsid Protein,0.906,Dengue
+Balapiravir,CCNCO,NS5 Polymerase,0.975,Dengue
+Quercetin,CCC,NS5 Polymerase,0.826,Dengue
+Balapiravir,CCOC,Envelope Protein,0.918,Dengue
+Favipiravir,C1CCCCC1,NS3 Protease,0.61,Dengue
+Suramin,COC,NS3 Protease,0.556,Dengue
+Ivermectin,CCN(CC)CC,Capsid Protein,0.919,Dengue
+Chloroquine,CNC,Capsid Protein,0.905,Dengue
+Favipiravir,CC(C)CC,RNA-dependent RNA Polymerase,0.597,Dengue
+Niclosamide,CCN,NS5 Polymerase,0.717,Dengue
+Chloroquine,CCN(CC)CC,Envelope Protein,0.891,Dengue
+Sofosbuvir,CCNC,Capsid Protein,0.595,Dengue
+Balapiravir,CCC,Capsid Protein,0.977,Dengue
+Quercetin,CC(C)O,RNA-dependent RNA Polymerase,0.859,Dengue
+Quercetin,CCO,RNA-dependent RNA Polymerase,0.698,Dengue
+Favipiravir,CCC,NS5 Polymerase,0.913,Dengue
+Celgosivir,CC(C)CC,Helicase,0.666,Dengue
+Niclosamide,CC(C)O,RNA-dependent RNA Polymerase,0.892,Dengue
+Ribavirin,CCCO,NS5 Polymerase,0.871,Dengue
+Interferon,CCCO,Helicase,0.662,Dengue
+Suramin,CCO,NS5 Polymerase,0.601,Dengue
+Azithromycin,COC,Envelope Protein,0.865,Dengue
+Interferon,CCCN,NS3 Protease,0.839,Dengue
+Quercetin,CCCO,NS3 Protease,0.964,Dengue
+Interferon,CC(C)CC,NS3 Protease,0.761,Dengue
+Balapiravir,CCNC,RNA-dependent RNA Polymerase,0.772,Dengue
+Azithromycin,CCCN,NS3 Protease,0.709,Dengue
+Chloroquine,CCNC,Capsid Protein,0.839,Dengue
+Niclosamide,CCCO,RNA-dependent RNA Polymerase,0.641,Dengue
+Celgosivir,CCCN,Helicase,0.905,Dengue
+Niclosamide,CCO,NS3 Protease,0.84,Dengue
+Balapiravir,COC,NS5 Polymerase,0.623,Dengue
+Ivermectin,CCO,Capsid Protein,0.689,Dengue
+Balapiravir,CCNC,Helicase,0.822,Dengue
+Ivermectin,C1CCCCC1,Capsid Protein,0.875,Dengue
+Suramin,C1CCCCC1,NS3 Protease,0.887,Dengue
+Suramin,CNC,RNA-dependent RNA Polymerase,0.895,Dengue
+Interferon,CCOC(=O)C,RNA-dependent RNA Polymerase,0.661,Dengue
+Niclosamide,C1CCCCC1,RNA-dependent RNA Polymerase,0.916,Dengue
+Balapiravir,CCCO,Capsid Protein,0.599,Dengue
+Ivermectin,CCNC,Capsid Protein,0.627,Dengue
+Suramin,CCC,NS5 Polymerase,0.875,Dengue
+Suramin,CCOC,Envelope Protein,0.949,Dengue
+NITD008,CCOC,RNA-dependent RNA Polymerase,0.964,Dengue
+Quercetin,CCOC,NS3 Protease,0.663,Dengue
+Ribavirin,CCO,Helicase,0.659,Dengue
+Favipiravir,CCN,RNA-dependent RNA Polymerase,0.754,Dengue
+Curcumin,CNC,RNA-dependent RNA Polymerase,0.726,Dengue
+Quercetin,CCCN,NS3 Protease,0.926,Dengue
+Ivermectin,CCNC,RNA-dependent RNA Polymerase,0.898,Dengue
+Sofosbuvir,CCN(CC)CC,RNA-dependent RNA Polymerase,0.861,Dengue
+Arbidol,CCNCO,Capsid Protein,0.869,Dengue
+Ribavirin,C1CCCCC1,Capsid Protein,0.825,Dengue
+Suramin,CCOC,Envelope Protein,0.594,Dengue
+Azithromycin,CC(C)O,NS3 Protease,0.69,Dengue
+Celgosivir,CCOC,Helicase,0.766,Dengue
+Curcumin,CCO,NS5 Polymerase,0.916,Dengue
+Balapiravir,CCCO,Capsid Protein,0.702,Dengue
+Celgosivir,CC(C)CC,RNA-dependent RNA Polymerase,0.703,Dengue
+Niclosamide,CC(C)CC,Capsid Protein,0.614,Dengue
+Sofosbuvir,CCN,Helicase,0.797,Dengue
+Curcumin,CCOC(=O)C,RNA-dependent RNA Polymerase,0.852,Dengue
+Balapiravir,CCCO,Capsid Protein,0.896,Dengue
+Azithromycin,CCC,Envelope Protein,0.62,Dengue
+Favipiravir,CCN(CC)CC,Helicase,0.573,Dengue
+NITD008,CCCO,Capsid Protein,0.586,Dengue
+Celgosivir,CC(C)O,Capsid Protein,0.803,Dengue
+Azithromycin,CCO,Capsid Protein,0.783,Dengue
+Interferon,CCCN,RNA-dependent RNA Polymerase,0.974,Dengue
+Sofosbuvir,CC(C)CC,Helicase,0.752,Dengue
+Quercetin,COC,NS3 Protease,0.646,Dengue
+Ribavirin,CCCO,Helicase,0.746,Dengue
+Interferon,CCNCO,Envelope Protein,0.614,Dengue
+Azithromycin,C1CCCCC1,RNA-dependent RNA Polymerase,0.798,Dengue
+Quercetin,CCNCO,Envelope Protein,0.898,Dengue
+Arbidol,COC,Envelope Protein,0.774,Dengue
+Azithromycin,CCCN,NS5 Polymerase,0.776,Dengue
+Favipiravir,CCN(CC)CC,NS3 Protease,0.631,Dengue
+Curcumin,CCC,RNA-dependent RNA Polymerase,0.589,Dengue
+Ivermectin,CNC,Envelope Protein,0.668,Dengue
+NITD008,COC,NS5 Polymerase,0.89,Dengue
+Favipiravir,CCN,Envelope Protein,0.718,Dengue
+Balapiravir,CC(C)CC,RNA-dependent RNA Polymerase,0.682,Dengue
+Azithromycin,CCN(CC)CC,Capsid Protein,0.863,Dengue
+Quercetin,CCCO,NS3 Protease,0.661,Dengue
+Balapiravir,CC(C)O,NS3 Protease,0.855,Dengue
+Interferon,CNC,Helicase,0.657,Dengue
+Interferon,COC,RNA-dependent RNA Polymerase,0.737,Dengue
+Ribavirin,CCCO,RNA-dependent RNA Polymerase,0.805,Dengue
+Arbidol,CCO,Helicase,0.643,Dengue
+Ivermectin,CCOC,Helicase,0.641,Dengue
+NITD008,CCNC,NS3 Protease,0.928,Dengue
+Suramin,CCNCO,NS5 Polymerase,0.646,Dengue
+Ribavirin,CCOC(=O)C,RNA-dependent RNA Polymerase,0.568,Dengue
+Ribavirin,CNC,Helicase,0.966,Dengue
+Niclosamide,COC,NS3 Protease,0.899,Dengue
+Interferon,CC(C)CC,NS3 Protease,0.566,Dengue
+Curcumin,CCCN,NS5 Polymerase,0.972,Dengue
+Quercetin,CC(C)O,RNA-dependent RNA Polymerase,0.953,Dengue
+NITD008,CCCN,Envelope Protein,0.639,Dengue
+Azithromycin,CCO,NS5 Polymerase,0.798,Dengue
+Quercetin,COC,Capsid Protein,0.574,Dengue
+Sofosbuvir,COC,Capsid Protein,0.801,Dengue
+Niclosamide,CCCN,Capsid Protein,0.558,Dengue
+Niclosamide,COC,Helicase,0.899,Dengue
+Azithromycin,CCN(CC)CC,Capsid Protein,0.825,Dengue
+Favipiravir,CCOC,NS5 Polymerase,0.974,Dengue
+Celgosivir,CNC,NS3 Protease,0.692,Dengue
+Ribavirin,CC(C)O,NS3 Protease,0.762,Dengue
+Azithromycin,C1CCCCC1,Capsid Protein,0.843,Dengue
+Curcumin,CCCN,Envelope Protein,0.838,Dengue
+Favipiravir,COC,Envelope Protein,0.766,Dengue
+Favipiravir,CCOC(=O)C,Capsid Protein,0.765,Dengue
+Quercetin,CCO,NS5 Polymerase,0.833,Dengue
+Niclosamide,CCC,Capsid Protein,0.917,Dengue
+Arbidol,C1CCCCC1,Capsid Protein,0.744,Dengue
+Favipiravir,CCOC,NS5 Polymerase,0.801,Dengue
+Interferon,CCN,NS5 Polymerase,0.861,Dengue
+Balapiravir,CC(C)O,Helicase,0.977,Dengue
+Sofosbuvir,CCOC(=O)C,Capsid Protein,0.673,Dengue
+Niclosamide,CCCO,NS5 Polymerase,0.571,Dengue
+Ribavirin,CCOC,NS3 Protease,0.628,Dengue
+Arbidol,CCN(CC)CC,NS3 Protease,0.81,Dengue
+NITD008,CCCN,NS3 Protease,0.831,Dengue
+Niclosamide,CNC,Capsid Protein,0.872,Dengue
+NITD008,CCO,Envelope Protein,0.879,Dengue
+Curcumin,CCNC,Helicase,0.645,Dengue
+Ribavirin,CCNC,Envelope Protein,0.907,Dengue
+NITD008,CCNCO,NS5 Polymerase,0.88,Dengue
+Azithromycin,CCC,Capsid Protein,0.717,Dengue
+Ribavirin,CCN,NS5 Polymerase,0.671,Dengue
+Suramin,CCCN,Envelope Protein,0.728,Dengue
+Chloroquine,CC(C)CC,Envelope Protein,0.591,Dengue
+Favipiravir,CCC,RNA-dependent RNA Polymerase,0.595,Dengue
+Interferon,CCNC,NS5 Polymerase,0.699,Dengue
+Curcumin,CCCO,NS3 Protease,0.862,Dengue
+Ribavirin,CCN,Capsid Protein,0.554,Dengue
+NITD008,CCNC,NS3 Protease,0.638,Dengue
+Ribavirin,CCOC(=O)C,Helicase,0.763,Dengue
+Chloroquine,CNC,Capsid Protein,0.586,Dengue
+Curcumin,CCN(CC)CC,NS3 Protease,0.601,Dengue
+Quercetin,CC(C)CC,Capsid Protein,0.788,Dengue
+Suramin,CNC,NS5 Polymerase,0.694,Dengue
+Arbidol,CCNC,Helicase,0.937,Dengue
+Celgosivir,CC(C)O,NS3 Protease,0.783,Dengue
+NITD008,CCOC(=O)C,Capsid Protein,0.858,Dengue
+NITD008,CCOC,Helicase,0.689,Dengue
+Chloroquine,CC(C)O,Envelope Protein,0.574,Dengue
+NITD008,CCOC(=O)C,Capsid Protein,0.878,Dengue
+Arbidol,CCCO,RNA-dependent RNA Polymerase,0.761,Dengue
+Curcumin,CCCO,Capsid Protein,0.895,Dengue
+Ribavirin,CNC,NS3 Protease,0.743,Dengue
+Favipiravir,CCN,Capsid Protein,0.641,Dengue
+Celgosivir,CCNCO,Envelope Protein,0.731,Dengue
+NITD008,CNC,NS5 Polymerase,0.551,Dengue
+NITD008,CCCN,Helicase,0.839,Dengue
+Balapiravir,CC(C)O,Helicase,0.628,Dengue
+Niclosamide,CCOC,NS3 Protease,0.826,Dengue
+NITD008,COC,Helicase,0.896,Dengue
+Ivermectin,CCCO,Helicase,0.799,Dengue
+Balapiravir,CCCN,Capsid Protein,0.656,Dengue
+Suramin,CCN,Capsid Protein,0.633,Dengue
+NITD008,CC(C)CC,Capsid Protein,0.576,Dengue
+Ivermectin,CCCO,Envelope Protein,0.628,Dengue
+Niclosamide,CCOC(=O)C,NS5 Polymerase,0.578,Dengue
+Balapiravir,C1CCCCC1,NS5 Polymerase,0.883,Dengue
+Celgosivir,CCN(CC)CC,Capsid Protein,0.567,Dengue
+Quercetin,CCOC,Helicase,0.66,Dengue
+Curcumin,CC(C)CC,Envelope Protein,0.799,Dengue
+Suramin,CCNCO,Capsid Protein,0.557,Dengue
+NITD008,CCC,Capsid Protein,0.804,Dengue
+NITD008,C1CCCCC1,Envelope Protein,0.89,Dengue
+Curcumin,C1CCCCC1,Capsid Protein,0.558,Dengue
+Arbidol,CCOC,Helicase,0.556,Dengue
+Celgosivir,COC,Envelope Protein,0.855,Dengue
+Favipiravir,CCC,NS3 Protease,0.792,Dengue
+Favipiravir,CCNC,NS5 Polymerase,0.951,Dengue
+Ivermectin,CCCO,RNA-dependent RNA Polymerase,0.885,Dengue
+Interferon,CCOC,Envelope Protein,0.675,Dengue
+Niclosamide,CC(C)CC,Capsid Protein,0.616,Dengue
+Chloroquine,CCOC,Envelope Protein,0.588,Dengue
+Sofosbuvir,CCO,Capsid Protein,0.604,Dengue
+Chloroquine,CCOC(=O)C,RNA-dependent RNA Polymerase,0.971,Dengue
+Azithromycin,COC,RNA-dependent RNA Polymerase,0.735,Dengue
+NITD008,CC(C)O,Envelope Protein,0.785,Dengue
+Arbidol,CCC,Helicase,0.758,Dengue
+Ivermectin,CCOC,NS5 Polymerase,0.824,Dengue
+Interferon,CNC,Helicase,0.642,Dengue
+Sofosbuvir,COC,Capsid Protein,0.925,Dengue
+Ivermectin,CCN,RNA-dependent RNA Polymerase,0.676,Dengue
+Ribavirin,CCOC,Helicase,0.763,Dengue
+Arbidol,CCCO,NS3 Protease,0.941,Dengue
+Ribavirin,CCOC,RNA-dependent RNA Polymerase,0.877,Dengue
+Ivermectin,CCNCO,Helicase,0.652,Dengue
+Curcumin,CC(C)O,NS5 Polymerase,0.724,Dengue
+Celgosivir,CCOC(=O)C,RNA-dependent RNA Polymerase,0.705,Dengue
+Sofosbuvir,CCOC,Helicase,0.615,Dengue
+Arbidol,CCO,Capsid Protein,0.682,Dengue
+Azithromycin,CCOC,NS5 Polymerase,0.939,Dengue
+Suramin,CCC,RNA-dependent RNA Polymerase,0.92,Dengue
+Azithromycin,CC(C)CC,RNA-dependent RNA Polymerase,0.72,Dengue
+Balapiravir,CCCN,NS5 Polymerase,0.964,Dengue
+Ribavirin,CNC,Helicase,0.793,Dengue
+Niclosamide,CNC,RNA-dependent RNA Polymerase,0.909,Dengue
+Niclosamide,CC(C)CC,Envelope Protein,0.756,Dengue
+Arbidol,CCOC(=O)C,NS3 Protease,0.872,Dengue
+Curcumin,CNC,RNA-dependent RNA Polymerase,0.619,Dengue
+Suramin,CNC,RNA-dependent RNA Polymerase,0.737,Dengue
+Arbidol,CCCN,RNA-dependent RNA Polymerase,0.841,Dengue
+Interferon,CCNC,Capsid Protein,0.727,Dengue
+Chloroquine,C1CCCCC1,Capsid Protein,0.709,Dengue
+Ribavirin,CCN(CC)CC,Capsid Protein,0.91,Dengue
+Balapiravir,CCCN,Envelope Protein,0.708,Dengue
+Celgosivir,CCNCO,NS3 Protease,0.877,Dengue
+Balapiravir,CCNCO,NS3 Protease,0.737,Dengue
+Azithromycin,CCOC(=O)C,RNA-dependent RNA Polymerase,0.578,Dengue
+Sofosbuvir,C1CCCCC1,Capsid Protein,0.586,Dengue
+Niclosamide,CCOC(=O)C,RNA-dependent RNA Polymerase,0.787,Dengue
+Azithromycin,CCO,Envelope Protein,0.9,Dengue
+Ribavirin,C1CCCCC1,Capsid Protein,0.793,Dengue
+Ribavirin,CCOC,NS3 Protease,0.737,Dengue
+Chloroquine,C1CCCCC1,RNA-dependent RNA Polymerase,0.635,Dengue
+Balapiravir,CCNCO,Helicase,0.669,Dengue
+Curcumin,CCN,NS5 Polymerase,0.584,Dengue
+Chloroquine,COC,Helicase,0.759,Dengue
+NITD008,CCO,Helicase,0.941,Dengue
+Quercetin,COC,Capsid Protein,0.555,Dengue
+Azithromycin,CCNC,Capsid Protein,0.825,Dengue
+Interferon,CNC,Envelope Protein,0.669,Dengue
+Celgosivir,CC(C)O,Envelope Protein,0.671,Dengue
+Interferon,CC(C)CC,Envelope Protein,0.908,Dengue
+Ivermectin,COC,RNA-dependent RNA Polymerase,0.625,Dengue
+Ivermectin,CCN(CC)CC,Capsid Protein,0.747,Dengue
+Favipiravir,CCCO,Capsid Protein,0.794,Dengue
+Celgosivir,C1CCCCC1,Helicase,0.913,Dengue
+Azithromycin,CCCN,RNA-dependent RNA Polymerase,0.694,Dengue
+Suramin,CCCO,Helicase,0.721,Dengue
+Chloroquine,CNC,RNA-dependent RNA Polymerase,0.647,Dengue
+Celgosivir,C1CCCCC1,NS5 Polymerase,0.884,Dengue
+Sofosbuvir,CCOC(=O)C,Capsid Protein,0.841,Dengue
+Favipiravir,CCN,RNA-dependent RNA Polymerase,0.877,Dengue
+Ivermectin,COC,NS5 Polymerase,0.778,Dengue
+Suramin,CNC,Envelope Protein,0.624,Dengue
+Interferon,CCO,Helicase,0.645,Dengue
+Curcumin,CCNC,NS3 Protease,0.655,Dengue
+Favipiravir,CCN(CC)CC,Envelope Protein,0.637,Dengue
+Interferon,CCOC(=O)C,NS5 Polymerase,0.926,Dengue
+Chloroquine,CC(C)O,Envelope Protein,0.945,Dengue
+Balapiravir,CCN(CC)CC,Helicase,0.786,Dengue
+Azithromycin,CCOC(=O)C,Capsid Protein,0.82,Dengue
+Ivermectin,CC(C)CC,NS5 Polymerase,0.953,Dengue
+Favipiravir,CCC,Capsid Protein,0.638,Dengue
+Niclosamide,C1CCCCC1,Envelope Protein,0.602,Dengue
+Niclosamide,COC,NS3 Protease,0.838,Dengue
+Sofosbuvir,CCOC,NS5 Polymerase,0.909,Dengue
+Suramin,CCNC,Envelope Protein,0.564,Dengue
+Niclosamide,CCN(CC)CC,NS3 Protease,0.841,Dengue
+Balapiravir,CCCO,Helicase,0.612,Dengue
+NITD008,CC(C)CC,Capsid Protein,0.921,Dengue
+Chloroquine,CNC,Helicase,0.565,Dengue
+Celgosivir,CCNC,RNA-dependent RNA Polymerase,0.672,Dengue
+Celgosivir,CCCO,Helicase,0.821,Dengue
+Niclosamide,CCNCO,NS3 Protease,0.718,Dengue
+Ivermectin,CCN,NS3 Protease,0.799,Dengue
+Azithromycin,CCC,RNA-dependent RNA Polymerase,0.935,Dengue
+Quercetin,C1CCCCC1,Capsid Protein,0.559,Dengue
+Arbidol,CCOC(=O)C,NS5 Polymerase,0.675,Dengue
+Sofosbuvir,CCCO,NS5 Polymerase,0.774,Dengue
+Niclosamide,COC,RNA-dependent RNA Polymerase,0.808,Dengue
+Sofosbuvir,CCC,NS3 Protease,0.803,Dengue
+Sofosbuvir,CCNC,RNA-dependent RNA Polymerase,0.576,Dengue
+Celgosivir,CCN,NS5 Polymerase,0.893,Dengue
+Favipiravir,CCC,Capsid Protein,0.777,Dengue
+Sofosbuvir,CCO,Envelope Protein,0.794,Dengue
+Quercetin,CC(C)O,RNA-dependent RNA Polymerase,0.629,Dengue
+Balapiravir,CCC,Helicase,0.909,Dengue
+NITD008,CCOC(=O)C,Capsid Protein,0.95,Dengue
+Ivermectin,CCC,NS5 Polymerase,0.911,Dengue
+Interferon,CCN,Helicase,0.693,Dengue
+Interferon,CCC,NS3 Protease,0.794,Dengue
+Ivermectin,CCC,Capsid Protein,0.751,Dengue
+Interferon,CC(C)CC,Envelope Protein,0.634,Dengue
+Quercetin,CCN(CC)CC,RNA-dependent RNA Polymerase,0.852,Dengue
+NITD008,CCNCO,Envelope Protein,0.674,Dengue
+NITD008,CC(C)O,Capsid Protein,0.777,Dengue
+Azithromycin,CCNC,RNA-dependent RNA Polymerase,0.723,Dengue
+Arbidol,CCC,Capsid Protein,0.75,Dengue
+Azithromycin,CCC,NS3 Protease,0.704,Dengue
+Arbidol,CCNCO,Envelope Protein,0.708,Dengue
+Celgosivir,CCN,NS3 Protease,0.749,Dengue
+Niclosamide,CCCN,Envelope Protein,0.879,Dengue
+NITD008,CCNC,Capsid Protein,0.878,Dengue
+Curcumin,CCO,NS5 Polymerase,0.603,Dengue
+Balapiravir,CC(C)CC,NS3 Protease,0.813,Dengue
+Favipiravir,CCOC(=O)C,NS3 Protease,0.885,Dengue
+Ivermectin,CCNC,NS3 Protease,0.974,Dengue
+Chloroquine,COC,Capsid Protein,0.767,Dengue
+Arbidol,CCOC,Envelope Protein,0.79,Dengue
+Suramin,CCN(CC)CC,Envelope Protein,0.919,Dengue
+Niclosamide,CCN,NS5 Polymerase,0.601,Dengue
+Celgosivir,CCO,Envelope Protein,0.903,Dengue
+Interferon,CCOC,Envelope Protein,0.565,Dengue
+Ivermectin,CCC,RNA-dependent RNA Polymerase,0.645,Dengue
+Favipiravir,CCC,Envelope Protein,0.763,Dengue
+Celgosivir,CCO,Envelope Protein,0.611,Dengue
+Ribavirin,CCNC,NS5 Polymerase,0.859,Dengue
+NITD008,CCN,NS3 Protease,0.977,Dengue
+NITD008,COC,Capsid Protein,0.692,Dengue
+Quercetin,CCCO,Envelope Protein,0.615,Dengue
+Balapiravir,CCCO,Capsid Protein,0.599,Dengue
+Ribavirin,COC,Helicase,0.705,Dengue
+Quercetin,CC(C)O,NS5 Polymerase,0.891,Dengue
+Sofosbuvir,CC(C)O,Capsid Protein,0.876,Dengue
+Interferon,CC(C)CC,NS5 Polymerase,0.746,Dengue
+Ivermectin,CCO,Envelope Protein,0.766,Dengue
+Celgosivir,CC(C)CC,NS5 Polymerase,0.683,Dengue
+Balapiravir,CCCO,NS3 Protease,0.639,Dengue
+Ribavirin,CCCN,Helicase,0.951,Dengue
+Ribavirin,CNC,NS5 Polymerase,0.741,Dengue
+Arbidol,CC(C)CC,RNA-dependent RNA Polymerase,0.863,Dengue
+Balapiravir,CNC,RNA-dependent RNA Polymerase,0.835,Dengue
+Ivermectin,CCC,Capsid Protein,0.89,Dengue
+Azithromycin,COC,Envelope Protein,0.975,Dengue
+Ribavirin,CCNCO,Helicase,0.979,Dengue
+Ivermectin,CC(C)CC,Helicase,0.965,Dengue
+NITD008,CCNCO,NS5 Polymerase,0.689,Dengue
+Chloroquine,CCN,Capsid Protein,0.621,Dengue
+Suramin,CCCN,RNA-dependent RNA Polymerase,0.719,Dengue
+Ribavirin,CCCO,NS3 Protease,0.909,Dengue
+Interferon,CCOC(=O)C,Helicase,0.823,Dengue
+Favipiravir,CCNCO,Helicase,0.819,Dengue
+Azithromycin,CCCN,Envelope Protein,0.896,Dengue
+Quercetin,CCOC,Capsid Protein,0.98,Dengue
+Favipiravir,CCN(CC)CC,Capsid Protein,0.802,Dengue
+Celgosivir,CCN,Envelope Protein,0.898,Dengue
+Sofosbuvir,CCCN,Envelope Protein,0.942,Dengue
+Arbidol,CCNC,Helicase,0.746,Dengue
+Balapiravir,CCC,NS5 Polymerase,0.954,Dengue
+Curcumin,CCOC(=O)C,Envelope Protein,0.684,Dengue
+Arbidol,CCO,NS5 Polymerase,0.721,Dengue
+Niclosamide,CCOC(=O)C,Envelope Protein,0.599,Dengue
+Celgosivir,CCCO,Envelope Protein,0.779,Dengue
+Arbidol,CCCO,Helicase,0.864,Dengue
+Favipiravir,CCO,RNA-dependent RNA Polymerase,0.884,Dengue
+Favipiravir,CC(C)O,NS5 Polymerase,0.741,Dengue
+Ribavirin,CCN,NS5 Polymerase,0.862,Dengue
+Celgosivir,CCN,RNA-dependent RNA Polymerase,0.904,Dengue
+Quercetin,CCO,NS3 Protease,0.756,Dengue
+Balapiravir,CNC,NS5 Polymerase,0.595,Dengue
+Ivermectin,CC(C)O,Helicase,0.765,Dengue
+Chloroquine,CC(C)O,RNA-dependent RNA Polymerase,0.937,Dengue
+Ribavirin,CCO,Envelope Protein,0.679,Dengue
+Ribavirin,CCNC,Envelope Protein,0.94,Dengue
+Interferon,COC,NS5 Polymerase,0.673,Dengue
+Chloroquine,CCOC(=O)C,Helicase,0.634,Dengue
+Favipiravir,CCCN,Capsid Protein,0.588,Dengue
+NITD008,CCN,Capsid Protein,0.599,Dengue
+Niclosamide,CCOC,NS3 Protease,0.759,Dengue
+Ivermectin,CCN(CC)CC,NS3 Protease,0.817,Dengue
+Interferon,C1CCCCC1,Capsid Protein,0.701,Dengue
+Sofosbuvir,CCOC,NS5 Polymerase,0.714,Dengue
+Ribavirin,CCNCO,NS5 Polymerase,0.907,Dengue
+Quercetin,CCOC(=O)C,Capsid Protein,0.654,Dengue
+Favipiravir,CCC,RNA-dependent RNA Polymerase,0.675,Dengue
+Niclosamide,COC,NS3 Protease,0.862,Dengue
+Ivermectin,CCOC(=O)C,RNA-dependent RNA Polymerase,0.748,Dengue
+Suramin,CCOC,Helicase,0.558,Dengue
+Suramin,CCNC,Helicase,0.816,Dengue
+Chloroquine,C1CCCCC1,NS3 Protease,0.976,Dengue
+Suramin,CCOC,Capsid Protein,0.825,Dengue
+Azithromycin,CCCN,NS3 Protease,0.662,Dengue
+Azithromycin,CCCN,Capsid Protein,0.609,Dengue
+Favipiravir,CC(C)O,Envelope Protein,0.845,Dengue
+Sofosbuvir,CCCN,NS3 Protease,0.74,Dengue
+Ivermectin,CC(C)O,RNA-dependent RNA Polymerase,0.69,Dengue
+Ivermectin,CCO,Envelope Protein,0.825,Dengue
+Favipiravir,CC(C)CC,Capsid Protein,0.808,Dengue
+Chloroquine,CCCN,NS5 Polymerase,0.885,Dengue
+Niclosamide,C1CCCCC1,NS3 Protease,0.797,Dengue
+Celgosivir,CC(C)CC,Capsid Protein,0.949,Dengue
+Quercetin,CCOC(=O)C,RNA-dependent RNA Polymerase,0.555,Dengue
+Favipiravir,CCOC,Helicase,0.641,Dengue
+Arbidol,CCNC,Envelope Protein,0.774,Dengue
+Sofosbuvir,CCO,NS3 Protease,0.619,Dengue
+Arbidol,COC,RNA-dependent RNA Polymerase,0.781,Dengue
+Sofosbuvir,CCC,NS3 Protease,0.94,Dengue
+Arbidol,CCCO,Capsid Protein,0.65,Dengue
+Ivermectin,CC(C)CC,RNA-dependent RNA Polymerase,0.932,Dengue
+Suramin,COC,Capsid Protein,0.954,Dengue
+Suramin,CC(C)O,NS5 Polymerase,0.811,Dengue
+Quercetin,CCOC,NS5 Polymerase,0.934,Dengue
+Ivermectin,CCCN,Helicase,0.889,Dengue
+Chloroquine,CCCN,NS5 Polymerase,0.686,Dengue
+Favipiravir,COC,Helicase,0.621,Dengue
+Favipiravir,CCC,RNA-dependent RNA Polymerase,0.734,Dengue
+Curcumin,CCC,NS5 Polymerase,0.737,Dengue
+NITD008,CCOC(=O)C,Capsid Protein,0.631,Dengue
+Interferon,CCC,Envelope Protein,0.793,Dengue
+Celgosivir,C1CCCCC1,NS5 Polymerase,0.911,Dengue
+Suramin,COC,Capsid Protein,0.571,Dengue
+Quercetin,CNC,Capsid Protein,0.875,Dengue
+Interferon,CCC,Helicase,0.967,Dengue
+Chloroquine,CCOC,Capsid Protein,0.802,Dengue
+Ribavirin,CCNC,Envelope Protein,0.762,Dengue
+Celgosivir,CCN(CC)CC,Envelope Protein,0.746,Dengue
+Azithromycin,CCNCO,RNA-dependent RNA Polymerase,0.752,Dengue
+NITD008,CCC,Helicase,0.626,Dengue
+Suramin,CCNCO,Helicase,0.923,Dengue
+Favipiravir,CCCO,Helicase,0.711,Dengue
+Curcumin,CCN(CC)CC,Capsid Protein,0.71,Dengue
+Chloroquine,CC(C)O,NS5 Polymerase,0.964,Dengue
+Curcumin,CCCO,RNA-dependent RNA Polymerase,0.899,Dengue
+NITD008,CCCN,NS3 Protease,0.913,Dengue
+Niclosamide,CCOC(=O)C,NS5 Polymerase,0.754,Dengue
+Interferon,COC,NS5 Polymerase,0.945,Dengue
+Ivermectin,CCN(CC)CC,RNA-dependent RNA Polymerase,0.916,Dengue
+Chloroquine,CCNC,RNA-dependent RNA Polymerase,0.854,Dengue
+Azithromycin,CCCO,Helicase,0.96,Dengue
+Favipiravir,COC,NS3 Protease,0.685,Dengue
+Ribavirin,CCCN,NS5 Polymerase,0.762,Dengue
+Curcumin,CCN,NS3 Protease,0.776,Dengue
+Azithromycin,CCCO,Envelope Protein,0.7,Dengue
+Favipiravir,CCN,Capsid Protein,0.604,Dengue
+Suramin,C1CCCCC1,Helicase,0.743,Dengue
+Curcumin,CC(C)O,Capsid Protein,0.912,Dengue
+Celgosivir,CCO,NS3 Protease,0.707,Dengue
+Niclosamide,CNC,NS3 Protease,0.558,Dengue
+Curcumin,CCOC(=O)C,Envelope Protein,0.784,Dengue
+Curcumin,CC(C)CC,NS3 Protease,0.926,Dengue
+Favipiravir,CCOC,NS5 Polymerase,0.673,Dengue
+Sofosbuvir,COC,NS5 Polymerase,0.802,Dengue
+NITD008,CCNCO,RNA-dependent RNA Polymerase,0.704,Dengue
+Sofosbuvir,CCO,NS3 Protease,0.863,Dengue
+Chloroquine,CCO,Helicase,0.593,Dengue
+Quercetin,CCC,Helicase,0.751,Dengue
+Chloroquine,CCOC(=O)C,Capsid Protein,0.904,Dengue
+Arbidol,CCOC,Envelope Protein,0.567,Dengue
+Ivermectin,COC,Capsid Protein,0.705,Dengue
+NITD008,CCOC(=O)C,Capsid Protein,0.911,Dengue
+Chloroquine,CCOC,Envelope Protein,0.662,Dengue
+Interferon,CCN,Capsid Protein,0.779,Dengue
+Curcumin,CCNCO,RNA-dependent RNA Polymerase,0.807,Dengue
+Arbidol,CNC,Helicase,0.753,Dengue
+Niclosamide,CC(C)CC,NS3 Protease,0.642,Dengue
+Suramin,CCN(CC)CC,NS3 Protease,0.962,Dengue
+Niclosamide,CCOC(=O)C,NS3 Protease,0.757,Dengue
+Favipiravir,CNC,Helicase,0.921,Dengue
+Niclosamide,CC(C)O,NS3 Protease,0.761,Dengue
+Balapiravir,CCO,Envelope Protein,0.566,Dengue
+Curcumin,CCOC,NS5 Polymerase,0.763,Dengue
+Quercetin,C1CCCCC1,NS5 Polymerase,0.934,Dengue
+Interferon,CCCN,NS5 Polymerase,0.575,Dengue
+Suramin,CCO,Helicase,0.793,Dengue
+Suramin,C1CCCCC1,Capsid Protein,0.96,Dengue
+NITD008,COC,RNA-dependent RNA Polymerase,0.786,Dengue
+Ribavirin,CCC,NS5 Polymerase,0.577,Dengue
+Balapiravir,CC(C)CC,NS5 Polymerase,0.979,Dengue
+Chloroquine,CCN(CC)CC,NS5 Polymerase,0.862,Dengue
+Chloroquine,CCOC,NS5 Polymerase,0.689,Dengue
+Quercetin,CCCO,Capsid Protein,0.662,Dengue
+Chloroquine,CC(C)CC,NS3 Protease,0.783,Dengue
+Favipiravir,CNC,Helicase,0.643,Dengue
+Sofosbuvir,CC(C)CC,NS3 Protease,0.917,Dengue
+Suramin,C1CCCCC1,Envelope Protein,0.71,Dengue
+Arbidol,CCCO,Helicase,0.575,Dengue
+Chloroquine,CCOC,NS3 Protease,0.71,Dengue
+Niclosamide,CCN,Capsid Protein,0.813,Dengue
+Favipiravir,CNC,NS5 Polymerase,0.929,Dengue
+Niclosamide,CCC,NS5 Polymerase,0.799,Dengue
+Ribavirin,CCOC,Helicase,0.848,Dengue
+Azithromycin,CCN,Envelope Protein,0.643,Dengue
+Quercetin,C1CCCCC1,NS3 Protease,0.593,Dengue
+Suramin,CCCO,Capsid Protein,0.96,Dengue
+Favipiravir,CC(C)O,Envelope Protein,0.755,Dengue
+Quercetin,COC,NS3 Protease,0.855,Dengue
+Interferon,C1CCCCC1,Capsid Protein,0.927,Dengue
+Chloroquine,COC,RNA-dependent RNA Polymerase,0.763,Dengue
+Favipiravir,C1CCCCC1,NS3 Protease,0.796,Dengue
+Curcumin,CCC,NS5 Polymerase,0.755,Dengue
+Celgosivir,CC(C)CC,RNA-dependent RNA Polymerase,0.693,Dengue
+Suramin,CCN,NS3 Protease,0.556,Dengue
+Niclosamide,CCCO,Envelope Protein,0.744,Dengue
+NITD008,CCO,Envelope Protein,0.733,Dengue
+Curcumin,CCN(CC)CC,RNA-dependent RNA Polymerase,0.829,Dengue
+NITD008,CCC,Envelope Protein,0.843,Dengue
+Arbidol,CCNC,Capsid Protein,0.605,Dengue
+Quercetin,CCCO,Helicase,0.674,Dengue
+Arbidol,CCN(CC)CC,Envelope Protein,0.601,Dengue
+Interferon,CCOC(=O)C,RNA-dependent RNA Polymerase,0.765,Dengue
+Celgosivir,C1CCCCC1,NS3 Protease,0.752,Dengue
+Celgosivir,CCC,Helicase,0.781,Dengue
+Interferon,CC(C)CC,Helicase,0.872,Dengue
+Celgosivir,CCN(CC)CC,Capsid Protein,0.661,Dengue
+Balapiravir,CCN,Capsid Protein,0.754,Dengue
+Sofosbuvir,CCOC(=O)C,RNA-dependent RNA Polymerase,0.803,Dengue
+Favipiravir,CCNCO,RNA-dependent RNA Polymerase,0.795,Dengue
+Quercetin,COC,NS3 Protease,0.687,Dengue
+Balapiravir,CCO,Envelope Protein,0.881,Dengue
+Suramin,CC(C)CC,NS3 Protease,0.565,Dengue
+Favipiravir,CCCO,NS3 Protease,0.945,Dengue
+Favipiravir,CCC,Envelope Protein,0.746,Dengue
+Quercetin,CCO,Envelope Protein,0.573,Dengue
+Arbidol,CCC,NS5 Polymerase,0.585,Dengue
+Niclosamide,CCCO,NS5 Polymerase,0.801,Dengue
+Niclosamide,CCOC(=O)C,RNA-dependent RNA Polymerase,0.944,Dengue
+Ivermectin,CC(C)CC,Capsid Protein,0.659,Dengue
+Quercetin,CCOC,RNA-dependent RNA Polymerase,0.647,Dengue
+Niclosamide,COC,NS5 Polymerase,0.926,Dengue
+Niclosamide,CCCN,NS3 Protease,0.896,Dengue
+Interferon,CCNC,NS5 Polymerase,0.906,Dengue
+NITD008,CCNC,NS3 Protease,0.841,Dengue
+Balapiravir,CCNC,NS3 Protease,0.553,Dengue
+Suramin,CCCN,Capsid Protein,0.569,Dengue
+Interferon,CCO,Capsid Protein,0.95,Dengue
+Niclosamide,CCNCO,Capsid Protein,0.76,Dengue
+Quercetin,CCO,Capsid Protein,0.808,Dengue
+Ivermectin,CCCO,Capsid Protein,0.754,Dengue
+Niclosamide,CC(C)O,RNA-dependent RNA Polymerase,0.75,Dengue
+Interferon,CCCN,Helicase,0.799,Dengue
+Chloroquine,CC(C)O,Helicase,0.629,Dengue
+Sofosbuvir,CCO,Envelope Protein,0.806,Dengue
+Azithromycin,CCN(CC)CC,Helicase,0.903,Dengue
+Quercetin,COC,Capsid Protein,0.759,Dengue
+Interferon,CCCN,NS5 Polymerase,0.568,Dengue
+Chloroquine,COC,Envelope Protein,0.955,Dengue
+Niclosamide,COC,Helicase,0.716,Dengue
+Suramin,CCN,Capsid Protein,0.766,Dengue
+Chloroquine,CCNC,NS3 Protease,0.637,Dengue
+Curcumin,CCCO,NS5 Polymerase,0.606,Dengue
+Curcumin,CCO,NS5 Polymerase,0.937,Dengue
+Balapiravir,CCN(CC)CC,NS3 Protease,0.842,Dengue
+NITD008,CC(C)O,RNA-dependent RNA Polymerase,0.89,Dengue
+Ribavirin,COC,Envelope Protein,0.731,Dengue
+Curcumin,COC,RNA-dependent RNA Polymerase,0.788,Dengue
+Azithromycin,CCNC,NS3 Protease,0.642,Dengue
+Ivermectin,CCN,RNA-dependent RNA Polymerase,0.671,Dengue
+Interferon,CCOC(=O)C,Capsid Protein,0.638,Dengue
+Niclosamide,CCC,RNA-dependent RNA Polymerase,0.586,Dengue
+Niclosamide,CCCO,NS3 Protease,0.605,Dengue
+Ribavirin,CCOC,Capsid Protein,0.76,Dengue
+Ribavirin,CCCO,Capsid Protein,0.583,Dengue
+Suramin,CCNCO,Helicase,0.844,Dengue
+Favipiravir,CCO,NS3 Protease,0.891,Dengue
+Quercetin,CC(C)CC,Helicase,0.87,Dengue
+Suramin,CCOC(=O)C,RNA-dependent RNA Polymerase,0.568,Dengue
+Curcumin,C1CCCCC1,NS5 Polymerase,0.975,Dengue
+Ribavirin,C1CCCCC1,NS5 Polymerase,0.663,Dengue
+Niclosamide,CC(C)O,Helicase,0.977,Dengue
+Quercetin,CCCN,NS3 Protease,0.802,Dengue
+Sofosbuvir,CCC,Envelope Protein,0.609,Dengue
+Niclosamide,CCO,Helicase,0.864,Dengue
+NITD008,CCCN,Envelope Protein,0.798,Dengue
+Suramin,CC(C)O,Capsid Protein,0.845,Dengue
+Arbidol,CCCO,NS5 Polymerase,0.734,Dengue
+Favipiravir,CNC,Helicase,0.71,Dengue
+Favipiravir,CCN,NS5 Polymerase,0.591,Dengue
+Chloroquine,CCNCO,Envelope Protein,0.845,Dengue
+Quercetin,CCN,Envelope Protein,0.91,Dengue
+Ribavirin,CC(C)O,RNA-dependent RNA Polymerase,0.607,Dengue
+Sofosbuvir,CCC,Helicase,0.629,Dengue
+Azithromycin,CCC,Envelope Protein,0.801,Dengue
+Ivermectin,CCO,NS5 Polymerase,0.691,Dengue
+Interferon,CCCO,Helicase,0.764,Dengue
+Favipiravir,CCC,NS5 Polymerase,0.703,Dengue
+Favipiravir,CCOC(=O)C,RNA-dependent RNA Polymerase,0.807,Dengue
+Interferon,CC(C)CC,NS3 Protease,0.724,Dengue
+Arbidol,CCOC(=O)C,RNA-dependent RNA Polymerase,0.682,Dengue
+NITD008,CCN(CC)CC,Envelope Protein,0.954,Dengue
+Interferon,C1CCCCC1,RNA-dependent RNA Polymerase,0.639,Dengue
+Azithromycin,CCNC,RNA-dependent RNA Polymerase,0.624,Dengue
+Ivermectin,C1CCCCC1,RNA-dependent RNA Polymerase,0.946,Dengue
+Favipiravir,CCN(CC)CC,Helicase,0.608,Dengue
+Favipiravir,CC(C)CC,RNA-dependent RNA Polymerase,0.831,Dengue
+NITD008,CCCO,RNA-dependent RNA Polymerase,0.788,Dengue
+Ivermectin,CCCN,NS3 Protease,0.881,Dengue
+Quercetin,CCC,NS3 Protease,0.962,Dengue
+Suramin,CCCO,Envelope Protein,0.601,Dengue
+Interferon,CCNC,Envelope Protein,0.975,Dengue
+Sofosbuvir,COC,Helicase,0.615,Dengue
+Ribavirin,C1CCCCC1,NS5 Polymerase,0.952,Dengue
+Sofosbuvir,CCC,RNA-dependent RNA Polymerase,0.807,Dengue
+Ribavirin,CCNCO,Helicase,0.872,Dengue
+Suramin,CCC,RNA-dependent RNA Polymerase,0.658,Dengue
+NITD008,CC(C)CC,NS5 Polymerase,0.689,Dengue
+Interferon,CCOC(=O)C,Helicase,0.581,Dengue
+Suramin,C1CCCCC1,NS3 Protease,0.672,Dengue
+Quercetin,CCNCO,Capsid Protein,0.618,Dengue
+Ribavirin,CCCN,Helicase,0.72,Dengue
+Curcumin,CCOC,RNA-dependent RNA Polymerase,0.91,Dengue
+Balapiravir,CCCO,Envelope Protein,0.888,Dengue
+Azithromycin,CCNC,NS3 Protease,0.829,Dengue
+Favipiravir,CC(C)CC,NS3 Protease,0.769,Dengue
+Sofosbuvir,CCO,RNA-dependent RNA Polymerase,0.652,Dengue
+Curcumin,CCCN,NS5 Polymerase,0.882,Dengue
+Balapiravir,CC(C)O,NS5 Polymerase,0.853,Dengue
+Balapiravir,CCO,Helicase,0.951,Dengue
+Curcumin,CCNCO,RNA-dependent RNA Polymerase,0.655,Dengue
+Interferon,CC(C)CC,Envelope Protein,0.912,Dengue
+Quercetin,CCN(CC)CC,Capsid Protein,0.788,Dengue
+Curcumin,CCOC,NS5 Polymerase,0.975,Dengue
+Chloroquine,CCO,RNA-dependent RNA Polymerase,0.573,Dengue
+Quercetin,CCN,Envelope Protein,0.741,Dengue
+Ribavirin,CC(C)CC,NS5 Polymerase,0.643,Dengue
+Ribavirin,CCN(CC)CC,NS5 Polymerase,0.806,Dengue
+Azithromycin,CCNCO,Helicase,0.945,Dengue
+Favipiravir,CCOC(=O)C,RNA-dependent RNA Polymerase,0.572,Dengue
+Niclosamide,CCCN,Helicase,0.731,Dengue
+Celgosivir,CCOC(=O)C,NS5 Polymerase,0.591,Dengue
+Favipiravir,CCCN,RNA-dependent RNA Polymerase,0.785,Dengue
+Ivermectin,CCOC(=O)C,NS5 Polymerase,0.867,Dengue
+Ivermectin,CCNC,NS3 Protease,0.65,Dengue
+Suramin,CCOC,RNA-dependent RNA Polymerase,0.654,Dengue
+Quercetin,CCOC,Helicase,0.703,Dengue
+Interferon,CCN(CC)CC,Capsid Protein,0.795,Dengue
+Chloroquine,CCN,RNA-dependent RNA Polymerase,0.968,Dengue
+Ribavirin,CCC,Helicase,0.635,Dengue
+Curcumin,C1CCCCC1,NS5 Polymerase,0.684,Dengue
+NITD008,CC(C)CC,RNA-dependent RNA Polymerase,0.679,Dengue
+Balapiravir,CCCO,Helicase,0.866,Dengue
+Celgosivir,CCCO,Envelope Protein,0.957,Dengue
+Favipiravir,CNC,Capsid Protein,0.628,Dengue
+Ivermectin,COC,Envelope Protein,0.625,Dengue
+Favipiravir,CCCN,NS5 Polymerase,0.58,Dengue
+Azithromycin,CCOC(=O)C,Helicase,0.891,Dengue
+Curcumin,CCN,NS3 Protease,0.768,Dengue
+Chloroquine,CCO,NS3 Protease,0.857,Dengue
+Ivermectin,CCOC(=O)C,NS3 Protease,0.712,Dengue
+Ivermectin,CC(C)CC,Envelope Protein,0.897,Dengue
+Interferon,CC(C)CC,Helicase,0.669,Dengue
+Celgosivir,CCOC(=O)C,Capsid Protein,0.936,Dengue
+Ribavirin,CCOC,NS5 Polymerase,0.826,Dengue
+Quercetin,CNC,NS3 Protease,0.826,Dengue
+Suramin,CC(C)CC,Helicase,0.851,Dengue
+Interferon,CCC,Helicase,0.664,Dengue
+Chloroquine,CCNCO,Capsid Protein,0.922,Dengue
+Balapiravir,CC(C)CC,RNA-dependent RNA Polymerase,0.579,Dengue
+Curcumin,CNC,Capsid Protein,0.748,Dengue
+Arbidol,CCNC,Helicase,0.617,Dengue
+Niclosamide,C1CCCCC1,Capsid Protein,0.733,Dengue
+Suramin,COC,Envelope Protein,0.761,Dengue
+Balapiravir,CC(C)O,Envelope Protein,0.893,Dengue
+Quercetin,COC,NS3 Protease,0.724,Dengue
+Chloroquine,CCN,RNA-dependent RNA Polymerase,0.837,Dengue
+Azithromycin,CCNC,Capsid Protein,0.72,Dengue
+Curcumin,CNC,NS3 Protease,0.885,Dengue
+Suramin,CCCN,NS5 Polymerase,0.934,Dengue
+Sofosbuvir,CCNC,NS3 Protease,0.658,Dengue
+Balapiravir,CC(C)CC,Capsid Protein,0.696,Dengue
+Arbidol,CCN,NS3 Protease,0.559,Dengue
+Curcumin,CCN,NS3 Protease,0.974,Dengue
+Ivermectin,CCN,RNA-dependent RNA Polymerase,0.865,Dengue
+Arbidol,CCNC,Capsid Protein,0.846,Dengue
+Arbidol,CCC,NS5 Polymerase,0.856,Dengue
+Quercetin,CC(C)CC,Helicase,0.695,Dengue
+Sofosbuvir,CCC,Capsid Protein,0.58,Dengue
+Favipiravir,CC(C)O,Envelope Protein,0.703,Dengue
+Favipiravir,CCNC,Capsid Protein,0.721,Dengue
+Favipiravir,CCCO,NS3 Protease,0.947,Dengue
+Favipiravir,CCCN,RNA-dependent RNA Polymerase,0.844,Dengue
+Sofosbuvir,CCNCO,Envelope Protein,0.655,Dengue
+Azithromycin,COC,NS5 Polymerase,0.6,Dengue
+Favipiravir,CCN(CC)CC,Helicase,0.752,Dengue
+Arbidol,CCCO,RNA-dependent RNA Polymerase,0.619,Dengue
+Niclosamide,COC,Envelope Protein,0.732,Dengue
+Celgosivir,C1CCCCC1,Helicase,0.638,Dengue
+Ivermectin,CCNC,Envelope Protein,0.606,Dengue
+Arbidol,CCC,NS3 Protease,0.587,Dengue
+Curcumin,CCCN,NS3 Protease,0.893,Dengue
+NITD008,CCNC,Capsid Protein,0.761,Dengue
+Quercetin,COC,Envelope Protein,0.908,Dengue
+Ribavirin,CC(C)CC,Helicase,0.854,Dengue
+Suramin,CCNC,Capsid Protein,0.689,Dengue
+Arbidol,CCNCO,Capsid Protein,0.9,Dengue
+Niclosamide,CCC,NS3 Protease,0.808,Dengue
+Chloroquine,CC(C)O,Envelope Protein,0.797,Dengue
+Azithromycin,CCOC(=O)C,NS5 Polymerase,0.685,Dengue
+Celgosivir,CCN,Helicase,0.597,Dengue
+Celgosivir,COC,NS3 Protease,0.886,Dengue
+Favipiravir,COC,Capsid Protein,0.723,Dengue
+Favipiravir,CCN,RNA-dependent RNA Polymerase,0.735,Dengue
+Azithromycin,CCCO,NS3 Protease,0.551,Dengue
+Balapiravir,CCN(CC)CC,NS3 Protease,0.656,Dengue
+Quercetin,CCNCO,RNA-dependent RNA Polymerase,0.685,Dengue

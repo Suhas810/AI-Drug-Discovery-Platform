@@ -1,0 +1,1501 @@
+drug,smiles,target,binding_affinity,disease
+Delamanid,C1CCCCC1,Mycobacterium tuberculosis InhA,0.702,Tuberculosis
+Pretomanid,CCNC,ATP synthase,0.591,Tuberculosis
+Kanamycin,CCC,Mycobacterium tuberculosis InhA,0.683,Tuberculosis
+Pyrazinamide,CNC,Mycolic acid synthesis pathway,0.934,Tuberculosis
+Linezolid,CCNC,DNA gyrase,0.947,Tuberculosis
+Linezolid,CCCN,Cell wall synthesis enzyme,0.815,Tuberculosis
+Ethambutol,C1CCCCC1,DNA gyrase,0.954,Tuberculosis
+Clofazimine,CCN(CC)CC,DNA gyrase,0.637,Tuberculosis
+Isoniazid,CCCN,DNA gyrase,0.703,Tuberculosis
+Kanamycin,CC(C)O,Mycobacterium tuberculosis InhA,0.672,Tuberculosis
+Ethambutol,CCN(CC)CC,Cell wall synthesis enzyme,0.702,Tuberculosis
+Kanamycin,CCNCO,RNA polymerase,0.554,Tuberculosis
+Capreomycin,CCNC,Mycobacterium tuberculosis InhA,0.772,Tuberculosis
+Delamanid,CCO,Cell wall synthesis enzyme,0.563,Tuberculosis
+Cycloserine,CC(C)O,RNA polymerase,0.755,Tuberculosis
+Pyrazinamide,C1CCCCC1,Mycobacterium tuberculosis InhA,0.699,Tuberculosis
+Capreomycin,CCN(CC)CC,DNA gyrase,0.763,Tuberculosis
+Bedaquiline,CCCN,Mycolic acid synthesis pathway,0.588,Tuberculosis
+Levofloxacin,CNC,ATP synthase,0.642,Tuberculosis
+Bedaquiline,CNC,Mycolic acid synthesis pathway,0.965,Tuberculosis
+Ethambutol,COC,Cell wall synthesis enzyme,0.958,Tuberculosis
+Capreomycin,CCCO,Mycobacterium tuberculosis InhA,0.663,Tuberculosis
+Pretomanid,CCNC,DNA gyrase,0.642,Tuberculosis
+Kanamycin,CCOC(=O)C,DNA gyrase,0.87,Tuberculosis
+Delamanid,COC,ATP synthase,0.564,Tuberculosis
+Kanamycin,CC(C)O,RNA polymerase,0.556,Tuberculosis
+Linezolid,CCN,Mycolic acid synthesis pathway,0.637,Tuberculosis
+Isoniazid,CCNCO,Mycolic acid synthesis pathway,0.821,Tuberculosis
+Ethambutol,CC(C)O,Mycolic acid synthesis pathway,0.669,Tuberculosis
+Delamanid,CCNC,ATP synthase,0.701,Tuberculosis
+Rifampicin,CC(C)CC,Mycobacterium tuberculosis InhA,0.814,Tuberculosis
+Moxifloxacin,CCOC,ATP synthase,0.665,Tuberculosis
+Capreomycin,COC,ATP synthase,0.8,Tuberculosis
+Ethambutol,CCCO,Mycolic acid synthesis pathway,0.592,Tuberculosis
+Clofazimine,CCCO,DNA gyrase,0.817,Tuberculosis
+Capreomycin,CCOC(=O)C,RNA polymerase,0.656,Tuberculosis
+Bedaquiline,C1CCCCC1,DNA gyrase,0.958,Tuberculosis
+Rifampicin,CCN(CC)CC,DNA gyrase,0.563,Tuberculosis
+Delamanid,CCCO,RNA polymerase,0.685,Tuberculosis
+Isoniazid,CCCN,ATP synthase,0.578,Tuberculosis
+Delamanid,C1CCCCC1,Cell wall synthesis enzyme,0.72,Tuberculosis
+Amikacin,CC(C)O,DNA gyrase,0.726,Tuberculosis
+Pyrazinamide,CCOC(=O)C,Cell wall synthesis enzyme,0.556,Tuberculosis
+Clofazimine,C1CCCCC1,Mycolic acid synthesis pathway,0.904,Tuberculosis
+Kanamycin,CCC,DNA gyrase,0.859,Tuberculosis
+Moxifloxacin,CC(C)CC,DNA gyrase,0.691,Tuberculosis
+Isoniazid,CCC,Mycolic acid synthesis pathway,0.639,Tuberculosis
+Capreomycin,CCN,Mycobacterium tuberculosis InhA,0.654,Tuberculosis
+Moxifloxacin,CC(C)O,Mycobacterium tuberculosis InhA,0.827,Tuberculosis
+Rifampicin,CCO,DNA gyrase,0.766,Tuberculosis
+Capreomycin,CNC,RNA polymerase,0.833,Tuberculosis
+Pyrazinamide,CCNC,Mycolic acid synthesis pathway,0.894,Tuberculosis
+Linezolid,CC(C)CC,Mycolic acid synthesis pathway,0.877,Tuberculosis
+Pretomanid,CCNC,Mycobacterium tuberculosis InhA,0.856,Tuberculosis
+Levofloxacin,CCNCO,Cell wall synthesis enzyme,0.688,Tuberculosis
+Kanamycin,CCNCO,DNA gyrase,0.556,Tuberculosis
+Cycloserine,CCOC(=O)C,RNA polymerase,0.67,Tuberculosis
+Clofazimine,CC(C)CC,RNA polymerase,0.898,Tuberculosis
+Pretomanid,CCCO,DNA gyrase,0.723,Tuberculosis
+Rifampicin,CNC,Cell wall synthesis enzyme,0.679,Tuberculosis
+Pretomanid,CCNC,Mycolic acid synthesis pathway,0.665,Tuberculosis
+Capreomycin,CCNC,Mycobacterium tuberculosis InhA,0.923,Tuberculosis
+Rifampicin,CCOC(=O)C,Cell wall synthesis enzyme,0.919,Tuberculosis
+Pyrazinamide,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.879,Tuberculosis
+Isoniazid,CCC,Cell wall synthesis enzyme,0.728,Tuberculosis
+Levofloxacin,CCCN,RNA polymerase,0.691,Tuberculosis
+Levofloxacin,CC(C)O,Cell wall synthesis enzyme,0.818,Tuberculosis
+Cycloserine,CCN,Mycobacterium tuberculosis InhA,0.685,Tuberculosis
+Capreomycin,CC(C)O,DNA gyrase,0.895,Tuberculosis
+Capreomycin,CNC,ATP synthase,0.902,Tuberculosis
+Kanamycin,C1CCCCC1,Mycobacterium tuberculosis InhA,0.643,Tuberculosis
+Clofazimine,CCCN,ATP synthase,0.937,Tuberculosis
+Kanamycin,CNC,ATP synthase,0.742,Tuberculosis
+Capreomycin,CCCN,Mycobacterium tuberculosis InhA,0.895,Tuberculosis
+Pretomanid,CCO,DNA gyrase,0.645,Tuberculosis
+Delamanid,CCOC(=O)C,Cell wall synthesis enzyme,0.96,Tuberculosis
+Ethambutol,CNC,RNA polymerase,0.737,Tuberculosis
+Pyrazinamide,CCCO,ATP synthase,0.612,Tuberculosis
+Kanamycin,CNC,Mycolic acid synthesis pathway,0.924,Tuberculosis
+Moxifloxacin,CCCN,Cell wall synthesis enzyme,0.669,Tuberculosis
+Linezolid,CCCN,DNA gyrase,0.653,Tuberculosis
+Moxifloxacin,CCNCO,DNA gyrase,0.863,Tuberculosis
+Kanamycin,CCN,Cell wall synthesis enzyme,0.897,Tuberculosis
+Linezolid,CNC,RNA polymerase,0.884,Tuberculosis
+Amikacin,CC(C)O,Mycolic acid synthesis pathway,0.758,Tuberculosis
+Rifampicin,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.683,Tuberculosis
+Amikacin,CCOC,Cell wall synthesis enzyme,0.637,Tuberculosis
+Rifampicin,CNC,DNA gyrase,0.77,Tuberculosis
+Pyrazinamide,CCC,DNA gyrase,0.562,Tuberculosis
+Ethambutol,CCOC,RNA polymerase,0.792,Tuberculosis
+Amikacin,CCO,Mycolic acid synthesis pathway,0.909,Tuberculosis
+Bedaquiline,CCOC,Cell wall synthesis enzyme,0.902,Tuberculosis
+Pretomanid,CCNC,DNA gyrase,0.71,Tuberculosis
+Delamanid,CCNCO,ATP synthase,0.763,Tuberculosis
+Cycloserine,CCNCO,ATP synthase,0.692,Tuberculosis
+Rifampicin,CNC,ATP synthase,0.972,Tuberculosis
+Delamanid,CC(C)CC,ATP synthase,0.747,Tuberculosis
+Isoniazid,CCCO,DNA gyrase,0.932,Tuberculosis
+Pretomanid,CC(C)CC,Mycolic acid synthesis pathway,0.867,Tuberculosis
+Amikacin,CCCO,Mycobacterium tuberculosis InhA,0.593,Tuberculosis
+Pretomanid,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.617,Tuberculosis
+Delamanid,CCC,ATP synthase,0.869,Tuberculosis
+Moxifloxacin,CCC,ATP synthase,0.661,Tuberculosis
+Delamanid,CCCN,Mycobacterium tuberculosis InhA,0.608,Tuberculosis
+Cycloserine,C1CCCCC1,Cell wall synthesis enzyme,0.719,Tuberculosis
+Pyrazinamide,CC(C)CC,RNA polymerase,0.837,Tuberculosis
+Ethambutol,CCN,Cell wall synthesis enzyme,0.853,Tuberculosis
+Delamanid,CCNCO,Cell wall synthesis enzyme,0.909,Tuberculosis
+Amikacin,CCOC,RNA polymerase,0.556,Tuberculosis
+Cycloserine,CCNC,ATP synthase,0.689,Tuberculosis
+Capreomycin,CCNCO,Mycobacterium tuberculosis InhA,0.962,Tuberculosis
+Ethambutol,C1CCCCC1,Mycobacterium tuberculosis InhA,0.802,Tuberculosis
+Bedaquiline,CCOC,Mycobacterium tuberculosis InhA,0.63,Tuberculosis
+Pretomanid,C1CCCCC1,Mycobacterium tuberculosis InhA,0.677,Tuberculosis
+Moxifloxacin,CC(C)O,RNA polymerase,0.55,Tuberculosis
+Isoniazid,CNC,ATP synthase,0.946,Tuberculosis
+Amikacin,COC,RNA polymerase,0.936,Tuberculosis
+Pyrazinamide,CC(C)CC,ATP synthase,0.746,Tuberculosis
+Delamanid,CCCN,ATP synthase,0.965,Tuberculosis
+Ethambutol,CC(C)O,RNA polymerase,0.799,Tuberculosis
+Pyrazinamide,CNC,RNA polymerase,0.927,Tuberculosis
+Moxifloxacin,COC,Mycolic acid synthesis pathway,0.587,Tuberculosis
+Isoniazid,CCN,RNA polymerase,0.776,Tuberculosis
+Kanamycin,COC,Mycobacterium tuberculosis InhA,0.941,Tuberculosis
+Cycloserine,CCC,Mycobacterium tuberculosis InhA,0.894,Tuberculosis
+Linezolid,CCNCO,ATP synthase,0.806,Tuberculosis
+Clofazimine,CC(C)O,Mycobacterium tuberculosis InhA,0.748,Tuberculosis
+Capreomycin,CCOC(=O)C,Mycolic acid synthesis pathway,0.917,Tuberculosis
+Pyrazinamide,CCN,RNA polymerase,0.946,Tuberculosis
+Linezolid,CCNCO,Cell wall synthesis enzyme,0.882,Tuberculosis
+Bedaquiline,CC(C)O,DNA gyrase,0.778,Tuberculosis
+Moxifloxacin,CCNC,ATP synthase,0.694,Tuberculosis
+Ethambutol,CCN,ATP synthase,0.842,Tuberculosis
+Clofazimine,CCOC,Mycolic acid synthesis pathway,0.574,Tuberculosis
+Moxifloxacin,CCO,ATP synthase,0.619,Tuberculosis
+Pyrazinamide,CCCN,Mycolic acid synthesis pathway,0.955,Tuberculosis
+Amikacin,C1CCCCC1,DNA gyrase,0.641,Tuberculosis
+Delamanid,CCOC,Cell wall synthesis enzyme,0.716,Tuberculosis
+Delamanid,CCNC,ATP synthase,0.798,Tuberculosis
+Cycloserine,CCN(CC)CC,Mycolic acid synthesis pathway,0.691,Tuberculosis
+Clofazimine,CC(C)O,DNA gyrase,0.556,Tuberculosis
+Delamanid,CCN(CC)CC,RNA polymerase,0.822,Tuberculosis
+Kanamycin,CC(C)O,Mycobacterium tuberculosis InhA,0.562,Tuberculosis
+Pyrazinamide,CCN,Mycolic acid synthesis pathway,0.889,Tuberculosis
+Ethambutol,CCN,Mycobacterium tuberculosis InhA,0.721,Tuberculosis
+Cycloserine,CCOC,RNA polymerase,0.951,Tuberculosis
+Pretomanid,CCN,Mycobacterium tuberculosis InhA,0.71,Tuberculosis
+Pyrazinamide,CCOC,Mycobacterium tuberculosis InhA,0.752,Tuberculosis
+Pyrazinamide,COC,DNA gyrase,0.904,Tuberculosis
+Pretomanid,CCNCO,Mycolic acid synthesis pathway,0.754,Tuberculosis
+Levofloxacin,CCCO,Cell wall synthesis enzyme,0.938,Tuberculosis
+Cycloserine,CC(C)CC,RNA polymerase,0.557,Tuberculosis
+Cycloserine,CNC,RNA polymerase,0.556,Tuberculosis
+Rifampicin,C1CCCCC1,RNA polymerase,0.781,Tuberculosis
+Kanamycin,CNC,Mycolic acid synthesis pathway,0.597,Tuberculosis
+Linezolid,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.801,Tuberculosis
+Rifampicin,CCNC,Cell wall synthesis enzyme,0.611,Tuberculosis
+Bedaquiline,CNC,Mycobacterium tuberculosis InhA,0.856,Tuberculosis
+Clofazimine,CCO,RNA polymerase,0.941,Tuberculosis
+Bedaquiline,CCNC,ATP synthase,0.689,Tuberculosis
+Pretomanid,CCOC(=O)C,RNA polymerase,0.619,Tuberculosis
+Moxifloxacin,CCCN,Cell wall synthesis enzyme,0.599,Tuberculosis
+Kanamycin,CCOC(=O)C,DNA gyrase,0.672,Tuberculosis
+Ethambutol,CNC,Cell wall synthesis enzyme,0.857,Tuberculosis
+Kanamycin,CC(C)CC,Mycolic acid synthesis pathway,0.554,Tuberculosis
+Ethambutol,CC(C)O,Cell wall synthesis enzyme,0.974,Tuberculosis
+Capreomycin,CC(C)CC,ATP synthase,0.701,Tuberculosis
+Linezolid,COC,DNA gyrase,0.685,Tuberculosis
+Pyrazinamide,CCNC,ATP synthase,0.861,Tuberculosis
+Delamanid,CCN,DNA gyrase,0.871,Tuberculosis
+Ethambutol,CCNC,DNA gyrase,0.708,Tuberculosis
+Isoniazid,CCO,ATP synthase,0.726,Tuberculosis
+Pyrazinamide,C1CCCCC1,ATP synthase,0.871,Tuberculosis
+Isoniazid,CCNC,RNA polymerase,0.767,Tuberculosis
+Levofloxacin,CCCN,DNA gyrase,0.796,Tuberculosis
+Ethambutol,C1CCCCC1,Mycobacterium tuberculosis InhA,0.715,Tuberculosis
+Ethambutol,CCNCO,Mycobacterium tuberculosis InhA,0.673,Tuberculosis
+Cycloserine,CCCO,Mycolic acid synthesis pathway,0.683,Tuberculosis
+Pretomanid,CCNC,ATP synthase,0.751,Tuberculosis
+Linezolid,CCNCO,DNA gyrase,0.613,Tuberculosis
+Amikacin,CNC,Mycolic acid synthesis pathway,0.886,Tuberculosis
+Clofazimine,CCN,RNA polymerase,0.611,Tuberculosis
+Ethambutol,CCC,Mycolic acid synthesis pathway,0.572,Tuberculosis
+Isoniazid,COC,Mycobacterium tuberculosis InhA,0.834,Tuberculosis
+Linezolid,CCC,ATP synthase,0.791,Tuberculosis
+Isoniazid,CCN(CC)CC,DNA gyrase,0.683,Tuberculosis
+Linezolid,CCC,Mycobacterium tuberculosis InhA,0.837,Tuberculosis
+Moxifloxacin,CCCO,DNA gyrase,0.795,Tuberculosis
+Isoniazid,CCN,Mycolic acid synthesis pathway,0.814,Tuberculosis
+Ethambutol,CCN(CC)CC,RNA polymerase,0.57,Tuberculosis
+Rifampicin,CCCO,Cell wall synthesis enzyme,0.694,Tuberculosis
+Rifampicin,CC(C)O,RNA polymerase,0.632,Tuberculosis
+Levofloxacin,CCC,Mycobacterium tuberculosis InhA,0.696,Tuberculosis
+Amikacin,CCOC(=O)C,Cell wall synthesis enzyme,0.569,Tuberculosis
+Isoniazid,CCC,Mycobacterium tuberculosis InhA,0.779,Tuberculosis
+Pyrazinamide,COC,RNA polymerase,0.639,Tuberculosis
+Levofloxacin,CCOC,DNA gyrase,0.642,Tuberculosis
+Pyrazinamide,CCN,ATP synthase,0.756,Tuberculosis
+Capreomycin,CCN,Cell wall synthesis enzyme,0.877,Tuberculosis
+Rifampicin,CCOC,DNA gyrase,0.837,Tuberculosis
+Rifampicin,CCNC,Mycolic acid synthesis pathway,0.723,Tuberculosis
+Pretomanid,CCC,Mycobacterium tuberculosis InhA,0.638,Tuberculosis
+Delamanid,C1CCCCC1,Cell wall synthesis enzyme,0.949,Tuberculosis
+Levofloxacin,CCO,ATP synthase,0.832,Tuberculosis
+Moxifloxacin,CCCO,DNA gyrase,0.849,Tuberculosis
+Delamanid,COC,DNA gyrase,0.691,Tuberculosis
+Rifampicin,CCCO,Mycolic acid synthesis pathway,0.752,Tuberculosis
+Ethambutol,CC(C)CC,Mycobacterium tuberculosis InhA,0.645,Tuberculosis
+Isoniazid,CCN,ATP synthase,0.687,Tuberculosis
+Delamanid,CCCN,Cell wall synthesis enzyme,0.76,Tuberculosis
+Cycloserine,CCN,Mycolic acid synthesis pathway,0.751,Tuberculosis
+Pretomanid,CNC,Cell wall synthesis enzyme,0.704,Tuberculosis
+Isoniazid,CCCO,Cell wall synthesis enzyme,0.575,Tuberculosis
+Cycloserine,CCN,ATP synthase,0.798,Tuberculosis
+Cycloserine,CCOC,RNA polymerase,0.928,Tuberculosis
+Rifampicin,CCCN,Mycobacterium tuberculosis InhA,0.74,Tuberculosis
+Delamanid,CCO,Mycolic acid synthesis pathway,0.588,Tuberculosis
+Pyrazinamide,CCCN,RNA polymerase,0.609,Tuberculosis
+Linezolid,CCOC,Mycolic acid synthesis pathway,0.859,Tuberculosis
+Rifampicin,C1CCCCC1,RNA polymerase,0.68,Tuberculosis
+Clofazimine,CCNC,Mycolic acid synthesis pathway,0.728,Tuberculosis
+Clofazimine,CCNCO,ATP synthase,0.632,Tuberculosis
+Clofazimine,CCC,Mycobacterium tuberculosis InhA,0.791,Tuberculosis
+Cycloserine,CCNC,Mycobacterium tuberculosis InhA,0.681,Tuberculosis
+Pretomanid,CCCO,Mycobacterium tuberculosis InhA,0.971,Tuberculosis
+Rifampicin,CCOC(=O)C,Cell wall synthesis enzyme,0.973,Tuberculosis
+Levofloxacin,CCNCO,Cell wall synthesis enzyme,0.665,Tuberculosis
+Delamanid,CNC,ATP synthase,0.924,Tuberculosis
+Pretomanid,CC(C)CC,ATP synthase,0.576,Tuberculosis
+Levofloxacin,CC(C)CC,ATP synthase,0.795,Tuberculosis
+Moxifloxacin,CCCN,DNA gyrase,0.969,Tuberculosis
+Rifampicin,CCC,Mycobacterium tuberculosis InhA,0.65,Tuberculosis
+Clofazimine,CCOC(=O)C,RNA polymerase,0.697,Tuberculosis
+Amikacin,CCOC,ATP synthase,0.669,Tuberculosis
+Rifampicin,CC(C)CC,RNA polymerase,0.592,Tuberculosis
+Linezolid,CNC,DNA gyrase,0.709,Tuberculosis
+Moxifloxacin,COC,Mycolic acid synthesis pathway,0.762,Tuberculosis
+Moxifloxacin,CCNCO,Mycobacterium tuberculosis InhA,0.826,Tuberculosis
+Delamanid,CNC,Cell wall synthesis enzyme,0.86,Tuberculosis
+Moxifloxacin,CCCN,Cell wall synthesis enzyme,0.722,Tuberculosis
+Delamanid,CCNC,ATP synthase,0.967,Tuberculosis
+Amikacin,CCN,ATP synthase,0.832,Tuberculosis
+Levofloxacin,CCN(CC)CC,DNA gyrase,0.795,Tuberculosis
+Moxifloxacin,CCNCO,ATP synthase,0.842,Tuberculosis
+Ethambutol,COC,Mycolic acid synthesis pathway,0.665,Tuberculosis
+Isoniazid,CCN,ATP synthase,0.975,Tuberculosis
+Bedaquiline,CCO,ATP synthase,0.923,Tuberculosis
+Linezolid,CNC,ATP synthase,0.645,Tuberculosis
+Clofazimine,CCCN,ATP synthase,0.83,Tuberculosis
+Levofloxacin,CCN(CC)CC,Cell wall synthesis enzyme,0.688,Tuberculosis
+Bedaquiline,COC,RNA polymerase,0.795,Tuberculosis
+Clofazimine,CC(C)CC,DNA gyrase,0.615,Tuberculosis
+Levofloxacin,CNC,Cell wall synthesis enzyme,0.815,Tuberculosis
+Bedaquiline,CCOC(=O)C,RNA polymerase,0.947,Tuberculosis
+Delamanid,CCC,Cell wall synthesis enzyme,0.659,Tuberculosis
+Cycloserine,CC(C)O,Mycolic acid synthesis pathway,0.668,Tuberculosis
+Cycloserine,C1CCCCC1,DNA gyrase,0.858,Tuberculosis
+Delamanid,CNC,Mycobacterium tuberculosis InhA,0.661,Tuberculosis
+Capreomycin,CCNC,ATP synthase,0.558,Tuberculosis
+Levofloxacin,CNC,Mycolic acid synthesis pathway,0.768,Tuberculosis
+Kanamycin,CCOC(=O)C,ATP synthase,0.844,Tuberculosis
+Pretomanid,CCOC(=O)C,ATP synthase,0.926,Tuberculosis
+Bedaquiline,CCNCO,DNA gyrase,0.777,Tuberculosis
+Moxifloxacin,C1CCCCC1,Cell wall synthesis enzyme,0.653,Tuberculosis
+Bedaquiline,CC(C)CC,Mycobacterium tuberculosis InhA,0.71,Tuberculosis
+Ethambutol,CCC,ATP synthase,0.927,Tuberculosis
+Linezolid,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.974,Tuberculosis
+Capreomycin,CCCN,Cell wall synthesis enzyme,0.908,Tuberculosis
+Pyrazinamide,CCNCO,Mycobacterium tuberculosis InhA,0.551,Tuberculosis
+Kanamycin,CCCN,DNA gyrase,0.563,Tuberculosis
+Linezolid,C1CCCCC1,RNA polymerase,0.618,Tuberculosis
+Pyrazinamide,CCCO,Mycobacterium tuberculosis InhA,0.584,Tuberculosis
+Delamanid,CCO,Mycolic acid synthesis pathway,0.675,Tuberculosis
+Pretomanid,CC(C)O,ATP synthase,0.765,Tuberculosis
+Isoniazid,C1CCCCC1,Cell wall synthesis enzyme,0.684,Tuberculosis
+Bedaquiline,CC(C)CC,DNA gyrase,0.564,Tuberculosis
+Rifampicin,COC,Mycolic acid synthesis pathway,0.785,Tuberculosis
+Ethambutol,CCO,RNA polymerase,0.758,Tuberculosis
+Kanamycin,CCN,RNA polymerase,0.659,Tuberculosis
+Kanamycin,CCC,ATP synthase,0.765,Tuberculosis
+Cycloserine,CCN(CC)CC,Mycolic acid synthesis pathway,0.776,Tuberculosis
+Isoniazid,CCN(CC)CC,ATP synthase,0.68,Tuberculosis
+Capreomycin,CCN,Mycolic acid synthesis pathway,0.822,Tuberculosis
+Delamanid,CCC,Mycolic acid synthesis pathway,0.794,Tuberculosis
+Clofazimine,CC(C)CC,Mycolic acid synthesis pathway,0.763,Tuberculosis
+Ethambutol,CCO,ATP synthase,0.833,Tuberculosis
+Clofazimine,CCCN,Mycobacterium tuberculosis InhA,0.603,Tuberculosis
+Delamanid,CC(C)CC,Mycobacterium tuberculosis InhA,0.603,Tuberculosis
+Pyrazinamide,C1CCCCC1,Cell wall synthesis enzyme,0.795,Tuberculosis
+Ethambutol,CCCN,Mycolic acid synthesis pathway,0.772,Tuberculosis
+Levofloxacin,CCNC,Cell wall synthesis enzyme,0.823,Tuberculosis
+Cycloserine,CC(C)CC,RNA polymerase,0.641,Tuberculosis
+Pyrazinamide,CCCO,ATP synthase,0.959,Tuberculosis
+Moxifloxacin,CC(C)O,DNA gyrase,0.955,Tuberculosis
+Isoniazid,C1CCCCC1,Mycolic acid synthesis pathway,0.919,Tuberculosis
+Levofloxacin,CC(C)O,DNA gyrase,0.834,Tuberculosis
+Ethambutol,CCNCO,RNA polymerase,0.81,Tuberculosis
+Capreomycin,CNC,RNA polymerase,0.598,Tuberculosis
+Rifampicin,CCNC,ATP synthase,0.561,Tuberculosis
+Clofazimine,CCO,RNA polymerase,0.604,Tuberculosis
+Levofloxacin,CCN,Mycolic acid synthesis pathway,0.789,Tuberculosis
+Moxifloxacin,CNC,ATP synthase,0.752,Tuberculosis
+Cycloserine,C1CCCCC1,Cell wall synthesis enzyme,0.891,Tuberculosis
+Moxifloxacin,COC,Mycobacterium tuberculosis InhA,0.851,Tuberculosis
+Bedaquiline,CCO,ATP synthase,0.94,Tuberculosis
+Linezolid,CC(C)O,Mycolic acid synthesis pathway,0.578,Tuberculosis
+Pretomanid,CCO,Mycobacterium tuberculosis InhA,0.555,Tuberculosis
+Pretomanid,CCC,DNA gyrase,0.608,Tuberculosis
+Clofazimine,CCC,RNA polymerase,0.819,Tuberculosis
+Bedaquiline,CCO,Mycolic acid synthesis pathway,0.6,Tuberculosis
+Levofloxacin,CC(C)O,Cell wall synthesis enzyme,0.715,Tuberculosis
+Ethambutol,CNC,RNA polymerase,0.967,Tuberculosis
+Moxifloxacin,CCCO,Mycolic acid synthesis pathway,0.854,Tuberculosis
+Cycloserine,CCNC,Mycolic acid synthesis pathway,0.649,Tuberculosis
+Bedaquiline,CNC,Cell wall synthesis enzyme,0.6,Tuberculosis
+Bedaquiline,CCC,Mycobacterium tuberculosis InhA,0.55,Tuberculosis
+Clofazimine,CCOC(=O)C,Cell wall synthesis enzyme,0.639,Tuberculosis
+Levofloxacin,CCC,ATP synthase,0.683,Tuberculosis
+Bedaquiline,CCCO,Mycobacterium tuberculosis InhA,0.572,Tuberculosis
+Levofloxacin,CC(C)O,Cell wall synthesis enzyme,0.701,Tuberculosis
+Delamanid,CCN,Mycobacterium tuberculosis InhA,0.701,Tuberculosis
+Moxifloxacin,CNC,DNA gyrase,0.834,Tuberculosis
+Clofazimine,COC,Mycobacterium tuberculosis InhA,0.761,Tuberculosis
+Bedaquiline,C1CCCCC1,Mycobacterium tuberculosis InhA,0.887,Tuberculosis
+Ethambutol,CCO,DNA gyrase,0.915,Tuberculosis
+Isoniazid,CC(C)CC,RNA polymerase,0.861,Tuberculosis
+Kanamycin,COC,ATP synthase,0.709,Tuberculosis
+Pyrazinamide,CCO,Mycolic acid synthesis pathway,0.978,Tuberculosis
+Linezolid,CCNCO,Mycobacterium tuberculosis InhA,0.621,Tuberculosis
+Levofloxacin,CCNCO,ATP synthase,0.964,Tuberculosis
+Pretomanid,C1CCCCC1,Mycolic acid synthesis pathway,0.735,Tuberculosis
+Rifampicin,CNC,ATP synthase,0.699,Tuberculosis
+Capreomycin,CCN,DNA gyrase,0.711,Tuberculosis
+Capreomycin,CC(C)CC,Mycobacterium tuberculosis InhA,0.847,Tuberculosis
+Capreomycin,CCCN,Mycolic acid synthesis pathway,0.85,Tuberculosis
+Kanamycin,CCOC,DNA gyrase,0.653,Tuberculosis
+Cycloserine,CCOC,Cell wall synthesis enzyme,0.807,Tuberculosis
+Capreomycin,CCC,Mycolic acid synthesis pathway,0.77,Tuberculosis
+Linezolid,CCN,Mycobacterium tuberculosis InhA,0.55,Tuberculosis
+Pretomanid,CCO,Mycobacterium tuberculosis InhA,0.762,Tuberculosis
+Kanamycin,CCO,RNA polymerase,0.852,Tuberculosis
+Pretomanid,CNC,RNA polymerase,0.839,Tuberculosis
+Clofazimine,CCO,ATP synthase,0.634,Tuberculosis
+Kanamycin,CC(C)CC,ATP synthase,0.736,Tuberculosis
+Moxifloxacin,CCNC,ATP synthase,0.556,Tuberculosis
+Ethambutol,C1CCCCC1,DNA gyrase,0.822,Tuberculosis
+Linezolid,CCO,Mycobacterium tuberculosis InhA,0.849,Tuberculosis
+Clofazimine,CCOC(=O)C,Cell wall synthesis enzyme,0.816,Tuberculosis
+Clofazimine,CCN(CC)CC,Cell wall synthesis enzyme,0.967,Tuberculosis
+Levofloxacin,CCNCO,ATP synthase,0.634,Tuberculosis
+Pretomanid,COC,DNA gyrase,0.641,Tuberculosis
+Clofazimine,CCOC(=O)C,RNA polymerase,0.888,Tuberculosis
+Clofazimine,CC(C)O,Mycolic acid synthesis pathway,0.571,Tuberculosis
+Isoniazid,CC(C)CC,Mycobacterium tuberculosis InhA,0.624,Tuberculosis
+Delamanid,CCCN,RNA polymerase,0.713,Tuberculosis
+Linezolid,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.552,Tuberculosis
+Clofazimine,COC,Mycolic acid synthesis pathway,0.719,Tuberculosis
+Pyrazinamide,CCN,Mycobacterium tuberculosis InhA,0.821,Tuberculosis
+Rifampicin,CCCO,ATP synthase,0.97,Tuberculosis
+Amikacin,CC(C)O,RNA polymerase,0.587,Tuberculosis
+Bedaquiline,CCCO,Cell wall synthesis enzyme,0.617,Tuberculosis
+Pyrazinamide,CCCO,DNA gyrase,0.693,Tuberculosis
+Kanamycin,CC(C)CC,ATP synthase,0.952,Tuberculosis
+Cycloserine,COC,ATP synthase,0.778,Tuberculosis
+Amikacin,CCC,DNA gyrase,0.779,Tuberculosis
+Moxifloxacin,COC,RNA polymerase,0.955,Tuberculosis
+Pyrazinamide,CCN(CC)CC,DNA gyrase,0.922,Tuberculosis
+Pretomanid,CC(C)CC,Mycobacterium tuberculosis InhA,0.603,Tuberculosis
+Clofazimine,C1CCCCC1,Mycolic acid synthesis pathway,0.797,Tuberculosis
+Kanamycin,CCCO,Cell wall synthesis enzyme,0.579,Tuberculosis
+Isoniazid,CCC,DNA gyrase,0.812,Tuberculosis
+Bedaquiline,CC(C)CC,DNA gyrase,0.594,Tuberculosis
+Linezolid,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.733,Tuberculosis
+Rifampicin,CCOC,Cell wall synthesis enzyme,0.624,Tuberculosis
+Isoniazid,CCCO,DNA gyrase,0.889,Tuberculosis
+Linezolid,CC(C)CC,ATP synthase,0.641,Tuberculosis
+Clofazimine,CCN(CC)CC,Mycolic acid synthesis pathway,0.736,Tuberculosis
+Pyrazinamide,CCOC,RNA polymerase,0.805,Tuberculosis
+Kanamycin,CCCO,Mycobacterium tuberculosis InhA,0.906,Tuberculosis
+Delamanid,CCOC,RNA polymerase,0.615,Tuberculosis
+Moxifloxacin,CCN,Mycobacterium tuberculosis InhA,0.897,Tuberculosis
+Cycloserine,COC,ATP synthase,0.77,Tuberculosis
+Amikacin,C1CCCCC1,Mycolic acid synthesis pathway,0.587,Tuberculosis
+Linezolid,CCO,ATP synthase,0.756,Tuberculosis
+Delamanid,CCN,RNA polymerase,0.552,Tuberculosis
+Amikacin,CCC,Mycolic acid synthesis pathway,0.9,Tuberculosis
+Delamanid,CCN(CC)CC,Cell wall synthesis enzyme,0.905,Tuberculosis
+Kanamycin,CCNCO,Mycobacterium tuberculosis InhA,0.841,Tuberculosis
+Cycloserine,CCNC,RNA polymerase,0.56,Tuberculosis
+Pretomanid,CNC,ATP synthase,0.794,Tuberculosis
+Pretomanid,CCCN,Mycobacterium tuberculosis InhA,0.871,Tuberculosis
+Amikacin,CCNC,DNA gyrase,0.757,Tuberculosis
+Ethambutol,CCO,Mycobacterium tuberculosis InhA,0.725,Tuberculosis
+Kanamycin,CCCO,ATP synthase,0.976,Tuberculosis
+Bedaquiline,CC(C)O,Cell wall synthesis enzyme,0.921,Tuberculosis
+Delamanid,C1CCCCC1,DNA gyrase,0.946,Tuberculosis
+Kanamycin,CCCO,RNA polymerase,0.826,Tuberculosis
+Isoniazid,CCOC,DNA gyrase,0.603,Tuberculosis
+Pretomanid,COC,DNA gyrase,0.943,Tuberculosis
+Bedaquiline,CC(C)CC,Cell wall synthesis enzyme,0.976,Tuberculosis
+Pretomanid,CCOC,Mycolic acid synthesis pathway,0.582,Tuberculosis
+Levofloxacin,CCNCO,RNA polymerase,0.69,Tuberculosis
+Linezolid,COC,ATP synthase,0.637,Tuberculosis
+Cycloserine,C1CCCCC1,Mycolic acid synthesis pathway,0.814,Tuberculosis
+Clofazimine,CCC,DNA gyrase,0.61,Tuberculosis
+Clofazimine,COC,DNA gyrase,0.825,Tuberculosis
+Capreomycin,CCCN,Mycolic acid synthesis pathway,0.64,Tuberculosis
+Kanamycin,CCCN,Cell wall synthesis enzyme,0.847,Tuberculosis
+Delamanid,CCCO,Cell wall synthesis enzyme,0.558,Tuberculosis
+Isoniazid,CCN,Cell wall synthesis enzyme,0.866,Tuberculosis
+Kanamycin,CCCN,Cell wall synthesis enzyme,0.618,Tuberculosis
+Delamanid,CCOC(=O)C,RNA polymerase,0.626,Tuberculosis
+Kanamycin,CNC,Mycolic acid synthesis pathway,0.697,Tuberculosis
+Delamanid,C1CCCCC1,RNA polymerase,0.585,Tuberculosis
+Moxifloxacin,CCN(CC)CC,ATP synthase,0.849,Tuberculosis
+Capreomycin,CCN,RNA polymerase,0.667,Tuberculosis
+Ethambutol,CC(C)CC,ATP synthase,0.757,Tuberculosis
+Linezolid,CCOC,Mycobacterium tuberculosis InhA,0.939,Tuberculosis
+Delamanid,CCN(CC)CC,DNA gyrase,0.606,Tuberculosis
+Rifampicin,CCCO,DNA gyrase,0.836,Tuberculosis
+Moxifloxacin,COC,DNA gyrase,0.894,Tuberculosis
+Bedaquiline,CCN(CC)CC,Mycolic acid synthesis pathway,0.67,Tuberculosis
+Rifampicin,CNC,Mycobacterium tuberculosis InhA,0.55,Tuberculosis
+Bedaquiline,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.633,Tuberculosis
+Clofazimine,CCOC,RNA polymerase,0.652,Tuberculosis
+Rifampicin,CCCO,Mycolic acid synthesis pathway,0.652,Tuberculosis
+Clofazimine,CCCN,ATP synthase,0.845,Tuberculosis
+Kanamycin,CCC,Mycolic acid synthesis pathway,0.944,Tuberculosis
+Moxifloxacin,CCCO,ATP synthase,0.775,Tuberculosis
+Cycloserine,CCOC,DNA gyrase,0.972,Tuberculosis
+Moxifloxacin,CCOC,DNA gyrase,0.804,Tuberculosis
+Bedaquiline,C1CCCCC1,Mycobacterium tuberculosis InhA,0.863,Tuberculosis
+Kanamycin,CCC,ATP synthase,0.577,Tuberculosis
+Moxifloxacin,CCCO,RNA polymerase,0.562,Tuberculosis
+Levofloxacin,CNC,RNA polymerase,0.583,Tuberculosis
+Moxifloxacin,CC(C)O,Cell wall synthesis enzyme,0.895,Tuberculosis
+Pyrazinamide,CCO,ATP synthase,0.817,Tuberculosis
+Rifampicin,CCNCO,Cell wall synthesis enzyme,0.889,Tuberculosis
+Kanamycin,CC(C)CC,Cell wall synthesis enzyme,0.787,Tuberculosis
+Cycloserine,CC(C)CC,Cell wall synthesis enzyme,0.814,Tuberculosis
+Delamanid,CCC,Mycolic acid synthesis pathway,0.633,Tuberculosis
+Rifampicin,CCCO,ATP synthase,0.733,Tuberculosis
+Cycloserine,COC,RNA polymerase,0.898,Tuberculosis
+Amikacin,CCNC,Mycobacterium tuberculosis InhA,0.662,Tuberculosis
+Ethambutol,CNC,ATP synthase,0.886,Tuberculosis
+Delamanid,CC(C)O,ATP synthase,0.888,Tuberculosis
+Moxifloxacin,CCOC(=O)C,Mycolic acid synthesis pathway,0.568,Tuberculosis
+Delamanid,CCC,ATP synthase,0.891,Tuberculosis
+Moxifloxacin,CC(C)O,Mycolic acid synthesis pathway,0.766,Tuberculosis
+Bedaquiline,CCOC,ATP synthase,0.575,Tuberculosis
+Levofloxacin,CCN(CC)CC,Cell wall synthesis enzyme,0.698,Tuberculosis
+Clofazimine,CCC,ATP synthase,0.862,Tuberculosis
+Rifampicin,CCOC(=O)C,RNA polymerase,0.583,Tuberculosis
+Rifampicin,C1CCCCC1,Cell wall synthesis enzyme,0.8,Tuberculosis
+Kanamycin,COC,Cell wall synthesis enzyme,0.687,Tuberculosis
+Levofloxacin,COC,Mycolic acid synthesis pathway,0.552,Tuberculosis
+Bedaquiline,CCNCO,ATP synthase,0.974,Tuberculosis
+Linezolid,CCOC(=O)C,RNA polymerase,0.681,Tuberculosis
+Isoniazid,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.935,Tuberculosis
+Pretomanid,CCN(CC)CC,DNA gyrase,0.94,Tuberculosis
+Ethambutol,CC(C)CC,ATP synthase,0.667,Tuberculosis
+Pretomanid,CCOC,Mycolic acid synthesis pathway,0.653,Tuberculosis
+Moxifloxacin,CNC,ATP synthase,0.611,Tuberculosis
+Levofloxacin,CCN(CC)CC,ATP synthase,0.575,Tuberculosis
+Moxifloxacin,CCCN,Cell wall synthesis enzyme,0.815,Tuberculosis
+Amikacin,COC,Mycobacterium tuberculosis InhA,0.93,Tuberculosis
+Bedaquiline,CC(C)CC,RNA polymerase,0.677,Tuberculosis
+Bedaquiline,CCOC(=O)C,ATP synthase,0.682,Tuberculosis
+Cycloserine,CCOC(=O)C,DNA gyrase,0.833,Tuberculosis
+Clofazimine,CCN(CC)CC,DNA gyrase,0.872,Tuberculosis
+Cycloserine,C1CCCCC1,Mycolic acid synthesis pathway,0.704,Tuberculosis
+Ethambutol,CNC,Mycobacterium tuberculosis InhA,0.729,Tuberculosis
+Rifampicin,CC(C)CC,Cell wall synthesis enzyme,0.757,Tuberculosis
+Isoniazid,CCN,ATP synthase,0.881,Tuberculosis
+Pyrazinamide,CC(C)CC,ATP synthase,0.93,Tuberculosis
+Levofloxacin,CC(C)O,ATP synthase,0.662,Tuberculosis
+Delamanid,CCNCO,Mycobacterium tuberculosis InhA,0.948,Tuberculosis
+Isoniazid,CCOC,ATP synthase,0.916,Tuberculosis
+Ethambutol,CCNCO,Mycobacterium tuberculosis InhA,0.878,Tuberculosis
+Bedaquiline,CC(C)CC,Mycobacterium tuberculosis InhA,0.705,Tuberculosis
+Delamanid,CCCO,DNA gyrase,0.786,Tuberculosis
+Moxifloxacin,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.72,Tuberculosis
+Ethambutol,CCOC,DNA gyrase,0.77,Tuberculosis
+Ethambutol,CCOC,Mycolic acid synthesis pathway,0.689,Tuberculosis
+Isoniazid,C1CCCCC1,Mycobacterium tuberculosis InhA,0.739,Tuberculosis
+Ethambutol,CCNCO,Cell wall synthesis enzyme,0.745,Tuberculosis
+Bedaquiline,CNC,ATP synthase,0.782,Tuberculosis
+Isoniazid,CCN(CC)CC,RNA polymerase,0.868,Tuberculosis
+Clofazimine,CCOC,RNA polymerase,0.878,Tuberculosis
+Cycloserine,C1CCCCC1,Mycobacterium tuberculosis InhA,0.917,Tuberculosis
+Kanamycin,CNC,RNA polymerase,0.748,Tuberculosis
+Capreomycin,CCCN,DNA gyrase,0.616,Tuberculosis
+Kanamycin,CCCN,Cell wall synthesis enzyme,0.859,Tuberculosis
+Linezolid,CCCN,Cell wall synthesis enzyme,0.6,Tuberculosis
+Kanamycin,CC(C)O,Mycobacterium tuberculosis InhA,0.942,Tuberculosis
+Delamanid,C1CCCCC1,DNA gyrase,0.687,Tuberculosis
+Capreomycin,CCN,Mycolic acid synthesis pathway,0.749,Tuberculosis
+Bedaquiline,CCO,Mycolic acid synthesis pathway,0.747,Tuberculosis
+Rifampicin,CCN,Mycolic acid synthesis pathway,0.579,Tuberculosis
+Isoniazid,C1CCCCC1,Cell wall synthesis enzyme,0.69,Tuberculosis
+Ethambutol,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.556,Tuberculosis
+Moxifloxacin,CCN,RNA polymerase,0.924,Tuberculosis
+Capreomycin,CC(C)O,Mycobacterium tuberculosis InhA,0.65,Tuberculosis
+Kanamycin,CCNCO,Cell wall synthesis enzyme,0.553,Tuberculosis
+Linezolid,CNC,RNA polymerase,0.914,Tuberculosis
+Cycloserine,CCN(CC)CC,RNA polymerase,0.671,Tuberculosis
+Kanamycin,CCOC,DNA gyrase,0.625,Tuberculosis
+Capreomycin,CCNC,RNA polymerase,0.572,Tuberculosis
+Kanamycin,CCOC(=O)C,RNA polymerase,0.715,Tuberculosis
+Ethambutol,COC,DNA gyrase,0.744,Tuberculosis
+Pretomanid,CCN(CC)CC,DNA gyrase,0.671,Tuberculosis
+Clofazimine,CCC,Cell wall synthesis enzyme,0.822,Tuberculosis
+Pretomanid,CCNC,DNA gyrase,0.96,Tuberculosis
+Linezolid,CCNC,Mycobacterium tuberculosis InhA,0.609,Tuberculosis
+Ethambutol,CCN(CC)CC,DNA gyrase,0.808,Tuberculosis
+Cycloserine,CC(C)CC,ATP synthase,0.725,Tuberculosis
+Kanamycin,COC,ATP synthase,0.653,Tuberculosis
+Levofloxacin,CCN,Cell wall synthesis enzyme,0.721,Tuberculosis
+Amikacin,CCO,RNA polymerase,0.817,Tuberculosis
+Levofloxacin,CCNCO,Mycobacterium tuberculosis InhA,0.673,Tuberculosis
+Ethambutol,C1CCCCC1,Cell wall synthesis enzyme,0.596,Tuberculosis
+Clofazimine,CCN,Mycolic acid synthesis pathway,0.886,Tuberculosis
+Amikacin,CCNC,DNA gyrase,0.955,Tuberculosis
+Ethambutol,CCN,Cell wall synthesis enzyme,0.726,Tuberculosis
+Linezolid,CCOC,RNA polymerase,0.554,Tuberculosis
+Amikacin,CCCO,Mycolic acid synthesis pathway,0.687,Tuberculosis
+Rifampicin,CCN,Mycobacterium tuberculosis InhA,0.841,Tuberculosis
+Delamanid,CCOC,ATP synthase,0.773,Tuberculosis
+Rifampicin,CCN(CC)CC,Cell wall synthesis enzyme,0.732,Tuberculosis
+Linezolid,CCCN,Mycobacterium tuberculosis InhA,0.671,Tuberculosis
+Bedaquiline,CCCO,RNA polymerase,0.804,Tuberculosis
+Linezolid,CCOC,DNA gyrase,0.61,Tuberculosis
+Rifampicin,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.551,Tuberculosis
+Pyrazinamide,C1CCCCC1,Mycolic acid synthesis pathway,0.671,Tuberculosis
+Delamanid,CCO,Cell wall synthesis enzyme,0.801,Tuberculosis
+Pyrazinamide,CCNCO,DNA gyrase,0.976,Tuberculosis
+Moxifloxacin,CC(C)O,Mycolic acid synthesis pathway,0.623,Tuberculosis
+Pretomanid,CNC,ATP synthase,0.623,Tuberculosis
+Amikacin,CCOC(=O)C,RNA polymerase,0.855,Tuberculosis
+Delamanid,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.844,Tuberculosis
+Kanamycin,CCO,ATP synthase,0.686,Tuberculosis
+Moxifloxacin,CCC,RNA polymerase,0.841,Tuberculosis
+Amikacin,CCO,RNA polymerase,0.691,Tuberculosis
+Kanamycin,CCN,Mycolic acid synthesis pathway,0.645,Tuberculosis
+Pyrazinamide,CCN,Cell wall synthesis enzyme,0.942,Tuberculosis
+Cycloserine,CCO,Cell wall synthesis enzyme,0.956,Tuberculosis
+Delamanid,CCCN,RNA polymerase,0.613,Tuberculosis
+Ethambutol,CCOC,Cell wall synthesis enzyme,0.709,Tuberculosis
+Pretomanid,CCCO,Cell wall synthesis enzyme,0.86,Tuberculosis
+Rifampicin,CC(C)CC,Cell wall synthesis enzyme,0.55,Tuberculosis
+Delamanid,CCNCO,Cell wall synthesis enzyme,0.666,Tuberculosis
+Capreomycin,CCNCO,ATP synthase,0.863,Tuberculosis
+Moxifloxacin,CCN(CC)CC,DNA gyrase,0.791,Tuberculosis
+Pretomanid,CC(C)CC,Mycolic acid synthesis pathway,0.597,Tuberculosis
+Isoniazid,COC,Mycobacterium tuberculosis InhA,0.962,Tuberculosis
+Linezolid,CCNCO,RNA polymerase,0.665,Tuberculosis
+Isoniazid,CNC,Mycobacterium tuberculosis InhA,0.793,Tuberculosis
+Amikacin,CC(C)O,Mycobacterium tuberculosis InhA,0.663,Tuberculosis
+Cycloserine,CNC,Mycolic acid synthesis pathway,0.95,Tuberculosis
+Amikacin,CC(C)CC,ATP synthase,0.87,Tuberculosis
+Capreomycin,CCCN,RNA polymerase,0.741,Tuberculosis
+Levofloxacin,CCO,Cell wall synthesis enzyme,0.632,Tuberculosis
+Moxifloxacin,CCN,Mycobacterium tuberculosis InhA,0.881,Tuberculosis
+Moxifloxacin,CC(C)O,Mycolic acid synthesis pathway,0.677,Tuberculosis
+Levofloxacin,CC(C)O,Mycolic acid synthesis pathway,0.886,Tuberculosis
+Rifampicin,CC(C)CC,Cell wall synthesis enzyme,0.604,Tuberculosis
+Capreomycin,CCC,RNA polymerase,0.804,Tuberculosis
+Delamanid,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.866,Tuberculosis
+Cycloserine,CCCO,ATP synthase,0.809,Tuberculosis
+Kanamycin,C1CCCCC1,Mycobacterium tuberculosis InhA,0.864,Tuberculosis
+Rifampicin,CCOC,Cell wall synthesis enzyme,0.668,Tuberculosis
+Delamanid,CC(C)CC,Mycolic acid synthesis pathway,0.939,Tuberculosis
+Moxifloxacin,CCCN,Cell wall synthesis enzyme,0.876,Tuberculosis
+Ethambutol,CCC,DNA gyrase,0.666,Tuberculosis
+Linezolid,C1CCCCC1,Cell wall synthesis enzyme,0.787,Tuberculosis
+Pyrazinamide,CCOC(=O)C,RNA polymerase,0.711,Tuberculosis
+Isoniazid,CCO,Cell wall synthesis enzyme,0.935,Tuberculosis
+Rifampicin,CCCN,Mycobacterium tuberculosis InhA,0.599,Tuberculosis
+Linezolid,CCOC,ATP synthase,0.945,Tuberculosis
+Moxifloxacin,CCCO,ATP synthase,0.966,Tuberculosis
+Isoniazid,CCN,Mycolic acid synthesis pathway,0.569,Tuberculosis
+Cycloserine,CCNC,ATP synthase,0.788,Tuberculosis
+Pretomanid,CNC,Mycobacterium tuberculosis InhA,0.719,Tuberculosis
+Amikacin,CCNCO,DNA gyrase,0.843,Tuberculosis
+Rifampicin,CCOC,RNA polymerase,0.611,Tuberculosis
+Pretomanid,CCO,Mycobacterium tuberculosis InhA,0.642,Tuberculosis
+Isoniazid,CCNC,Mycolic acid synthesis pathway,0.669,Tuberculosis
+Delamanid,CCO,Mycobacterium tuberculosis InhA,0.925,Tuberculosis
+Cycloserine,CCCN,Cell wall synthesis enzyme,0.957,Tuberculosis
+Pyrazinamide,CNC,Mycobacterium tuberculosis InhA,0.664,Tuberculosis
+Clofazimine,CCO,Cell wall synthesis enzyme,0.869,Tuberculosis
+Isoniazid,CCNCO,Mycolic acid synthesis pathway,0.813,Tuberculosis
+Capreomycin,CCO,Mycobacterium tuberculosis InhA,0.875,Tuberculosis
+Levofloxacin,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.951,Tuberculosis
+Isoniazid,CC(C)CC,ATP synthase,0.884,Tuberculosis
+Rifampicin,CCCN,ATP synthase,0.754,Tuberculosis
+Pretomanid,CNC,Cell wall synthesis enzyme,0.781,Tuberculosis
+Clofazimine,COC,Mycolic acid synthesis pathway,0.794,Tuberculosis
+Clofazimine,CNC,Mycobacterium tuberculosis InhA,0.917,Tuberculosis
+Moxifloxacin,CCNC,Mycolic acid synthesis pathway,0.7,Tuberculosis
+Amikacin,CCOC(=O)C,Cell wall synthesis enzyme,0.766,Tuberculosis
+Levofloxacin,CC(C)O,Mycobacterium tuberculosis InhA,0.831,Tuberculosis
+Kanamycin,CCCN,ATP synthase,0.969,Tuberculosis
+Isoniazid,CC(C)CC,RNA polymerase,0.727,Tuberculosis
+Kanamycin,CCO,RNA polymerase,0.95,Tuberculosis
+Ethambutol,CCN(CC)CC,RNA polymerase,0.825,Tuberculosis
+Levofloxacin,CCCN,ATP synthase,0.615,Tuberculosis
+Capreomycin,CCN,Mycobacterium tuberculosis InhA,0.694,Tuberculosis
+Clofazimine,CC(C)O,Mycolic acid synthesis pathway,0.71,Tuberculosis
+Linezolid,CCN,Mycolic acid synthesis pathway,0.78,Tuberculosis
+Clofazimine,CCN(CC)CC,ATP synthase,0.897,Tuberculosis
+Isoniazid,CCOC(=O)C,DNA gyrase,0.661,Tuberculosis
+Ethambutol,CNC,Mycolic acid synthesis pathway,0.607,Tuberculosis
+Capreomycin,CCNCO,RNA polymerase,0.788,Tuberculosis
+Bedaquiline,CCN,DNA gyrase,0.651,Tuberculosis
+Capreomycin,CCNCO,Mycolic acid synthesis pathway,0.581,Tuberculosis
+Pretomanid,C1CCCCC1,DNA gyrase,0.838,Tuberculosis
+Rifampicin,CCOC(=O)C,Cell wall synthesis enzyme,0.707,Tuberculosis
+Kanamycin,CCO,Cell wall synthesis enzyme,0.701,Tuberculosis
+Delamanid,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.604,Tuberculosis
+Ethambutol,CCCO,Mycobacterium tuberculosis InhA,0.666,Tuberculosis
+Linezolid,CCN,ATP synthase,0.576,Tuberculosis
+Linezolid,CCO,Mycobacterium tuberculosis InhA,0.562,Tuberculosis
+Delamanid,C1CCCCC1,Cell wall synthesis enzyme,0.644,Tuberculosis
+Isoniazid,COC,DNA gyrase,0.831,Tuberculosis
+Delamanid,CCNC,ATP synthase,0.941,Tuberculosis
+Delamanid,CCOC,Mycobacterium tuberculosis InhA,0.859,Tuberculosis
+Clofazimine,CCNC,ATP synthase,0.59,Tuberculosis
+Pretomanid,CCOC(=O)C,ATP synthase,0.955,Tuberculosis
+Levofloxacin,CCNCO,Mycolic acid synthesis pathway,0.798,Tuberculosis
+Cycloserine,CCOC,Mycobacterium tuberculosis InhA,0.61,Tuberculosis
+Pyrazinamide,CCCO,Cell wall synthesis enzyme,0.93,Tuberculosis
+Clofazimine,CCNCO,DNA gyrase,0.746,Tuberculosis
+Bedaquiline,CCNC,ATP synthase,0.687,Tuberculosis
+Delamanid,CC(C)O,Mycobacterium tuberculosis InhA,0.772,Tuberculosis
+Capreomycin,CC(C)CC,Mycobacterium tuberculosis InhA,0.864,Tuberculosis
+Isoniazid,CCOC,ATP synthase,0.745,Tuberculosis
+Isoniazid,CCCN,Mycolic acid synthesis pathway,0.822,Tuberculosis
+Amikacin,CNC,ATP synthase,0.77,Tuberculosis
+Amikacin,C1CCCCC1,Mycobacterium tuberculosis InhA,0.555,Tuberculosis
+Amikacin,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.745,Tuberculosis
+Bedaquiline,COC,DNA gyrase,0.799,Tuberculosis
+Moxifloxacin,CCN,Mycolic acid synthesis pathway,0.954,Tuberculosis
+Bedaquiline,CCCN,Mycobacterium tuberculosis InhA,0.767,Tuberculosis
+Isoniazid,CCN,Cell wall synthesis enzyme,0.867,Tuberculosis
+Ethambutol,CCCN,RNA polymerase,0.57,Tuberculosis
+Pretomanid,CCN,Mycobacterium tuberculosis InhA,0.789,Tuberculosis
+Levofloxacin,CCCO,RNA polymerase,0.601,Tuberculosis
+Ethambutol,CCOC(=O)C,Cell wall synthesis enzyme,0.731,Tuberculosis
+Rifampicin,CCCO,DNA gyrase,0.609,Tuberculosis
+Cycloserine,CCOC,ATP synthase,0.744,Tuberculosis
+Rifampicin,CCN(CC)CC,Cell wall synthesis enzyme,0.623,Tuberculosis
+Pyrazinamide,CC(C)O,DNA gyrase,0.749,Tuberculosis
+Linezolid,CCN,Cell wall synthesis enzyme,0.832,Tuberculosis
+Pyrazinamide,COC,DNA gyrase,0.619,Tuberculosis
+Moxifloxacin,CNC,DNA gyrase,0.806,Tuberculosis
+Rifampicin,CC(C)CC,ATP synthase,0.59,Tuberculosis
+Kanamycin,CCNC,Cell wall synthesis enzyme,0.654,Tuberculosis
+Clofazimine,CCN,DNA gyrase,0.857,Tuberculosis
+Kanamycin,CCNC,ATP synthase,0.859,Tuberculosis
+Clofazimine,C1CCCCC1,RNA polymerase,0.593,Tuberculosis
+Delamanid,CCNC,ATP synthase,0.965,Tuberculosis
+Clofazimine,CCCO,Mycolic acid synthesis pathway,0.741,Tuberculosis
+Delamanid,CCOC(=O)C,ATP synthase,0.826,Tuberculosis
+Rifampicin,CCN,ATP synthase,0.763,Tuberculosis
+Rifampicin,CC(C)O,DNA gyrase,0.65,Tuberculosis
+Kanamycin,COC,DNA gyrase,0.948,Tuberculosis
+Linezolid,CCN(CC)CC,DNA gyrase,0.596,Tuberculosis
+Levofloxacin,CCOC,Mycobacterium tuberculosis InhA,0.65,Tuberculosis
+Rifampicin,COC,Cell wall synthesis enzyme,0.59,Tuberculosis
+Moxifloxacin,CCNC,Mycobacterium tuberculosis InhA,0.565,Tuberculosis
+Clofazimine,CCCN,RNA polymerase,0.745,Tuberculosis
+Kanamycin,CCN,DNA gyrase,0.692,Tuberculosis
+Amikacin,CCO,Mycolic acid synthesis pathway,0.883,Tuberculosis
+Bedaquiline,CCN(CC)CC,DNA gyrase,0.649,Tuberculosis
+Levofloxacin,COC,Mycolic acid synthesis pathway,0.783,Tuberculosis
+Pyrazinamide,CCC,Cell wall synthesis enzyme,0.968,Tuberculosis
+Pyrazinamide,CCN,RNA polymerase,0.654,Tuberculosis
+Moxifloxacin,CCNCO,ATP synthase,0.97,Tuberculosis
+Ethambutol,CCOC(=O)C,DNA gyrase,0.584,Tuberculosis
+Moxifloxacin,CC(C)CC,Cell wall synthesis enzyme,0.886,Tuberculosis
+Levofloxacin,CCC,Mycobacterium tuberculosis InhA,0.716,Tuberculosis
+Clofazimine,CCO,DNA gyrase,0.862,Tuberculosis
+Amikacin,CCO,ATP synthase,0.85,Tuberculosis
+Pyrazinamide,CCNC,Mycolic acid synthesis pathway,0.794,Tuberculosis
+Capreomycin,CCNCO,Mycobacterium tuberculosis InhA,0.774,Tuberculosis
+Ethambutol,CCN,ATP synthase,0.918,Tuberculosis
+Capreomycin,CCCN,DNA gyrase,0.564,Tuberculosis
+Bedaquiline,CC(C)CC,Mycobacterium tuberculosis InhA,0.589,Tuberculosis
+Ethambutol,CCCO,Mycolic acid synthesis pathway,0.906,Tuberculosis
+Levofloxacin,COC,DNA gyrase,0.927,Tuberculosis
+Clofazimine,CC(C)CC,Mycobacterium tuberculosis InhA,0.905,Tuberculosis
+Clofazimine,CC(C)CC,RNA polymerase,0.804,Tuberculosis
+Capreomycin,CCNC,Mycobacterium tuberculosis InhA,0.79,Tuberculosis
+Pretomanid,C1CCCCC1,RNA polymerase,0.904,Tuberculosis
+Isoniazid,CNC,Mycolic acid synthesis pathway,0.644,Tuberculosis
+Pyrazinamide,CCC,ATP synthase,0.688,Tuberculosis
+Linezolid,CCO,RNA polymerase,0.841,Tuberculosis
+Levofloxacin,CCOC,DNA gyrase,0.976,Tuberculosis
+Bedaquiline,CCN,RNA polymerase,0.901,Tuberculosis
+Isoniazid,CC(C)CC,Mycolic acid synthesis pathway,0.616,Tuberculosis
+Cycloserine,CCOC,ATP synthase,0.812,Tuberculosis
+Linezolid,CCOC(=O)C,DNA gyrase,0.717,Tuberculosis
+Levofloxacin,CC(C)CC,RNA polymerase,0.839,Tuberculosis
+Moxifloxacin,CCNC,Mycolic acid synthesis pathway,0.845,Tuberculosis
+Isoniazid,CCNC,DNA gyrase,0.62,Tuberculosis
+Pyrazinamide,CCNCO,Cell wall synthesis enzyme,0.737,Tuberculosis
+Pyrazinamide,CCO,Mycobacterium tuberculosis InhA,0.59,Tuberculosis
+Clofazimine,CCOC,Mycolic acid synthesis pathway,0.846,Tuberculosis
+Clofazimine,CCN(CC)CC,RNA polymerase,0.63,Tuberculosis
+Levofloxacin,CCCN,RNA polymerase,0.75,Tuberculosis
+Bedaquiline,CNC,Mycolic acid synthesis pathway,0.562,Tuberculosis
+Cycloserine,COC,Mycolic acid synthesis pathway,0.977,Tuberculosis
+Kanamycin,CCC,Cell wall synthesis enzyme,0.79,Tuberculosis
+Pretomanid,CC(C)O,ATP synthase,0.614,Tuberculosis
+Pretomanid,CCCO,DNA gyrase,0.585,Tuberculosis
+Cycloserine,COC,RNA polymerase,0.941,Tuberculosis
+Pretomanid,COC,Mycolic acid synthesis pathway,0.689,Tuberculosis
+Delamanid,CC(C)O,Mycolic acid synthesis pathway,0.557,Tuberculosis
+Linezolid,CCO,RNA polymerase,0.959,Tuberculosis
+Isoniazid,CCC,DNA gyrase,0.825,Tuberculosis
+Linezolid,CCNCO,DNA gyrase,0.685,Tuberculosis
+Cycloserine,CCC,ATP synthase,0.945,Tuberculosis
+Levofloxacin,CC(C)O,ATP synthase,0.608,Tuberculosis
+Cycloserine,CC(C)O,Mycolic acid synthesis pathway,0.662,Tuberculosis
+Isoniazid,CCNCO,RNA polymerase,0.93,Tuberculosis
+Pretomanid,CCC,ATP synthase,0.925,Tuberculosis
+Kanamycin,CC(C)CC,Mycolic acid synthesis pathway,0.938,Tuberculosis
+Kanamycin,CCNC,ATP synthase,0.709,Tuberculosis
+Capreomycin,CCCN,Mycolic acid synthesis pathway,0.604,Tuberculosis
+Delamanid,CCNCO,Mycolic acid synthesis pathway,0.575,Tuberculosis
+Ethambutol,CCCO,Cell wall synthesis enzyme,0.631,Tuberculosis
+Amikacin,CC(C)O,Mycobacterium tuberculosis InhA,0.867,Tuberculosis
+Linezolid,CCNC,RNA polymerase,0.655,Tuberculosis
+Amikacin,CCN,RNA polymerase,0.939,Tuberculosis
+Amikacin,CCOC(=O)C,Cell wall synthesis enzyme,0.875,Tuberculosis
+Capreomycin,CCOC,Mycobacterium tuberculosis InhA,0.975,Tuberculosis
+Ethambutol,CCN,RNA polymerase,0.848,Tuberculosis
+Pretomanid,CCN,ATP synthase,0.571,Tuberculosis
+Amikacin,C1CCCCC1,Mycobacterium tuberculosis InhA,0.886,Tuberculosis
+Isoniazid,CCOC,Cell wall synthesis enzyme,0.583,Tuberculosis
+Pretomanid,C1CCCCC1,Cell wall synthesis enzyme,0.658,Tuberculosis
+Delamanid,CCN,Mycobacterium tuberculosis InhA,0.897,Tuberculosis
+Moxifloxacin,CCN(CC)CC,Cell wall synthesis enzyme,0.851,Tuberculosis
+Cycloserine,CCOC,Mycobacterium tuberculosis InhA,0.977,Tuberculosis
+Clofazimine,CCNC,Mycolic acid synthesis pathway,0.895,Tuberculosis
+Kanamycin,COC,Cell wall synthesis enzyme,0.599,Tuberculosis
+Pyrazinamide,CCNCO,Cell wall synthesis enzyme,0.954,Tuberculosis
+Isoniazid,CCNC,Mycobacterium tuberculosis InhA,0.61,Tuberculosis
+Ethambutol,CCN,Mycolic acid synthesis pathway,0.604,Tuberculosis
+Pyrazinamide,CCNC,Mycolic acid synthesis pathway,0.658,Tuberculosis
+Levofloxacin,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.792,Tuberculosis
+Kanamycin,CCN,Mycolic acid synthesis pathway,0.639,Tuberculosis
+Pyrazinamide,CCO,DNA gyrase,0.835,Tuberculosis
+Delamanid,CCO,Cell wall synthesis enzyme,0.654,Tuberculosis
+Cycloserine,CCO,ATP synthase,0.896,Tuberculosis
+Capreomycin,CC(C)O,ATP synthase,0.915,Tuberculosis
+Moxifloxacin,C1CCCCC1,Mycolic acid synthesis pathway,0.861,Tuberculosis
+Levofloxacin,CCOC,DNA gyrase,0.559,Tuberculosis
+Ethambutol,CCCN,Cell wall synthesis enzyme,0.809,Tuberculosis
+Pyrazinamide,CCN,RNA polymerase,0.705,Tuberculosis
+Linezolid,CCO,Mycolic acid synthesis pathway,0.819,Tuberculosis
+Bedaquiline,CCC,Mycobacterium tuberculosis InhA,0.839,Tuberculosis
+Cycloserine,CCN(CC)CC,DNA gyrase,0.558,Tuberculosis
+Cycloserine,CCC,Mycobacterium tuberculosis InhA,0.718,Tuberculosis
+Ethambutol,CCNCO,ATP synthase,0.64,Tuberculosis
+Levofloxacin,CCN(CC)CC,Cell wall synthesis enzyme,0.819,Tuberculosis
+Capreomycin,C1CCCCC1,RNA polymerase,0.708,Tuberculosis
+Clofazimine,CC(C)O,Mycobacterium tuberculosis InhA,0.941,Tuberculosis
+Clofazimine,CCNC,RNA polymerase,0.686,Tuberculosis
+Isoniazid,CCOC(=O)C,ATP synthase,0.607,Tuberculosis
+Ethambutol,COC,ATP synthase,0.925,Tuberculosis
+Delamanid,CCN,Cell wall synthesis enzyme,0.597,Tuberculosis
+Cycloserine,CCN,Cell wall synthesis enzyme,0.835,Tuberculosis
+Levofloxacin,C1CCCCC1,ATP synthase,0.744,Tuberculosis
+Pretomanid,CCNC,ATP synthase,0.796,Tuberculosis
+Amikacin,COC,Mycobacterium tuberculosis InhA,0.595,Tuberculosis
+Isoniazid,CCCO,Mycobacterium tuberculosis InhA,0.573,Tuberculosis
+Pyrazinamide,CCC,RNA polymerase,0.943,Tuberculosis
+Bedaquiline,CCN,Mycolic acid synthesis pathway,0.696,Tuberculosis
+Rifampicin,CCO,Mycolic acid synthesis pathway,0.612,Tuberculosis
+Bedaquiline,CCCN,Mycolic acid synthesis pathway,0.915,Tuberculosis
+Cycloserine,CC(C)CC,DNA gyrase,0.807,Tuberculosis
+Delamanid,CCOC,Mycobacterium tuberculosis InhA,0.888,Tuberculosis
+Capreomycin,CCO,Mycolic acid synthesis pathway,0.724,Tuberculosis
+Ethambutol,CCN(CC)CC,ATP synthase,0.643,Tuberculosis
+Moxifloxacin,CCN(CC)CC,RNA polymerase,0.776,Tuberculosis
+Rifampicin,C1CCCCC1,Mycolic acid synthesis pathway,0.806,Tuberculosis
+Kanamycin,CCOC,DNA gyrase,0.876,Tuberculosis
+Rifampicin,CCNC,ATP synthase,0.628,Tuberculosis
+Pyrazinamide,CCOC,Mycolic acid synthesis pathway,0.623,Tuberculosis
+Bedaquiline,CCN,Mycobacterium tuberculosis InhA,0.644,Tuberculosis
+Delamanid,CNC,DNA gyrase,0.854,Tuberculosis
+Rifampicin,COC,RNA polymerase,0.685,Tuberculosis
+Amikacin,CCCN,RNA polymerase,0.789,Tuberculosis
+Cycloserine,CCCN,Mycobacterium tuberculosis InhA,0.573,Tuberculosis
+Moxifloxacin,CNC,Cell wall synthesis enzyme,0.768,Tuberculosis
+Amikacin,COC,ATP synthase,0.74,Tuberculosis
+Ethambutol,CCNCO,RNA polymerase,0.613,Tuberculosis
+Delamanid,COC,Mycobacterium tuberculosis InhA,0.635,Tuberculosis
+Pyrazinamide,CNC,DNA gyrase,0.791,Tuberculosis
+Linezolid,CCC,DNA gyrase,0.768,Tuberculosis
+Levofloxacin,CNC,Cell wall synthesis enzyme,0.936,Tuberculosis
+Bedaquiline,CC(C)CC,ATP synthase,0.727,Tuberculosis
+Delamanid,CCOC(=O)C,Cell wall synthesis enzyme,0.684,Tuberculosis
+Bedaquiline,CCN(CC)CC,ATP synthase,0.911,Tuberculosis
+Isoniazid,CCOC(=O)C,Mycolic acid synthesis pathway,0.574,Tuberculosis
+Isoniazid,CCOC,Mycobacterium tuberculosis InhA,0.658,Tuberculosis
+Pretomanid,C1CCCCC1,DNA gyrase,0.858,Tuberculosis
+Isoniazid,C1CCCCC1,Cell wall synthesis enzyme,0.593,Tuberculosis
+Bedaquiline,CC(C)O,Cell wall synthesis enzyme,0.941,Tuberculosis
+Ethambutol,COC,Mycobacterium tuberculosis InhA,0.721,Tuberculosis
+Pretomanid,CCO,Cell wall synthesis enzyme,0.611,Tuberculosis
+Clofazimine,CCCN,Mycobacterium tuberculosis InhA,0.657,Tuberculosis
+Clofazimine,CCC,DNA gyrase,0.97,Tuberculosis
+Delamanid,C1CCCCC1,RNA polymerase,0.819,Tuberculosis
+Capreomycin,CCO,Mycolic acid synthesis pathway,0.792,Tuberculosis
+Levofloxacin,CCNCO,Cell wall synthesis enzyme,0.614,Tuberculosis
+Kanamycin,CCNCO,Cell wall synthesis enzyme,0.857,Tuberculosis
+Pretomanid,CCCN,Mycolic acid synthesis pathway,0.583,Tuberculosis
+Ethambutol,CCC,Cell wall synthesis enzyme,0.622,Tuberculosis
+Amikacin,CCNCO,Mycobacterium tuberculosis InhA,0.562,Tuberculosis
+Bedaquiline,CCNC,DNA gyrase,0.975,Tuberculosis
+Amikacin,CCN(CC)CC,RNA polymerase,0.856,Tuberculosis
+Levofloxacin,CCC,DNA gyrase,0.678,Tuberculosis
+Capreomycin,CCO,Mycobacterium tuberculosis InhA,0.596,Tuberculosis
+Kanamycin,CCC,RNA polymerase,0.578,Tuberculosis
+Ethambutol,CNC,RNA polymerase,0.781,Tuberculosis
+Cycloserine,CCOC,ATP synthase,0.822,Tuberculosis
+Pyrazinamide,COC,RNA polymerase,0.709,Tuberculosis
+Cycloserine,CCCN,ATP synthase,0.834,Tuberculosis
+Bedaquiline,C1CCCCC1,Mycolic acid synthesis pathway,0.554,Tuberculosis
+Isoniazid,C1CCCCC1,RNA polymerase,0.553,Tuberculosis
+Rifampicin,CCCO,DNA gyrase,0.681,Tuberculosis
+Isoniazid,CC(C)O,Cell wall synthesis enzyme,0.947,Tuberculosis
+Kanamycin,CCCO,ATP synthase,0.908,Tuberculosis
+Moxifloxacin,CCN(CC)CC,DNA gyrase,0.868,Tuberculosis
+Amikacin,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.641,Tuberculosis
+Moxifloxacin,CCOC(=O)C,Mycolic acid synthesis pathway,0.696,Tuberculosis
+Bedaquiline,CC(C)O,RNA polymerase,0.966,Tuberculosis
+Bedaquiline,CNC,Cell wall synthesis enzyme,0.89,Tuberculosis
+Rifampicin,CCN(CC)CC,RNA polymerase,0.754,Tuberculosis
+Ethambutol,CCO,ATP synthase,0.608,Tuberculosis
+Levofloxacin,CCOC,RNA polymerase,0.661,Tuberculosis
+Pretomanid,CCN,Mycolic acid synthesis pathway,0.909,Tuberculosis
+Moxifloxacin,COC,DNA gyrase,0.715,Tuberculosis
+Isoniazid,CC(C)CC,DNA gyrase,0.839,Tuberculosis
+Amikacin,COC,ATP synthase,0.733,Tuberculosis
+Ethambutol,CC(C)O,DNA gyrase,0.839,Tuberculosis
+Delamanid,COC,Mycolic acid synthesis pathway,0.737,Tuberculosis
+Ethambutol,CCO,Mycolic acid synthesis pathway,0.579,Tuberculosis
+Pretomanid,CCCN,Cell wall synthesis enzyme,0.799,Tuberculosis
+Pyrazinamide,COC,Mycobacterium tuberculosis InhA,0.597,Tuberculosis
+Moxifloxacin,CCCO,ATP synthase,0.681,Tuberculosis
+Isoniazid,CCNC,ATP synthase,0.722,Tuberculosis
+Bedaquiline,CCN,Mycolic acid synthesis pathway,0.727,Tuberculosis
+Pretomanid,CCCN,Cell wall synthesis enzyme,0.559,Tuberculosis
+Delamanid,C1CCCCC1,Cell wall synthesis enzyme,0.735,Tuberculosis
+Rifampicin,COC,Cell wall synthesis enzyme,0.947,Tuberculosis
+Moxifloxacin,COC,Mycobacterium tuberculosis InhA,0.575,Tuberculosis
+Cycloserine,CCN(CC)CC,Mycolic acid synthesis pathway,0.902,Tuberculosis
+Moxifloxacin,CCN,ATP synthase,0.931,Tuberculosis
+Amikacin,COC,RNA polymerase,0.703,Tuberculosis
+Levofloxacin,CCC,Cell wall synthesis enzyme,0.845,Tuberculosis
+Moxifloxacin,CCNCO,Mycolic acid synthesis pathway,0.967,Tuberculosis
+Delamanid,CCC,Mycolic acid synthesis pathway,0.555,Tuberculosis
+Linezolid,CCNC,Mycobacterium tuberculosis InhA,0.876,Tuberculosis
+Rifampicin,CCNCO,RNA polymerase,0.779,Tuberculosis
+Pretomanid,COC,DNA gyrase,0.622,Tuberculosis
+Bedaquiline,CCN(CC)CC,DNA gyrase,0.839,Tuberculosis
+Clofazimine,COC,ATP synthase,0.593,Tuberculosis
+Amikacin,CCO,Cell wall synthesis enzyme,0.864,Tuberculosis
+Pretomanid,CCC,RNA polymerase,0.557,Tuberculosis
+Delamanid,CCC,ATP synthase,0.875,Tuberculosis
+Rifampicin,C1CCCCC1,Cell wall synthesis enzyme,0.803,Tuberculosis
+Cycloserine,CCCN,Mycobacterium tuberculosis InhA,0.942,Tuberculosis
+Amikacin,CCO,Cell wall synthesis enzyme,0.912,Tuberculosis
+Pretomanid,CNC,Cell wall synthesis enzyme,0.909,Tuberculosis
+Moxifloxacin,CCOC,DNA gyrase,0.622,Tuberculosis
+Linezolid,CNC,ATP synthase,0.803,Tuberculosis
+Bedaquiline,CCCN,RNA polymerase,0.972,Tuberculosis
+Bedaquiline,CCCN,ATP synthase,0.642,Tuberculosis
+Pretomanid,CCCO,ATP synthase,0.932,Tuberculosis
+Kanamycin,CCOC(=O)C,DNA gyrase,0.629,Tuberculosis
+Pretomanid,CC(C)CC,Cell wall synthesis enzyme,0.911,Tuberculosis
+Kanamycin,COC,ATP synthase,0.835,Tuberculosis
+Pyrazinamide,CC(C)O,Mycolic acid synthesis pathway,0.671,Tuberculosis
+Kanamycin,C1CCCCC1,Cell wall synthesis enzyme,0.821,Tuberculosis
+Pretomanid,CCOC,Mycobacterium tuberculosis InhA,0.806,Tuberculosis
+Delamanid,CCOC,Cell wall synthesis enzyme,0.905,Tuberculosis
+Pretomanid,CCOC,Mycobacterium tuberculosis InhA,0.952,Tuberculosis
+Levofloxacin,COC,Mycolic acid synthesis pathway,0.712,Tuberculosis
+Rifampicin,CC(C)O,Mycobacterium tuberculosis InhA,0.622,Tuberculosis
+Linezolid,CCNCO,Cell wall synthesis enzyme,0.869,Tuberculosis
+Linezolid,CCCO,DNA gyrase,0.843,Tuberculosis
+Ethambutol,C1CCCCC1,Mycobacterium tuberculosis InhA,0.568,Tuberculosis
+Ethambutol,CCOC,Cell wall synthesis enzyme,0.957,Tuberculosis
+Clofazimine,CCCO,ATP synthase,0.723,Tuberculosis
+Linezolid,CCOC(=O)C,Mycolic acid synthesis pathway,0.617,Tuberculosis
+Capreomycin,CCNCO,DNA gyrase,0.715,Tuberculosis
+Cycloserine,CCN,Mycolic acid synthesis pathway,0.707,Tuberculosis
+Ethambutol,CCN(CC)CC,Cell wall synthesis enzyme,0.89,Tuberculosis
+Clofazimine,C1CCCCC1,ATP synthase,0.814,Tuberculosis
+Rifampicin,CCOC,DNA gyrase,0.937,Tuberculosis
+Clofazimine,CCNCO,Cell wall synthesis enzyme,0.672,Tuberculosis
+Delamanid,COC,DNA gyrase,0.906,Tuberculosis
+Bedaquiline,CC(C)CC,Mycolic acid synthesis pathway,0.58,Tuberculosis
+Amikacin,CCC,Mycolic acid synthesis pathway,0.573,Tuberculosis
+Capreomycin,CCCN,DNA gyrase,0.97,Tuberculosis
+Kanamycin,CCCO,ATP synthase,0.78,Tuberculosis
+Amikacin,COC,DNA gyrase,0.578,Tuberculosis
+Clofazimine,CCNCO,DNA gyrase,0.977,Tuberculosis
+Isoniazid,CCN,Cell wall synthesis enzyme,0.756,Tuberculosis
+Cycloserine,CC(C)CC,RNA polymerase,0.843,Tuberculosis
+Pretomanid,CCNCO,DNA gyrase,0.807,Tuberculosis
+Levofloxacin,CCO,ATP synthase,0.598,Tuberculosis
+Delamanid,CCN(CC)CC,DNA gyrase,0.814,Tuberculosis
+Ethambutol,CC(C)CC,Mycobacterium tuberculosis InhA,0.564,Tuberculosis
+Ethambutol,CCC,ATP synthase,0.898,Tuberculosis
+Bedaquiline,COC,Mycolic acid synthesis pathway,0.558,Tuberculosis
+Ethambutol,CCNC,Mycolic acid synthesis pathway,0.94,Tuberculosis
+Amikacin,CCNC,Cell wall synthesis enzyme,0.618,Tuberculosis
+Pretomanid,CC(C)O,RNA polymerase,0.672,Tuberculosis
+Capreomycin,CCN,Mycolic acid synthesis pathway,0.628,Tuberculosis
+Amikacin,CCNCO,Mycolic acid synthesis pathway,0.732,Tuberculosis
+Kanamycin,COC,Cell wall synthesis enzyme,0.943,Tuberculosis
+Clofazimine,CNC,Mycobacterium tuberculosis InhA,0.799,Tuberculosis
+Delamanid,CCNC,DNA gyrase,0.729,Tuberculosis
+Clofazimine,CC(C)O,RNA polymerase,0.714,Tuberculosis
+Pyrazinamide,CNC,ATP synthase,0.566,Tuberculosis
+Amikacin,CCN(CC)CC,RNA polymerase,0.974,Tuberculosis
+Clofazimine,CCN,RNA polymerase,0.909,Tuberculosis
+Isoniazid,CCCO,Mycolic acid synthesis pathway,0.943,Tuberculosis
+Ethambutol,COC,RNA polymerase,0.943,Tuberculosis
+Delamanid,CC(C)CC,Cell wall synthesis enzyme,0.668,Tuberculosis
+Moxifloxacin,CCC,RNA polymerase,0.752,Tuberculosis
+Pyrazinamide,CCCN,Mycobacterium tuberculosis InhA,0.661,Tuberculosis
+Linezolid,CCCO,DNA gyrase,0.625,Tuberculosis
+Bedaquiline,CCC,Mycolic acid synthesis pathway,0.869,Tuberculosis
+Amikacin,CCNC,Mycobacterium tuberculosis InhA,0.839,Tuberculosis
+Cycloserine,CCO,ATP synthase,0.754,Tuberculosis
+Linezolid,CC(C)O,DNA gyrase,0.822,Tuberculosis
+Cycloserine,CCNC,Mycolic acid synthesis pathway,0.554,Tuberculosis
+Isoniazid,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.657,Tuberculosis
+Delamanid,CCO,DNA gyrase,0.651,Tuberculosis
+Cycloserine,CCCO,Mycolic acid synthesis pathway,0.805,Tuberculosis
+Clofazimine,CCNCO,Cell wall synthesis enzyme,0.964,Tuberculosis
+Linezolid,CCNCO,ATP synthase,0.649,Tuberculosis
+Bedaquiline,CC(C)O,DNA gyrase,0.57,Tuberculosis
+Cycloserine,CCNCO,DNA gyrase,0.947,Tuberculosis
+Isoniazid,CCCO,DNA gyrase,0.765,Tuberculosis
+Delamanid,CCO,DNA gyrase,0.761,Tuberculosis
+Delamanid,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.626,Tuberculosis
+Clofazimine,CCCO,Cell wall synthesis enzyme,0.728,Tuberculosis
+Pretomanid,CCCO,DNA gyrase,0.967,Tuberculosis
+Amikacin,CCN(CC)CC,ATP synthase,0.926,Tuberculosis
+Linezolid,CCNC,Mycobacterium tuberculosis InhA,0.964,Tuberculosis
+Isoniazid,CC(C)CC,ATP synthase,0.8,Tuberculosis
+Isoniazid,CCOC(=O)C,ATP synthase,0.845,Tuberculosis
+Delamanid,CCC,Cell wall synthesis enzyme,0.681,Tuberculosis
+Amikacin,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.78,Tuberculosis
+Ethambutol,CCNC,Mycolic acid synthesis pathway,0.718,Tuberculosis
+Clofazimine,CCNCO,ATP synthase,0.662,Tuberculosis
+Cycloserine,COC,DNA gyrase,0.628,Tuberculosis
+Isoniazid,CCOC(=O)C,DNA gyrase,0.936,Tuberculosis
+Isoniazid,CC(C)O,ATP synthase,0.937,Tuberculosis
+Bedaquiline,CCNCO,Mycolic acid synthesis pathway,0.943,Tuberculosis
+Clofazimine,CCO,Cell wall synthesis enzyme,0.737,Tuberculosis
+Clofazimine,CCO,RNA polymerase,0.781,Tuberculosis
+Pretomanid,CCCN,RNA polymerase,0.941,Tuberculosis
+Clofazimine,CCCO,ATP synthase,0.916,Tuberculosis
+Pretomanid,CCOC,Mycobacterium tuberculosis InhA,0.822,Tuberculosis
+Kanamycin,CCO,DNA gyrase,0.74,Tuberculosis
+Clofazimine,CCOC(=O)C,RNA polymerase,0.832,Tuberculosis
+Pretomanid,CCNCO,Mycobacterium tuberculosis InhA,0.593,Tuberculosis
+Cycloserine,C1CCCCC1,ATP synthase,0.832,Tuberculosis
+Ethambutol,CNC,Mycolic acid synthesis pathway,0.725,Tuberculosis
+Bedaquiline,C1CCCCC1,Cell wall synthesis enzyme,0.909,Tuberculosis
+Amikacin,CCC,ATP synthase,0.582,Tuberculosis
+Pyrazinamide,CNC,ATP synthase,0.83,Tuberculosis
+Linezolid,CCC,RNA polymerase,0.595,Tuberculosis
+Linezolid,CCCO,Mycobacterium tuberculosis InhA,0.653,Tuberculosis
+Ethambutol,CCCO,Cell wall synthesis enzyme,0.765,Tuberculosis
+Pyrazinamide,CC(C)CC,ATP synthase,0.84,Tuberculosis
+Pyrazinamide,CCCO,DNA gyrase,0.668,Tuberculosis
+Pretomanid,CCC,RNA polymerase,0.753,Tuberculosis
+Amikacin,CCCO,Cell wall synthesis enzyme,0.749,Tuberculosis
+Capreomycin,C1CCCCC1,Cell wall synthesis enzyme,0.562,Tuberculosis
+Capreomycin,CCNCO,RNA polymerase,0.919,Tuberculosis
+Amikacin,CCN,ATP synthase,0.731,Tuberculosis
+Kanamycin,CCCO,DNA gyrase,0.897,Tuberculosis
+Amikacin,C1CCCCC1,Mycobacterium tuberculosis InhA,0.669,Tuberculosis
+Kanamycin,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.919,Tuberculosis
+Levofloxacin,CCOC(=O)C,DNA gyrase,0.584,Tuberculosis
+Isoniazid,CCNC,Mycobacterium tuberculosis InhA,0.732,Tuberculosis
+Isoniazid,CC(C)O,Cell wall synthesis enzyme,0.887,Tuberculosis
+Clofazimine,CCOC,RNA polymerase,0.814,Tuberculosis
+Moxifloxacin,CCN(CC)CC,DNA gyrase,0.943,Tuberculosis
+Bedaquiline,CC(C)O,Cell wall synthesis enzyme,0.624,Tuberculosis
+Isoniazid,CCNCO,RNA polymerase,0.731,Tuberculosis
+Rifampicin,CC(C)O,Cell wall synthesis enzyme,0.695,Tuberculosis
+Pyrazinamide,CCO,Mycolic acid synthesis pathway,0.623,Tuberculosis
+Levofloxacin,CCOC,ATP synthase,0.595,Tuberculosis
+Pyrazinamide,CCN,Mycobacterium tuberculosis InhA,0.633,Tuberculosis
+Amikacin,CCOC,Mycobacterium tuberculosis InhA,0.608,Tuberculosis
+Delamanid,CNC,Mycobacterium tuberculosis InhA,0.636,Tuberculosis
+Rifampicin,CCN,DNA gyrase,0.935,Tuberculosis
+Clofazimine,CCN,RNA polymerase,0.661,Tuberculosis
+Clofazimine,CCN(CC)CC,ATP synthase,0.959,Tuberculosis
+Pyrazinamide,CCNCO,Mycolic acid synthesis pathway,0.585,Tuberculosis
+Pretomanid,CCN,DNA gyrase,0.596,Tuberculosis
+Moxifloxacin,CCCN,DNA gyrase,0.847,Tuberculosis
+Rifampicin,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.932,Tuberculosis
+Delamanid,CCNC,Mycolic acid synthesis pathway,0.775,Tuberculosis
+Amikacin,CCNC,Cell wall synthesis enzyme,0.888,Tuberculosis
+Pyrazinamide,CCCO,ATP synthase,0.789,Tuberculosis
+Cycloserine,CCCO,RNA polymerase,0.576,Tuberculosis
+Bedaquiline,CCOC(=O)C,RNA polymerase,0.662,Tuberculosis
+Rifampicin,CCNCO,ATP synthase,0.591,Tuberculosis
+Delamanid,CC(C)O,ATP synthase,0.651,Tuberculosis
+Rifampicin,CC(C)CC,Mycobacterium tuberculosis InhA,0.69,Tuberculosis
+Moxifloxacin,CCN,Mycolic acid synthesis pathway,0.736,Tuberculosis
+Delamanid,CCC,ATP synthase,0.884,Tuberculosis
+Delamanid,CCC,Mycolic acid synthesis pathway,0.736,Tuberculosis
+Clofazimine,CCOC,RNA polymerase,0.585,Tuberculosis
+Bedaquiline,CNC,Cell wall synthesis enzyme,0.768,Tuberculosis
+Pyrazinamide,COC,Cell wall synthesis enzyme,0.902,Tuberculosis
+Rifampicin,C1CCCCC1,DNA gyrase,0.787,Tuberculosis
+Pyrazinamide,CCNCO,RNA polymerase,0.673,Tuberculosis
+Isoniazid,CCN,Cell wall synthesis enzyme,0.933,Tuberculosis
+Kanamycin,CCCN,Mycolic acid synthesis pathway,0.724,Tuberculosis
+Pretomanid,CCCN,RNA polymerase,0.665,Tuberculosis
+Clofazimine,CC(C)O,DNA gyrase,0.896,Tuberculosis
+Levofloxacin,CC(C)O,RNA polymerase,0.587,Tuberculosis
+Linezolid,C1CCCCC1,Cell wall synthesis enzyme,0.967,Tuberculosis
+Delamanid,CCNC,RNA polymerase,0.691,Tuberculosis
+Cycloserine,C1CCCCC1,Mycobacterium tuberculosis InhA,0.667,Tuberculosis
+Pretomanid,CCN(CC)CC,Mycolic acid synthesis pathway,0.806,Tuberculosis
+Pyrazinamide,CCOC,Cell wall synthesis enzyme,0.806,Tuberculosis
+Cycloserine,CCN(CC)CC,Mycolic acid synthesis pathway,0.74,Tuberculosis
+Capreomycin,C1CCCCC1,ATP synthase,0.593,Tuberculosis
+Clofazimine,C1CCCCC1,Cell wall synthesis enzyme,0.638,Tuberculosis
+Clofazimine,CCNCO,Mycobacterium tuberculosis InhA,0.765,Tuberculosis
+Amikacin,CCO,DNA gyrase,0.868,Tuberculosis
+Cycloserine,CCC,DNA gyrase,0.768,Tuberculosis
+Linezolid,CC(C)O,Cell wall synthesis enzyme,0.616,Tuberculosis
+Pyrazinamide,CC(C)CC,Mycobacterium tuberculosis InhA,0.829,Tuberculosis
+Moxifloxacin,CCCO,DNA gyrase,0.758,Tuberculosis
+Moxifloxacin,CC(C)CC,DNA gyrase,0.667,Tuberculosis
+Isoniazid,CCCN,Mycobacterium tuberculosis InhA,0.761,Tuberculosis
+Kanamycin,CCOC(=O)C,Cell wall synthesis enzyme,0.908,Tuberculosis
+Kanamycin,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.81,Tuberculosis
+Pyrazinamide,CCN,RNA polymerase,0.656,Tuberculosis
+Ethambutol,CCCO,RNA polymerase,0.878,Tuberculosis
+Pretomanid,CCOC(=O)C,RNA polymerase,0.595,Tuberculosis
+Pretomanid,CCN(CC)CC,Mycolic acid synthesis pathway,0.664,Tuberculosis
+Pretomanid,CCCO,Mycobacterium tuberculosis InhA,0.647,Tuberculosis
+Capreomycin,C1CCCCC1,ATP synthase,0.785,Tuberculosis
+Moxifloxacin,CCCN,Mycolic acid synthesis pathway,0.613,Tuberculosis
+Capreomycin,C1CCCCC1,ATP synthase,0.926,Tuberculosis
+Linezolid,CCOC,Cell wall synthesis enzyme,0.566,Tuberculosis
+Delamanid,CCO,RNA polymerase,0.909,Tuberculosis
+Moxifloxacin,CCCN,Mycolic acid synthesis pathway,0.675,Tuberculosis
+Delamanid,C1CCCCC1,RNA polymerase,0.98,Tuberculosis
+Isoniazid,CCCO,ATP synthase,0.677,Tuberculosis
+Bedaquiline,CCN,RNA polymerase,0.83,Tuberculosis
+Ethambutol,CNC,Mycolic acid synthesis pathway,0.905,Tuberculosis
+Pretomanid,CCOC(=O)C,Cell wall synthesis enzyme,0.912,Tuberculosis
+Capreomycin,C1CCCCC1,Cell wall synthesis enzyme,0.856,Tuberculosis
+Kanamycin,CCOC,RNA polymerase,0.842,Tuberculosis
+Rifampicin,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.748,Tuberculosis
+Clofazimine,CCCN,RNA polymerase,0.751,Tuberculosis
+Amikacin,CCNC,Mycolic acid synthesis pathway,0.774,Tuberculosis
+Levofloxacin,CCOC,Mycobacterium tuberculosis InhA,0.581,Tuberculosis
+Amikacin,CCOC,Mycobacterium tuberculosis InhA,0.837,Tuberculosis
+Moxifloxacin,CCCN,RNA polymerase,0.69,Tuberculosis
+Moxifloxacin,COC,Mycolic acid synthesis pathway,0.878,Tuberculosis
+Delamanid,CCOC,ATP synthase,0.558,Tuberculosis
+Cycloserine,CC(C)O,DNA gyrase,0.744,Tuberculosis
+Levofloxacin,CC(C)O,Mycolic acid synthesis pathway,0.572,Tuberculosis
+Rifampicin,COC,ATP synthase,0.706,Tuberculosis
+Delamanid,CCN(CC)CC,RNA polymerase,0.784,Tuberculosis
+Pyrazinamide,CCCN,Mycobacterium tuberculosis InhA,0.73,Tuberculosis
+Moxifloxacin,CCCO,RNA polymerase,0.773,Tuberculosis
+Clofazimine,C1CCCCC1,DNA gyrase,0.617,Tuberculosis
+Moxifloxacin,CCNC,ATP synthase,0.617,Tuberculosis
+Levofloxacin,CCN,Mycolic acid synthesis pathway,0.788,Tuberculosis
+Pretomanid,CCOC,ATP synthase,0.655,Tuberculosis
+Ethambutol,CCOC(=O)C,DNA gyrase,0.958,Tuberculosis
+Clofazimine,CCOC(=O)C,ATP synthase,0.627,Tuberculosis
+Linezolid,COC,RNA polymerase,0.916,Tuberculosis
+Capreomycin,CCNC,RNA polymerase,0.557,Tuberculosis
+Cycloserine,CCN,Mycolic acid synthesis pathway,0.841,Tuberculosis
+Kanamycin,CC(C)CC,Mycobacterium tuberculosis InhA,0.782,Tuberculosis
+Rifampicin,CCC,ATP synthase,0.705,Tuberculosis
+Amikacin,C1CCCCC1,Mycolic acid synthesis pathway,0.67,Tuberculosis
+Clofazimine,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.945,Tuberculosis
+Delamanid,C1CCCCC1,RNA polymerase,0.795,Tuberculosis
+Moxifloxacin,CCCO,DNA gyrase,0.679,Tuberculosis
+Isoniazid,C1CCCCC1,DNA gyrase,0.856,Tuberculosis
+Levofloxacin,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.968,Tuberculosis
+Bedaquiline,CCCO,ATP synthase,0.777,Tuberculosis
+Pretomanid,CCOC,ATP synthase,0.92,Tuberculosis
+Clofazimine,CCCO,ATP synthase,0.862,Tuberculosis
+Pretomanid,COC,RNA polymerase,0.853,Tuberculosis
+Pretomanid,CCCN,Mycolic acid synthesis pathway,0.582,Tuberculosis
+Amikacin,CCNCO,Mycobacterium tuberculosis InhA,0.933,Tuberculosis
+Amikacin,CCOC,RNA polymerase,0.68,Tuberculosis
+Amikacin,CCCN,DNA gyrase,0.628,Tuberculosis
+Linezolid,CCN(CC)CC,DNA gyrase,0.67,Tuberculosis
+Pyrazinamide,CCNC,RNA polymerase,0.953,Tuberculosis
+Bedaquiline,CCO,RNA polymerase,0.976,Tuberculosis
+Moxifloxacin,CCOC(=O)C,DNA gyrase,0.875,Tuberculosis
+Amikacin,CC(C)CC,Mycolic acid synthesis pathway,0.77,Tuberculosis
+Pretomanid,CNC,Mycolic acid synthesis pathway,0.829,Tuberculosis
+Bedaquiline,CC(C)CC,Mycolic acid synthesis pathway,0.852,Tuberculosis
+Delamanid,CCOC(=O)C,Cell wall synthesis enzyme,0.965,Tuberculosis
+Ethambutol,CCN,DNA gyrase,0.817,Tuberculosis
+Levofloxacin,CC(C)CC,RNA polymerase,0.686,Tuberculosis
+Capreomycin,CC(C)CC,RNA polymerase,0.809,Tuberculosis
+Delamanid,CCOC,Mycolic acid synthesis pathway,0.78,Tuberculosis
+Cycloserine,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.593,Tuberculosis
+Pyrazinamide,CCOC,Mycobacterium tuberculosis InhA,0.613,Tuberculosis
+Pretomanid,CC(C)CC,Mycolic acid synthesis pathway,0.979,Tuberculosis
+Isoniazid,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.952,Tuberculosis
+Ethambutol,CCN,DNA gyrase,0.631,Tuberculosis
+Delamanid,CNC,DNA gyrase,0.69,Tuberculosis
+Amikacin,CC(C)O,Mycobacterium tuberculosis InhA,0.566,Tuberculosis
+Cycloserine,CCOC(=O)C,RNA polymerase,0.74,Tuberculosis
+Levofloxacin,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.619,Tuberculosis
+Moxifloxacin,CNC,DNA gyrase,0.88,Tuberculosis
+Linezolid,CCC,Mycolic acid synthesis pathway,0.761,Tuberculosis
+Cycloserine,CNC,Cell wall synthesis enzyme,0.947,Tuberculosis
+Delamanid,CCO,RNA polymerase,0.605,Tuberculosis
+Isoniazid,CCCN,ATP synthase,0.64,Tuberculosis
+Clofazimine,CNC,Cell wall synthesis enzyme,0.933,Tuberculosis
+Kanamycin,CCOC,Cell wall synthesis enzyme,0.972,Tuberculosis
+Levofloxacin,CCN,Mycolic acid synthesis pathway,0.792,Tuberculosis
+Pyrazinamide,CC(C)O,ATP synthase,0.6,Tuberculosis
+Clofazimine,CCN(CC)CC,Cell wall synthesis enzyme,0.565,Tuberculosis
+Moxifloxacin,CCNCO,Mycobacterium tuberculosis InhA,0.85,Tuberculosis
+Moxifloxacin,CCCN,Cell wall synthesis enzyme,0.796,Tuberculosis
+Levofloxacin,COC,Mycobacterium tuberculosis InhA,0.678,Tuberculosis
+Amikacin,CNC,Mycobacterium tuberculosis InhA,0.724,Tuberculosis
+Delamanid,CCO,RNA polymerase,0.928,Tuberculosis
+Pyrazinamide,COC,RNA polymerase,0.897,Tuberculosis
+Pretomanid,CCN(CC)CC,ATP synthase,0.665,Tuberculosis
+Linezolid,CCC,Mycolic acid synthesis pathway,0.967,Tuberculosis
+Bedaquiline,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.656,Tuberculosis
+Pyrazinamide,CCNCO,Mycolic acid synthesis pathway,0.586,Tuberculosis
+Rifampicin,CCO,RNA polymerase,0.904,Tuberculosis
+Pretomanid,CCN(CC)CC,RNA polymerase,0.66,Tuberculosis
+Levofloxacin,COC,RNA polymerase,0.599,Tuberculosis
+Cycloserine,CC(C)O,ATP synthase,0.751,Tuberculosis
+Pyrazinamide,CCN(CC)CC,Mycolic acid synthesis pathway,0.901,Tuberculosis
+Isoniazid,COC,Mycobacterium tuberculosis InhA,0.958,Tuberculosis
+Levofloxacin,CCOC(=O)C,RNA polymerase,0.806,Tuberculosis
+Moxifloxacin,CCN(CC)CC,Cell wall synthesis enzyme,0.875,Tuberculosis
+Levofloxacin,CCC,ATP synthase,0.759,Tuberculosis
+Levofloxacin,CCN(CC)CC,DNA gyrase,0.625,Tuberculosis
+Rifampicin,CCNCO,Mycobacterium tuberculosis InhA,0.936,Tuberculosis
+Ethambutol,C1CCCCC1,Mycobacterium tuberculosis InhA,0.725,Tuberculosis
+Bedaquiline,CCC,DNA gyrase,0.735,Tuberculosis
+Bedaquiline,CCOC(=O)C,RNA polymerase,0.946,Tuberculosis
+Delamanid,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.704,Tuberculosis
+Clofazimine,CCO,Cell wall synthesis enzyme,0.654,Tuberculosis
+Ethambutol,CC(C)O,Mycolic acid synthesis pathway,0.645,Tuberculosis
+Pyrazinamide,CCO,ATP synthase,0.619,Tuberculosis
+Delamanid,CC(C)O,Cell wall synthesis enzyme,0.845,Tuberculosis
+Kanamycin,CC(C)O,RNA polymerase,0.694,Tuberculosis
+Isoniazid,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.75,Tuberculosis
+Rifampicin,CCN(CC)CC,RNA polymerase,0.903,Tuberculosis
+Ethambutol,CCNCO,DNA gyrase,0.786,Tuberculosis
+Bedaquiline,CCO,DNA gyrase,0.611,Tuberculosis
+Delamanid,CC(C)CC,Mycobacterium tuberculosis InhA,0.858,Tuberculosis
+Bedaquiline,CCCN,Cell wall synthesis enzyme,0.91,Tuberculosis
+Moxifloxacin,CC(C)O,RNA polymerase,0.723,Tuberculosis
+Kanamycin,CNC,RNA polymerase,0.596,Tuberculosis
+Rifampicin,CCOC(=O)C,Cell wall synthesis enzyme,0.721,Tuberculosis
+Clofazimine,CCO,RNA polymerase,0.743,Tuberculosis
+Rifampicin,CCCO,DNA gyrase,0.865,Tuberculosis
+Delamanid,CCCO,Mycolic acid synthesis pathway,0.757,Tuberculosis
+Amikacin,CCCO,RNA polymerase,0.681,Tuberculosis
+Bedaquiline,CCCO,Mycolic acid synthesis pathway,0.932,Tuberculosis
+Pyrazinamide,CCOC,Cell wall synthesis enzyme,0.702,Tuberculosis
+Delamanid,CC(C)CC,ATP synthase,0.84,Tuberculosis
+Clofazimine,C1CCCCC1,ATP synthase,0.907,Tuberculosis
+Pyrazinamide,CC(C)O,Mycolic acid synthesis pathway,0.854,Tuberculosis
+Amikacin,CCO,RNA polymerase,0.647,Tuberculosis
+Bedaquiline,CCN,Mycobacterium tuberculosis InhA,0.664,Tuberculosis
+Bedaquiline,CCN(CC)CC,DNA gyrase,0.828,Tuberculosis
+Moxifloxacin,CCOC(=O)C,Mycolic acid synthesis pathway,0.648,Tuberculosis
+Cycloserine,C1CCCCC1,DNA gyrase,0.971,Tuberculosis
+Moxifloxacin,CCC,RNA polymerase,0.967,Tuberculosis
+Ethambutol,CCN,Cell wall synthesis enzyme,0.832,Tuberculosis
+Pretomanid,CCOC,Cell wall synthesis enzyme,0.695,Tuberculosis
+Pyrazinamide,COC,Mycolic acid synthesis pathway,0.589,Tuberculosis
+Bedaquiline,CCN,Cell wall synthesis enzyme,0.633,Tuberculosis
+Moxifloxacin,CC(C)CC,RNA polymerase,0.666,Tuberculosis
+Delamanid,CCC,ATP synthase,0.916,Tuberculosis
+Pretomanid,CC(C)O,DNA gyrase,0.877,Tuberculosis
+Amikacin,C1CCCCC1,DNA gyrase,0.648,Tuberculosis
+Kanamycin,CCCN,Cell wall synthesis enzyme,0.848,Tuberculosis
+Kanamycin,CCOC,ATP synthase,0.902,Tuberculosis
+Capreomycin,CCN(CC)CC,ATP synthase,0.947,Tuberculosis
+Moxifloxacin,COC,DNA gyrase,0.775,Tuberculosis
+Capreomycin,CCNCO,ATP synthase,0.962,Tuberculosis
+Kanamycin,CCN,Mycobacterium tuberculosis InhA,0.896,Tuberculosis
+Pyrazinamide,CCN(CC)CC,Mycobacterium tuberculosis InhA,0.885,Tuberculosis
+Cycloserine,CCNCO,Cell wall synthesis enzyme,0.736,Tuberculosis
+Cycloserine,CCC,Mycolic acid synthesis pathway,0.848,Tuberculosis
+Rifampicin,CCCO,Mycobacterium tuberculosis InhA,0.56,Tuberculosis
+Amikacin,CCN,Mycolic acid synthesis pathway,0.642,Tuberculosis
+Linezolid,CCNCO,Mycobacterium tuberculosis InhA,0.907,Tuberculosis
+Delamanid,C1CCCCC1,RNA polymerase,0.697,Tuberculosis
+Isoniazid,CCN,DNA gyrase,0.957,Tuberculosis
+Isoniazid,CCCN,RNA polymerase,0.786,Tuberculosis
+Isoniazid,COC,Mycobacterium tuberculosis InhA,0.915,Tuberculosis
+Isoniazid,CCCO,ATP synthase,0.668,Tuberculosis
+Ethambutol,CCN,Cell wall synthesis enzyme,0.65,Tuberculosis
+Linezolid,CCNC,Mycobacterium tuberculosis InhA,0.701,Tuberculosis
+Amikacin,CCO,DNA gyrase,0.669,Tuberculosis
+Delamanid,CCOC,RNA polymerase,0.705,Tuberculosis
+Amikacin,C1CCCCC1,Mycolic acid synthesis pathway,0.561,Tuberculosis
+Pretomanid,CCN,RNA polymerase,0.977,Tuberculosis
+Bedaquiline,CCCO,Mycolic acid synthesis pathway,0.753,Tuberculosis
+Pyrazinamide,CCNC,Mycolic acid synthesis pathway,0.934,Tuberculosis
+Delamanid,CCC,Cell wall synthesis enzyme,0.934,Tuberculosis
+Pretomanid,CCNC,Cell wall synthesis enzyme,0.769,Tuberculosis
+Isoniazid,CCCO,RNA polymerase,0.613,Tuberculosis
+Kanamycin,CCOC,RNA polymerase,0.856,Tuberculosis
+Delamanid,CCC,DNA gyrase,0.908,Tuberculosis
+Linezolid,COC,ATP synthase,0.764,Tuberculosis
+Capreomycin,COC,Cell wall synthesis enzyme,0.945,Tuberculosis
+Capreomycin,CC(C)O,Cell wall synthesis enzyme,0.687,Tuberculosis
+Moxifloxacin,CC(C)O,DNA gyrase,0.828,Tuberculosis
+Cycloserine,CCCO,ATP synthase,0.765,Tuberculosis
+Kanamycin,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.614,Tuberculosis
+Rifampicin,CCNC,Mycobacterium tuberculosis InhA,0.693,Tuberculosis
+Isoniazid,CC(C)CC,DNA gyrase,0.632,Tuberculosis
+Isoniazid,CCCN,DNA gyrase,0.57,Tuberculosis
+Clofazimine,CC(C)O,Mycolic acid synthesis pathway,0.648,Tuberculosis
+Isoniazid,CCNCO,Cell wall synthesis enzyme,0.637,Tuberculosis
+Pyrazinamide,CCNCO,Mycolic acid synthesis pathway,0.567,Tuberculosis
+Linezolid,CC(C)O,Mycobacterium tuberculosis InhA,0.669,Tuberculosis
+Levofloxacin,CC(C)CC,Mycolic acid synthesis pathway,0.97,Tuberculosis
+Kanamycin,CCCN,Mycolic acid synthesis pathway,0.871,Tuberculosis
+Delamanid,COC,Mycobacterium tuberculosis InhA,0.776,Tuberculosis
+Clofazimine,CCC,RNA polymerase,0.563,Tuberculosis
+Clofazimine,CCCO,Mycolic acid synthesis pathway,0.902,Tuberculosis
+Pretomanid,CNC,Cell wall synthesis enzyme,0.797,Tuberculosis
+Clofazimine,CCOC(=O)C,Mycolic acid synthesis pathway,0.818,Tuberculosis
+Bedaquiline,CCNCO,DNA gyrase,0.621,Tuberculosis
+Cycloserine,CCN(CC)CC,Cell wall synthesis enzyme,0.793,Tuberculosis
+Rifampicin,CNC,Mycolic acid synthesis pathway,0.946,Tuberculosis
+Delamanid,CNC,ATP synthase,0.726,Tuberculosis
+Delamanid,CCOC,Cell wall synthesis enzyme,0.598,Tuberculosis
+Clofazimine,CCOC(=O)C,DNA gyrase,0.906,Tuberculosis
+Levofloxacin,CCNC,RNA polymerase,0.686,Tuberculosis
+Delamanid,CCCO,DNA gyrase,0.852,Tuberculosis
+Ethambutol,C1CCCCC1,RNA polymerase,0.794,Tuberculosis
+Isoniazid,CNC,Cell wall synthesis enzyme,0.703,Tuberculosis
+Delamanid,CC(C)CC,Mycolic acid synthesis pathway,0.845,Tuberculosis
+Cycloserine,CCCN,ATP synthase,0.599,Tuberculosis
+Kanamycin,CC(C)O,DNA gyrase,0.949,Tuberculosis
+Kanamycin,CCOC(=O)C,ATP synthase,0.586,Tuberculosis
+Rifampicin,CCN,Cell wall synthesis enzyme,0.929,Tuberculosis
+Ethambutol,CC(C)O,Mycobacterium tuberculosis InhA,0.556,Tuberculosis
+Delamanid,CCO,DNA gyrase,0.971,Tuberculosis
+Isoniazid,CNC,ATP synthase,0.882,Tuberculosis
+Cycloserine,CCNC,DNA gyrase,0.77,Tuberculosis
+Kanamycin,CCO,Mycolic acid synthesis pathway,0.574,Tuberculosis
+Clofazimine,CCCN,Mycolic acid synthesis pathway,0.708,Tuberculosis
+Amikacin,CC(C)CC,RNA polymerase,0.932,Tuberculosis
+Kanamycin,CCCN,Cell wall synthesis enzyme,0.818,Tuberculosis
+Clofazimine,CCOC(=O)C,RNA polymerase,0.828,Tuberculosis
+Pyrazinamide,CCOC(=O)C,RNA polymerase,0.771,Tuberculosis
+Bedaquiline,CCN(CC)CC,RNA polymerase,0.978,Tuberculosis
+Cycloserine,C1CCCCC1,DNA gyrase,0.953,Tuberculosis
+Linezolid,CCO,ATP synthase,0.894,Tuberculosis
+Moxifloxacin,CC(C)CC,ATP synthase,0.627,Tuberculosis
+Pyrazinamide,CCO,ATP synthase,0.894,Tuberculosis
+Rifampicin,CCO,Cell wall synthesis enzyme,0.961,Tuberculosis
+Levofloxacin,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.943,Tuberculosis
+Isoniazid,CCCN,RNA polymerase,0.91,Tuberculosis
+Capreomycin,CCCN,ATP synthase,0.889,Tuberculosis
+Clofazimine,CC(C)CC,DNA gyrase,0.702,Tuberculosis
+Bedaquiline,CC(C)O,Mycobacterium tuberculosis InhA,0.9,Tuberculosis
+Ethambutol,CCOC,DNA gyrase,0.967,Tuberculosis
+Capreomycin,CCNC,DNA gyrase,0.746,Tuberculosis
+Linezolid,CC(C)O,Cell wall synthesis enzyme,0.867,Tuberculosis
+Bedaquiline,CNC,Mycobacterium tuberculosis InhA,0.94,Tuberculosis
+Capreomycin,COC,Cell wall synthesis enzyme,0.946,Tuberculosis
+Bedaquiline,CNC,Cell wall synthesis enzyme,0.572,Tuberculosis
+Bedaquiline,CCNCO,DNA gyrase,0.701,Tuberculosis
+Clofazimine,C1CCCCC1,DNA gyrase,0.556,Tuberculosis
+Moxifloxacin,CCCO,RNA polymerase,0.582,Tuberculosis
+Amikacin,CCO,Cell wall synthesis enzyme,0.926,Tuberculosis
+Pretomanid,CCCO,Cell wall synthesis enzyme,0.658,Tuberculosis
+Delamanid,CCNC,RNA polymerase,0.978,Tuberculosis
+Linezolid,CCCN,Mycolic acid synthesis pathway,0.93,Tuberculosis
+Moxifloxacin,CCOC,DNA gyrase,0.909,Tuberculosis
+Clofazimine,CCNC,DNA gyrase,0.801,Tuberculosis
+Pretomanid,CCOC,DNA gyrase,0.874,Tuberculosis
+Bedaquiline,COC,ATP synthase,0.659,Tuberculosis
+Linezolid,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.656,Tuberculosis
+Pyrazinamide,CCCO,Mycobacterium tuberculosis InhA,0.779,Tuberculosis
+Linezolid,CCNCO,DNA gyrase,0.679,Tuberculosis
+Clofazimine,CCNC,ATP synthase,0.552,Tuberculosis
+Linezolid,CNC,ATP synthase,0.822,Tuberculosis
+Cycloserine,CCOC(=O)C,Mycolic acid synthesis pathway,0.63,Tuberculosis
+Amikacin,CCO,Mycolic acid synthesis pathway,0.923,Tuberculosis
+Pretomanid,CCOC,Cell wall synthesis enzyme,0.672,Tuberculosis
+Pyrazinamide,CCCO,Cell wall synthesis enzyme,0.624,Tuberculosis
+Amikacin,CCN(CC)CC,Mycolic acid synthesis pathway,0.94,Tuberculosis
+Ethambutol,CCC,Cell wall synthesis enzyme,0.904,Tuberculosis
+Kanamycin,C1CCCCC1,Mycobacterium tuberculosis InhA,0.631,Tuberculosis
+Clofazimine,CC(C)O,Mycobacterium tuberculosis InhA,0.719,Tuberculosis
+Capreomycin,CCN(CC)CC,RNA polymerase,0.782,Tuberculosis
+Linezolid,CCN(CC)CC,Cell wall synthesis enzyme,0.843,Tuberculosis
+Rifampicin,CC(C)O,RNA polymerase,0.659,Tuberculosis
+Amikacin,CCC,DNA gyrase,0.587,Tuberculosis
+Ethambutol,CCN,DNA gyrase,0.818,Tuberculosis
+Isoniazid,CCOC(=O)C,ATP synthase,0.643,Tuberculosis
+Delamanid,C1CCCCC1,ATP synthase,0.773,Tuberculosis
+Bedaquiline,CC(C)O,ATP synthase,0.692,Tuberculosis
+Pretomanid,C1CCCCC1,Cell wall synthesis enzyme,0.596,Tuberculosis
+Pretomanid,CC(C)O,Cell wall synthesis enzyme,0.789,Tuberculosis
+Clofazimine,CCC,RNA polymerase,0.896,Tuberculosis
+Kanamycin,COC,Cell wall synthesis enzyme,0.933,Tuberculosis
+Linezolid,CCNCO,ATP synthase,0.702,Tuberculosis
+Pretomanid,CCCO,RNA polymerase,0.877,Tuberculosis
+Moxifloxacin,COC,DNA gyrase,0.662,Tuberculosis
+Isoniazid,CCO,Mycobacterium tuberculosis InhA,0.815,Tuberculosis
+Isoniazid,CCN(CC)CC,Cell wall synthesis enzyme,0.656,Tuberculosis
+Pretomanid,COC,Mycolic acid synthesis pathway,0.642,Tuberculosis
+Moxifloxacin,CCOC,DNA gyrase,0.775,Tuberculosis
+Clofazimine,CCC,Mycolic acid synthesis pathway,0.745,Tuberculosis
+Delamanid,CCOC,Mycobacterium tuberculosis InhA,0.723,Tuberculosis
+Capreomycin,CCOC(=O)C,Cell wall synthesis enzyme,0.756,Tuberculosis
+Amikacin,CCN,ATP synthase,0.647,Tuberculosis
+Pretomanid,CCO,Cell wall synthesis enzyme,0.701,Tuberculosis
+Rifampicin,CCC,Mycolic acid synthesis pathway,0.966,Tuberculosis
+Moxifloxacin,C1CCCCC1,Mycobacterium tuberculosis InhA,0.898,Tuberculosis
+Ethambutol,C1CCCCC1,Mycobacterium tuberculosis InhA,0.933,Tuberculosis
+Rifampicin,CCC,Mycobacterium tuberculosis InhA,0.693,Tuberculosis
+Capreomycin,CCNC,Mycolic acid synthesis pathway,0.724,Tuberculosis
+Amikacin,CC(C)CC,Cell wall synthesis enzyme,0.665,Tuberculosis
+Pretomanid,COC,RNA polymerase,0.617,Tuberculosis
+Cycloserine,CCNCO,DNA gyrase,0.859,Tuberculosis
+Cycloserine,CC(C)O,RNA polymerase,0.726,Tuberculosis
+Moxifloxacin,CCO,Mycobacterium tuberculosis InhA,0.651,Tuberculosis
+Isoniazid,CCNC,Cell wall synthesis enzyme,0.878,Tuberculosis
+Levofloxacin,COC,DNA gyrase,0.592,Tuberculosis
+Moxifloxacin,CCCN,ATP synthase,0.813,Tuberculosis
+Clofazimine,CCO,DNA gyrase,0.609,Tuberculosis
+Ethambutol,CCO,RNA polymerase,0.922,Tuberculosis
+Clofazimine,CC(C)O,RNA polymerase,0.592,Tuberculosis
+Pyrazinamide,CCNCO,ATP synthase,0.941,Tuberculosis
+Clofazimine,CC(C)O,Mycolic acid synthesis pathway,0.908,Tuberculosis
+Pyrazinamide,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.649,Tuberculosis
+Linezolid,CNC,DNA gyrase,0.771,Tuberculosis
+Kanamycin,CCC,ATP synthase,0.942,Tuberculosis
+Amikacin,CCN,ATP synthase,0.617,Tuberculosis
+Capreomycin,CCCO,ATP synthase,0.759,Tuberculosis
+Pretomanid,CCOC,ATP synthase,0.601,Tuberculosis
+Delamanid,CC(C)CC,DNA gyrase,0.973,Tuberculosis
+Kanamycin,CC(C)O,ATP synthase,0.822,Tuberculosis
+Moxifloxacin,CNC,Mycobacterium tuberculosis InhA,0.924,Tuberculosis
+Rifampicin,CNC,Cell wall synthesis enzyme,0.621,Tuberculosis
+Pretomanid,CC(C)CC,Cell wall synthesis enzyme,0.967,Tuberculosis
+Isoniazid,CCCO,Mycolic acid synthesis pathway,0.887,Tuberculosis
+Isoniazid,CCCN,Mycobacterium tuberculosis InhA,0.648,Tuberculosis
+Ethambutol,COC,RNA polymerase,0.833,Tuberculosis
+Cycloserine,CCO,Mycolic acid synthesis pathway,0.917,Tuberculosis
+Moxifloxacin,CCN(CC)CC,Cell wall synthesis enzyme,0.57,Tuberculosis
+Delamanid,CCNC,Mycobacterium tuberculosis InhA,0.677,Tuberculosis
+Pyrazinamide,CCCO,Cell wall synthesis enzyme,0.887,Tuberculosis
+Moxifloxacin,CC(C)CC,Cell wall synthesis enzyme,0.658,Tuberculosis
+Pretomanid,CCNCO,Mycobacterium tuberculosis InhA,0.824,Tuberculosis
+Moxifloxacin,CCN(CC)CC,ATP synthase,0.899,Tuberculosis
+Rifampicin,CCNCO,DNA gyrase,0.683,Tuberculosis
+Capreomycin,C1CCCCC1,Mycolic acid synthesis pathway,0.581,Tuberculosis
+Ethambutol,CCCO,Cell wall synthesis enzyme,0.607,Tuberculosis
+Kanamycin,C1CCCCC1,RNA polymerase,0.693,Tuberculosis
+Linezolid,CC(C)CC,DNA gyrase,0.781,Tuberculosis
+Kanamycin,C1CCCCC1,DNA gyrase,0.958,Tuberculosis
+Levofloxacin,CC(C)CC,RNA polymerase,0.944,Tuberculosis
+Isoniazid,CCCO,Cell wall synthesis enzyme,0.875,Tuberculosis
+Pyrazinamide,CCCO,Mycolic acid synthesis pathway,0.891,Tuberculosis
+Rifampicin,CCO,ATP synthase,0.877,Tuberculosis
+Bedaquiline,CCN,RNA polymerase,0.701,Tuberculosis
+Kanamycin,CCO,Mycobacterium tuberculosis InhA,0.9,Tuberculosis
+Clofazimine,CC(C)O,RNA polymerase,0.922,Tuberculosis
+Capreomycin,CCOC(=O)C,ATP synthase,0.759,Tuberculosis
+Moxifloxacin,CCCO,ATP synthase,0.802,Tuberculosis
+Clofazimine,CC(C)CC,Mycobacterium tuberculosis InhA,0.979,Tuberculosis
+Ethambutol,CCCO,Cell wall synthesis enzyme,0.741,Tuberculosis
+Delamanid,CC(C)O,DNA gyrase,0.911,Tuberculosis
+Bedaquiline,C1CCCCC1,ATP synthase,0.61,Tuberculosis
+Pyrazinamide,CCN(CC)CC,ATP synthase,0.594,Tuberculosis
+Isoniazid,CCOC(=O)C,DNA gyrase,0.945,Tuberculosis
+Kanamycin,CCOC(=O)C,Mycolic acid synthesis pathway,0.841,Tuberculosis
+Pretomanid,CCN,Mycolic acid synthesis pathway,0.683,Tuberculosis
+Kanamycin,CCOC,ATP synthase,0.881,Tuberculosis
+Amikacin,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.912,Tuberculosis
+Moxifloxacin,CCN,Mycolic acid synthesis pathway,0.919,Tuberculosis
+Delamanid,CCN,Mycolic acid synthesis pathway,0.884,Tuberculosis
+Pyrazinamide,CCCN,ATP synthase,0.842,Tuberculosis
+Levofloxacin,CCNCO,Cell wall synthesis enzyme,0.756,Tuberculosis
+Ethambutol,CCC,Mycolic acid synthesis pathway,0.585,Tuberculosis
+Clofazimine,CCO,DNA gyrase,0.976,Tuberculosis
+Kanamycin,CC(C)CC,DNA gyrase,0.929,Tuberculosis
+Amikacin,CCCO,DNA gyrase,0.939,Tuberculosis
+Isoniazid,CCO,Mycolic acid synthesis pathway,0.595,Tuberculosis
+Pretomanid,CC(C)CC,Mycobacterium tuberculosis InhA,0.754,Tuberculosis
+Amikacin,CCCN,Mycolic acid synthesis pathway,0.958,Tuberculosis
+Levofloxacin,CCCN,RNA polymerase,0.665,Tuberculosis
+Clofazimine,CCNCO,Cell wall synthesis enzyme,0.966,Tuberculosis
+Rifampicin,CCNC,Cell wall synthesis enzyme,0.622,Tuberculosis
+Isoniazid,CC(C)O,Mycobacterium tuberculosis InhA,0.596,Tuberculosis
+Ethambutol,CCN,RNA polymerase,0.855,Tuberculosis
+Cycloserine,CCO,Mycolic acid synthesis pathway,0.895,Tuberculosis
+Isoniazid,CNC,RNA polymerase,0.686,Tuberculosis
+Linezolid,CNC,RNA polymerase,0.683,Tuberculosis
+Cycloserine,CNC,Mycolic acid synthesis pathway,0.664,Tuberculosis
+Pyrazinamide,CCNC,Cell wall synthesis enzyme,0.781,Tuberculosis
+Pretomanid,COC,RNA polymerase,0.963,Tuberculosis
+Isoniazid,CCCO,DNA gyrase,0.861,Tuberculosis
+Isoniazid,CCO,Mycolic acid synthesis pathway,0.899,Tuberculosis
+Delamanid,COC,Mycobacterium tuberculosis InhA,0.919,Tuberculosis
+Delamanid,CCCN,Mycolic acid synthesis pathway,0.568,Tuberculosis
+Levofloxacin,CNC,Cell wall synthesis enzyme,0.668,Tuberculosis
+Delamanid,CCN(CC)CC,DNA gyrase,0.819,Tuberculosis
+Capreomycin,CCOC,ATP synthase,0.849,Tuberculosis
+Bedaquiline,CCCO,DNA gyrase,0.742,Tuberculosis
+Amikacin,CCO,DNA gyrase,0.764,Tuberculosis
+Capreomycin,CCNCO,Cell wall synthesis enzyme,0.731,Tuberculosis
+Levofloxacin,COC,DNA gyrase,0.557,Tuberculosis
+Kanamycin,CCNC,ATP synthase,0.78,Tuberculosis
+Amikacin,CCOC(=O)C,RNA polymerase,0.812,Tuberculosis
+Clofazimine,CCO,ATP synthase,0.888,Tuberculosis
+Clofazimine,CCC,ATP synthase,0.605,Tuberculosis
+Bedaquiline,CCCN,DNA gyrase,0.843,Tuberculosis
+Delamanid,CCOC(=O)C,RNA polymerase,0.554,Tuberculosis
+Delamanid,CC(C)O,DNA gyrase,0.681,Tuberculosis
+Ethambutol,CCNCO,ATP synthase,0.64,Tuberculosis
+Levofloxacin,CNC,ATP synthase,0.634,Tuberculosis
+Pretomanid,CCCN,ATP synthase,0.889,Tuberculosis
+Kanamycin,CCCO,Mycolic acid synthesis pathway,0.72,Tuberculosis
+Cycloserine,CNC,ATP synthase,0.807,Tuberculosis
+Clofazimine,CCOC(=O)C,DNA gyrase,0.628,Tuberculosis
+Pyrazinamide,CCC,DNA gyrase,0.617,Tuberculosis
+Pretomanid,CCNCO,ATP synthase,0.834,Tuberculosis
+Amikacin,CCN,DNA gyrase,0.622,Tuberculosis
+Kanamycin,CCNCO,Cell wall synthesis enzyme,0.772,Tuberculosis
+Ethambutol,CC(C)CC,Cell wall synthesis enzyme,0.553,Tuberculosis
+Isoniazid,CCCO,DNA gyrase,0.813,Tuberculosis
+Cycloserine,CCCN,DNA gyrase,0.629,Tuberculosis
+Ethambutol,CCN,DNA gyrase,0.853,Tuberculosis
+Amikacin,CCO,Mycobacterium tuberculosis InhA,0.767,Tuberculosis
+Cycloserine,CCO,ATP synthase,0.909,Tuberculosis
+Pretomanid,COC,RNA polymerase,0.691,Tuberculosis
+Pretomanid,C1CCCCC1,DNA gyrase,0.94,Tuberculosis
+Linezolid,CCNC,Mycolic acid synthesis pathway,0.595,Tuberculosis
+Pyrazinamide,CCNCO,Cell wall synthesis enzyme,0.694,Tuberculosis
+Delamanid,CC(C)CC,Mycolic acid synthesis pathway,0.764,Tuberculosis
+Delamanid,CCCN,ATP synthase,0.769,Tuberculosis
+Linezolid,CCOC(=O)C,Cell wall synthesis enzyme,0.642,Tuberculosis
+Capreomycin,COC,Mycolic acid synthesis pathway,0.974,Tuberculosis
+Capreomycin,CCN,Mycobacterium tuberculosis InhA,0.973,Tuberculosis
+Clofazimine,CC(C)O,Mycolic acid synthesis pathway,0.77,Tuberculosis
+Kanamycin,CCC,ATP synthase,0.825,Tuberculosis
+Linezolid,C1CCCCC1,Cell wall synthesis enzyme,0.814,Tuberculosis
+Isoniazid,COC,Cell wall synthesis enzyme,0.79,Tuberculosis
+Clofazimine,CCN,RNA polymerase,0.832,Tuberculosis
+Kanamycin,CCNCO,Cell wall synthesis enzyme,0.962,Tuberculosis
+Bedaquiline,CCN,DNA gyrase,0.584,Tuberculosis
+Isoniazid,CCNC,ATP synthase,0.961,Tuberculosis
+Moxifloxacin,CCO,Cell wall synthesis enzyme,0.947,Tuberculosis
+Capreomycin,CCN(CC)CC,RNA polymerase,0.859,Tuberculosis
+Ethambutol,CCCO,RNA polymerase,0.942,Tuberculosis
+Isoniazid,CCN(CC)CC,RNA polymerase,0.759,Tuberculosis
+Rifampicin,CCO,Cell wall synthesis enzyme,0.639,Tuberculosis
+Isoniazid,CCCO,Cell wall synthesis enzyme,0.785,Tuberculosis
+Pyrazinamide,CCOC,ATP synthase,0.758,Tuberculosis
+Isoniazid,CCNCO,RNA polymerase,0.683,Tuberculosis
+Pretomanid,CCOC(=O)C,Cell wall synthesis enzyme,0.586,Tuberculosis
+Cycloserine,CC(C)O,Mycobacterium tuberculosis InhA,0.78,Tuberculosis
+Isoniazid,CCNC,DNA gyrase,0.918,Tuberculosis
+Isoniazid,CCCO,Mycobacterium tuberculosis InhA,0.735,Tuberculosis
+Kanamycin,CCO,DNA gyrase,0.976,Tuberculosis
+Capreomycin,CCN(CC)CC,Mycolic acid synthesis pathway,0.685,Tuberculosis
+Kanamycin,CCOC,Cell wall synthesis enzyme,0.585,Tuberculosis
+Capreomycin,CCO,DNA gyrase,0.772,Tuberculosis
+Rifampicin,CCOC(=O)C,Mycobacterium tuberculosis InhA,0.846,Tuberculosis
+Pretomanid,CNC,RNA polymerase,0.719,Tuberculosis
+Levofloxacin,CCCN,DNA gyrase,0.664,Tuberculosis
+Delamanid,COC,Cell wall synthesis enzyme,0.848,Tuberculosis
+Rifampicin,COC,ATP synthase,0.74,Tuberculosis
