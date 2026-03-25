@@ -1,0 +1,1 @@
+{"detail":[{"type":"int_parsing","loc":["body","drug_code"],"msg":"Input should be a valid integer, unable to parse string as an integer","input":"CHEMBL739"},{"type":"missing","loc":["body","target_code"],"msg":"Field required","input":{"binding_affinity":5.0,"drug_code":"CHEMBL739","target_protein":"Spike Protein"}}]}
