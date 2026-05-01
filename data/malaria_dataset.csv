@@ -1,0 +1,1501 @@
+drug,smiles,target,binding_affinity,disease
+Chloroquine,CCOC(=O)C,Plasmodium falciparum DHFR,0.638,Malaria
+Amodiaquine,CC(C)O,Plasmodium protease,0.824,Malaria
+Tafenoquine,CCO,Plasmodium protease,0.562,Malaria
+Lumefantrine,CC(C)CC,Mitochondrial electron transport,0.844,Malaria
+Tafenoquine,CC(C)CC,Plasmodium falciparum DHFR,0.878,Malaria
+Pyronaridine,CNC,Heme detoxification pathway,0.901,Malaria
+Mefloquine,CCCO,Mitochondrial electron transport,0.922,Malaria
+Doxycycline,CNC,Mitochondrial electron transport,0.722,Malaria
+Halofantrine,CCN,Falcipain protease,0.58,Malaria
+Doxycycline,COC,Heme detoxification pathway,0.937,Malaria
+Proguanil,CCC,Cytochrome bc1 complex,0.568,Malaria
+Artesunate,CCO,Plasmodium protease,0.831,Malaria
+Artesunate,CNC,Plasmodium falciparum DHFR,0.889,Malaria
+Tafenoquine,CCC,Heme detoxification pathway,0.723,Malaria
+Pyronaridine,CNC,Cytochrome bc1 complex,0.735,Malaria
+Amodiaquine,CC(C)CC,Plasmodium falciparum DHFR,0.645,Malaria
+Artemisinin,CC(C)CC,Falcipain protease,0.966,Malaria
+Chloroquine,CCCN,Falcipain protease,0.759,Malaria
+Proguanil,CC(C)O,Heme detoxification pathway,0.689,Malaria
+Amodiaquine,CCNC,Cytochrome bc1 complex,0.585,Malaria
+Lumefantrine,CCC,Heme detoxification pathway,0.553,Malaria
+Piperaquine,COC,Cytochrome bc1 complex,0.963,Malaria
+Pyronaridine,CC(C)CC,Plasmodium protease,0.783,Malaria
+Amodiaquine,CCCN,Plasmodium falciparum DHFR,0.763,Malaria
+Doxycycline,CCN,Mitochondrial electron transport,0.563,Malaria
+Doxycycline,COC,Plasmodium protease,0.888,Malaria
+Mefloquine,COC,Falcipain protease,0.762,Malaria
+Doxycycline,CCNCO,Cytochrome bc1 complex,0.67,Malaria
+Halofantrine,CCOC,Heme detoxification pathway,0.816,Malaria
+Piperaquine,CCC,Falcipain protease,0.582,Malaria
+Halofantrine,CCOC,Falcipain protease,0.849,Malaria
+Proguanil,CCCO,Plasmodium falciparum DHFR,0.663,Malaria
+Mefloquine,CC(C)CC,Heme detoxification pathway,0.957,Malaria
+Amodiaquine,CCN(CC)CC,Mitochondrial electron transport,0.555,Malaria
+Primaquine,CCCN,Heme detoxification pathway,0.713,Malaria
+Tafenoquine,CCO,Plasmodium falciparum DHFR,0.582,Malaria
+Lumefantrine,CCO,Plasmodium falciparum DHFR,0.718,Malaria
+Proguanil,CCC,Plasmodium falciparum DHFR,0.773,Malaria
+Artemisinin,COC,Falcipain protease,0.834,Malaria
+Primaquine,CCCN,Falcipain protease,0.827,Malaria
+Halofantrine,CCNC,Heme detoxification pathway,0.793,Malaria
+Artemisinin,CCNCO,Plasmodium protease,0.862,Malaria
+Proguanil,CCNC,Plasmodium falciparum DHFR,0.845,Malaria
+Primaquine,CC(C)O,Plasmodium falciparum DHFR,0.794,Malaria
+Halofantrine,CCNCO,Plasmodium falciparum DHFR,0.923,Malaria
+Quinine,CC(C)O,Cytochrome bc1 complex,0.685,Malaria
+Chloroquine,CNC,Cytochrome bc1 complex,0.901,Malaria
+Artesunate,CCCO,Plasmodium protease,0.75,Malaria
+Tafenoquine,CCO,Heme detoxification pathway,0.699,Malaria
+Proguanil,C1CCCCC1,Mitochondrial electron transport,0.891,Malaria
+Mefloquine,CCOC,Plasmodium falciparum DHFR,0.57,Malaria
+Artemisinin,CCO,Mitochondrial electron transport,0.561,Malaria
+Proguanil,C1CCCCC1,Heme detoxification pathway,0.737,Malaria
+Artesunate,CC(C)CC,Mitochondrial electron transport,0.565,Malaria
+Artesunate,CCOC(=O)C,Plasmodium protease,0.563,Malaria
+Pyronaridine,CC(C)CC,Falcipain protease,0.85,Malaria
+Lumefantrine,CCN(CC)CC,Plasmodium falciparum DHFR,0.865,Malaria
+Quinine,CCOC,Plasmodium protease,0.851,Malaria
+Primaquine,CCNC,Heme detoxification pathway,0.804,Malaria
+Proguanil,C1CCCCC1,Cytochrome bc1 complex,0.856,Malaria
+Pyronaridine,CNC,Plasmodium falciparum DHFR,0.858,Malaria
+Pyronaridine,CC(C)CC,Mitochondrial electron transport,0.554,Malaria
+Artemisinin,CCOC(=O)C,Cytochrome bc1 complex,0.827,Malaria
+Lumefantrine,CCOC,Cytochrome bc1 complex,0.658,Malaria
+Tafenoquine,CC(C)O,Plasmodium falciparum DHFR,0.821,Malaria
+Chloroquine,CCC,Falcipain protease,0.844,Malaria
+Piperaquine,CCO,Cytochrome bc1 complex,0.901,Malaria
+Artesunate,CNC,Heme detoxification pathway,0.775,Malaria
+Quinine,CCNCO,Falcipain protease,0.805,Malaria
+Tafenoquine,CC(C)O,Mitochondrial electron transport,0.829,Malaria
+Mefloquine,CCCN,Heme detoxification pathway,0.591,Malaria
+Atovaquone,CNC,Heme detoxification pathway,0.786,Malaria
+Chloroquine,CCC,Cytochrome bc1 complex,0.691,Malaria
+Primaquine,CCNCO,Heme detoxification pathway,0.769,Malaria
+Artemisinin,CCCN,Falcipain protease,0.758,Malaria
+Halofantrine,CCOC(=O)C,Falcipain protease,0.873,Malaria
+Primaquine,CCCO,Plasmodium falciparum DHFR,0.781,Malaria
+Artesunate,CC(C)O,Plasmodium protease,0.911,Malaria
+Primaquine,CCCO,Heme detoxification pathway,0.731,Malaria
+Chloroquine,COC,Falcipain protease,0.801,Malaria
+Artemisinin,CCNCO,Falcipain protease,0.601,Malaria
+Proguanil,CC(C)O,Heme detoxification pathway,0.932,Malaria
+Atovaquone,CCO,Plasmodium protease,0.615,Malaria
+Artemisinin,CCNCO,Falcipain protease,0.902,Malaria
+Atovaquone,COC,Plasmodium falciparum DHFR,0.75,Malaria
+Chloroquine,CCN,Plasmodium falciparum DHFR,0.682,Malaria
+Amodiaquine,CCCO,Plasmodium protease,0.825,Malaria
+Chloroquine,CCC,Heme detoxification pathway,0.84,Malaria
+Primaquine,CCOC(=O)C,Plasmodium protease,0.764,Malaria
+Mefloquine,CC(C)O,Plasmodium protease,0.894,Malaria
+Proguanil,CC(C)O,Plasmodium falciparum DHFR,0.877,Malaria
+Doxycycline,CNC,Falcipain protease,0.747,Malaria
+Proguanil,CCCO,Plasmodium falciparum DHFR,0.683,Malaria
+Artemisinin,CCNCO,Heme detoxification pathway,0.661,Malaria
+Artemisinin,CCCO,Plasmodium falciparum DHFR,0.589,Malaria
+Piperaquine,CCNCO,Cytochrome bc1 complex,0.962,Malaria
+Piperaquine,COC,Plasmodium protease,0.883,Malaria
+Amodiaquine,CC(C)CC,Plasmodium falciparum DHFR,0.738,Malaria
+Artesunate,CC(C)O,Cytochrome bc1 complex,0.655,Malaria
+Proguanil,CCN,Heme detoxification pathway,0.551,Malaria
+Lumefantrine,CC(C)CC,Heme detoxification pathway,0.626,Malaria
+Pyronaridine,CCN,Falcipain protease,0.841,Malaria
+Pyronaridine,COC,Heme detoxification pathway,0.639,Malaria
+Amodiaquine,CCOC(=O)C,Heme detoxification pathway,0.96,Malaria
+Doxycycline,CCCN,Falcipain protease,0.73,Malaria
+Piperaquine,COC,Falcipain protease,0.966,Malaria
+Artesunate,CCN(CC)CC,Plasmodium protease,0.77,Malaria
+Chloroquine,CCNC,Heme detoxification pathway,0.816,Malaria
+Artemisinin,CCNC,Plasmodium falciparum DHFR,0.731,Malaria
+Halofantrine,CCCN,Heme detoxification pathway,0.709,Malaria
+Chloroquine,CCC,Cytochrome bc1 complex,0.686,Malaria
+Lumefantrine,CCCN,Heme detoxification pathway,0.891,Malaria
+Amodiaquine,CCNC,Heme detoxification pathway,0.771,Malaria
+Amodiaquine,CC(C)CC,Falcipain protease,0.804,Malaria
+Artemisinin,CCN(CC)CC,Cytochrome bc1 complex,0.684,Malaria
+Artemisinin,CCN(CC)CC,Falcipain protease,0.774,Malaria
+Halofantrine,CCOC(=O)C,Cytochrome bc1 complex,0.705,Malaria
+Artemisinin,CCOC,Cytochrome bc1 complex,0.867,Malaria
+Mefloquine,CCO,Cytochrome bc1 complex,0.876,Malaria
+Proguanil,COC,Plasmodium falciparum DHFR,0.95,Malaria
+Atovaquone,COC,Mitochondrial electron transport,0.709,Malaria
+Atovaquone,C1CCCCC1,Plasmodium protease,0.88,Malaria
+Piperaquine,CCO,Falcipain protease,0.667,Malaria
+Atovaquone,CCCN,Cytochrome bc1 complex,0.744,Malaria
+Mefloquine,CCOC(=O)C,Heme detoxification pathway,0.603,Malaria
+Halofantrine,COC,Falcipain protease,0.78,Malaria
+Artesunate,CCN(CC)CC,Cytochrome bc1 complex,0.58,Malaria
+Chloroquine,CCNCO,Plasmodium falciparum DHFR,0.582,Malaria
+Proguanil,CCOC,Heme detoxification pathway,0.583,Malaria
+Amodiaquine,CC(C)CC,Mitochondrial electron transport,0.809,Malaria
+Lumefantrine,CCCN,Plasmodium falciparum DHFR,0.734,Malaria
+Mefloquine,CCNCO,Heme detoxification pathway,0.67,Malaria
+Chloroquine,CCCO,Heme detoxification pathway,0.759,Malaria
+Lumefantrine,CCO,Cytochrome bc1 complex,0.768,Malaria
+Quinine,CNC,Cytochrome bc1 complex,0.615,Malaria
+Halofantrine,CCOC(=O)C,Heme detoxification pathway,0.852,Malaria
+Tafenoquine,CNC,Mitochondrial electron transport,0.555,Malaria
+Doxycycline,CC(C)O,Plasmodium falciparum DHFR,0.875,Malaria
+Proguanil,CCOC(=O)C,Falcipain protease,0.672,Malaria
+Pyronaridine,CCC,Falcipain protease,0.551,Malaria
+Amodiaquine,CCN,Plasmodium protease,0.82,Malaria
+Proguanil,CCC,Heme detoxification pathway,0.882,Malaria
+Artemisinin,CCO,Cytochrome bc1 complex,0.91,Malaria
+Halofantrine,C1CCCCC1,Cytochrome bc1 complex,0.869,Malaria
+Halofantrine,CCC,Mitochondrial electron transport,0.564,Malaria
+Lumefantrine,CNC,Heme detoxification pathway,0.885,Malaria
+Halofantrine,CCCO,Plasmodium falciparum DHFR,0.588,Malaria
+Primaquine,CCN,Plasmodium falciparum DHFR,0.63,Malaria
+Doxycycline,CCCO,Cytochrome bc1 complex,0.792,Malaria
+Chloroquine,CCCN,Plasmodium protease,0.796,Malaria
+Atovaquone,CCO,Heme detoxification pathway,0.757,Malaria
+Quinine,C1CCCCC1,Heme detoxification pathway,0.882,Malaria
+Halofantrine,CCN,Heme detoxification pathway,0.673,Malaria
+Atovaquone,COC,Heme detoxification pathway,0.721,Malaria
+Amodiaquine,CCN(CC)CC,Cytochrome bc1 complex,0.638,Malaria
+Piperaquine,CNC,Mitochondrial electron transport,0.81,Malaria
+Chloroquine,CCOC(=O)C,Plasmodium falciparum DHFR,0.698,Malaria
+Mefloquine,CC(C)CC,Mitochondrial electron transport,0.846,Malaria
+Atovaquone,CC(C)CC,Plasmodium falciparum DHFR,0.805,Malaria
+Amodiaquine,CCO,Mitochondrial electron transport,0.599,Malaria
+Mefloquine,CCOC(=O)C,Falcipain protease,0.565,Malaria
+Halofantrine,CCCN,Falcipain protease,0.797,Malaria
+Artemisinin,CCNCO,Falcipain protease,0.626,Malaria
+Proguanil,CCNCO,Cytochrome bc1 complex,0.647,Malaria
+Chloroquine,CCC,Falcipain protease,0.926,Malaria
+Proguanil,CCOC(=O)C,Plasmodium falciparum DHFR,0.912,Malaria
+Proguanil,CC(C)O,Heme detoxification pathway,0.649,Malaria
+Artesunate,CCC,Cytochrome bc1 complex,0.759,Malaria
+Chloroquine,CCCO,Plasmodium protease,0.706,Malaria
+Artemisinin,CCN(CC)CC,Plasmodium protease,0.565,Malaria
+Lumefantrine,COC,Heme detoxification pathway,0.697,Malaria
+Chloroquine,C1CCCCC1,Plasmodium protease,0.922,Malaria
+Artemisinin,CCN(CC)CC,Cytochrome bc1 complex,0.852,Malaria
+Amodiaquine,COC,Plasmodium protease,0.737,Malaria
+Chloroquine,CCNC,Plasmodium protease,0.58,Malaria
+Primaquine,CCOC(=O)C,Plasmodium protease,0.826,Malaria
+Chloroquine,CCOC,Cytochrome bc1 complex,0.694,Malaria
+Artemisinin,CC(C)CC,Plasmodium protease,0.698,Malaria
+Lumefantrine,CC(C)CC,Heme detoxification pathway,0.905,Malaria
+Artemisinin,C1CCCCC1,Cytochrome bc1 complex,0.684,Malaria
+Mefloquine,CCCN,Cytochrome bc1 complex,0.758,Malaria
+Artesunate,CCCO,Plasmodium protease,0.641,Malaria
+Amodiaquine,CCOC,Mitochondrial electron transport,0.804,Malaria
+Primaquine,CNC,Cytochrome bc1 complex,0.602,Malaria
+Piperaquine,CCN(CC)CC,Plasmodium falciparum DHFR,0.756,Malaria
+Tafenoquine,CC(C)O,Heme detoxification pathway,0.792,Malaria
+Artesunate,CCCO,Falcipain protease,0.705,Malaria
+Atovaquone,CCCN,Plasmodium falciparum DHFR,0.628,Malaria
+Amodiaquine,C1CCCCC1,Falcipain protease,0.862,Malaria
+Chloroquine,CCO,Falcipain protease,0.929,Malaria
+Halofantrine,CNC,Heme detoxification pathway,0.972,Malaria
+Primaquine,CNC,Falcipain protease,0.928,Malaria
+Pyronaridine,C1CCCCC1,Cytochrome bc1 complex,0.641,Malaria
+Artemisinin,CCOC,Plasmodium falciparum DHFR,0.681,Malaria
+Mefloquine,CNC,Plasmodium protease,0.917,Malaria
+Primaquine,CC(C)O,Falcipain protease,0.937,Malaria
+Chloroquine,CCN,Plasmodium protease,0.669,Malaria
+Artesunate,CCN(CC)CC,Cytochrome bc1 complex,0.674,Malaria
+Primaquine,CCN(CC)CC,Heme detoxification pathway,0.649,Malaria
+Doxycycline,CNC,Mitochondrial electron transport,0.661,Malaria
+Tafenoquine,CCCN,Cytochrome bc1 complex,0.843,Malaria
+Mefloquine,CCCN,Mitochondrial electron transport,0.789,Malaria
+Tafenoquine,CCN(CC)CC,Heme detoxification pathway,0.851,Malaria
+Atovaquone,CCO,Heme detoxification pathway,0.851,Malaria
+Artemisinin,CCNC,Plasmodium protease,0.703,Malaria
+Tafenoquine,CC(C)O,Plasmodium protease,0.634,Malaria
+Quinine,C1CCCCC1,Plasmodium protease,0.573,Malaria
+Proguanil,CNC,Plasmodium falciparum DHFR,0.691,Malaria
+Primaquine,CCCO,Plasmodium falciparum DHFR,0.949,Malaria
+Chloroquine,CCCO,Mitochondrial electron transport,0.573,Malaria
+Pyronaridine,CCO,Cytochrome bc1 complex,0.566,Malaria
+Pyronaridine,CCN(CC)CC,Heme detoxification pathway,0.888,Malaria
+Chloroquine,CCO,Plasmodium protease,0.929,Malaria
+Primaquine,CC(C)CC,Plasmodium falciparum DHFR,0.971,Malaria
+Quinine,CCO,Plasmodium protease,0.642,Malaria
+Artesunate,CCCO,Falcipain protease,0.73,Malaria
+Chloroquine,CCCN,Mitochondrial electron transport,0.588,Malaria
+Atovaquone,CC(C)O,Cytochrome bc1 complex,0.705,Malaria
+Doxycycline,COC,Plasmodium falciparum DHFR,0.836,Malaria
+Artemisinin,CCNCO,Mitochondrial electron transport,0.633,Malaria
+Lumefantrine,CCNC,Plasmodium protease,0.769,Malaria
+Amodiaquine,CCOC(=O)C,Cytochrome bc1 complex,0.685,Malaria
+Lumefantrine,CNC,Falcipain protease,0.566,Malaria
+Primaquine,CCN(CC)CC,Falcipain protease,0.86,Malaria
+Atovaquone,C1CCCCC1,Falcipain protease,0.768,Malaria
+Lumefantrine,CNC,Plasmodium protease,0.875,Malaria
+Primaquine,CCCN,Mitochondrial electron transport,0.58,Malaria
+Piperaquine,C1CCCCC1,Heme detoxification pathway,0.813,Malaria
+Pyronaridine,CCN(CC)CC,Cytochrome bc1 complex,0.856,Malaria
+Proguanil,CCCO,Mitochondrial electron transport,0.829,Malaria
+Lumefantrine,CCC,Falcipain protease,0.661,Malaria
+Chloroquine,CCN(CC)CC,Plasmodium protease,0.59,Malaria
+Atovaquone,CCNCO,Heme detoxification pathway,0.585,Malaria
+Doxycycline,CCOC(=O)C,Cytochrome bc1 complex,0.783,Malaria
+Doxycycline,CCCN,Mitochondrial electron transport,0.594,Malaria
+Doxycycline,CCOC,Heme detoxification pathway,0.788,Malaria
+Atovaquone,CCNCO,Heme detoxification pathway,0.571,Malaria
+Primaquine,CCCO,Plasmodium falciparum DHFR,0.748,Malaria
+Pyronaridine,CCN,Falcipain protease,0.968,Malaria
+Primaquine,C1CCCCC1,Cytochrome bc1 complex,0.789,Malaria
+Lumefantrine,CCOC(=O)C,Falcipain protease,0.97,Malaria
+Chloroquine,COC,Heme detoxification pathway,0.833,Malaria
+Atovaquone,CCN(CC)CC,Plasmodium protease,0.883,Malaria
+Halofantrine,CCN(CC)CC,Mitochondrial electron transport,0.669,Malaria
+Primaquine,CCN(CC)CC,Falcipain protease,0.551,Malaria
+Quinine,CCNCO,Plasmodium falciparum DHFR,0.727,Malaria
+Pyronaridine,CCCO,Mitochondrial electron transport,0.572,Malaria
+Lumefantrine,CCNC,Cytochrome bc1 complex,0.776,Malaria
+Proguanil,CCC,Mitochondrial electron transport,0.832,Malaria
+Pyronaridine,CCC,Mitochondrial electron transport,0.61,Malaria
+Atovaquone,CCNC,Falcipain protease,0.633,Malaria
+Doxycycline,CNC,Mitochondrial electron transport,0.92,Malaria
+Piperaquine,CCOC(=O)C,Falcipain protease,0.696,Malaria
+Lumefantrine,CCN,Plasmodium falciparum DHFR,0.826,Malaria
+Proguanil,CCNCO,Falcipain protease,0.787,Malaria
+Primaquine,CCOC(=O)C,Cytochrome bc1 complex,0.73,Malaria
+Quinine,CCN(CC)CC,Plasmodium falciparum DHFR,0.928,Malaria
+Mefloquine,CCOC,Cytochrome bc1 complex,0.863,Malaria
+Lumefantrine,CCN,Heme detoxification pathway,0.587,Malaria
+Tafenoquine,CCOC,Plasmodium protease,0.94,Malaria
+Quinine,CCN,Cytochrome bc1 complex,0.553,Malaria
+Lumefantrine,CCC,Mitochondrial electron transport,0.785,Malaria
+Mefloquine,C1CCCCC1,Plasmodium protease,0.558,Malaria
+Artemisinin,CNC,Heme detoxification pathway,0.891,Malaria
+Piperaquine,CCCO,Heme detoxification pathway,0.924,Malaria
+Artesunate,CCN,Plasmodium protease,0.7,Malaria
+Atovaquone,CCN,Mitochondrial electron transport,0.594,Malaria
+Chloroquine,C1CCCCC1,Cytochrome bc1 complex,0.693,Malaria
+Lumefantrine,CCOC,Cytochrome bc1 complex,0.608,Malaria
+Halofantrine,CCC,Plasmodium falciparum DHFR,0.804,Malaria
+Atovaquone,CC(C)CC,Plasmodium falciparum DHFR,0.752,Malaria
+Artesunate,CCO,Plasmodium protease,0.567,Malaria
+Proguanil,CNC,Plasmodium protease,0.844,Malaria
+Halofantrine,CC(C)CC,Falcipain protease,0.735,Malaria
+Piperaquine,CCC,Mitochondrial electron transport,0.851,Malaria
+Halofantrine,CCO,Plasmodium falciparum DHFR,0.603,Malaria
+Proguanil,CNC,Falcipain protease,0.889,Malaria
+Piperaquine,CCOC(=O)C,Heme detoxification pathway,0.736,Malaria
+Tafenoquine,CC(C)O,Plasmodium protease,0.941,Malaria
+Amodiaquine,CC(C)CC,Plasmodium falciparum DHFR,0.693,Malaria
+Proguanil,CCO,Plasmodium falciparum DHFR,0.799,Malaria
+Quinine,CCC,Plasmodium protease,0.846,Malaria
+Atovaquone,C1CCCCC1,Falcipain protease,0.66,Malaria
+Proguanil,C1CCCCC1,Plasmodium protease,0.706,Malaria
+Proguanil,COC,Heme detoxification pathway,0.802,Malaria
+Doxycycline,CCO,Cytochrome bc1 complex,0.589,Malaria
+Proguanil,CCN(CC)CC,Plasmodium protease,0.762,Malaria
+Quinine,CCNCO,Plasmodium falciparum DHFR,0.737,Malaria
+Lumefantrine,C1CCCCC1,Cytochrome bc1 complex,0.971,Malaria
+Lumefantrine,CCOC(=O)C,Plasmodium protease,0.82,Malaria
+Mefloquine,CCNCO,Cytochrome bc1 complex,0.923,Malaria
+Lumefantrine,CC(C)CC,Heme detoxification pathway,0.979,Malaria
+Quinine,CCN,Mitochondrial electron transport,0.73,Malaria
+Artesunate,COC,Heme detoxification pathway,0.934,Malaria
+Halofantrine,CC(C)CC,Cytochrome bc1 complex,0.944,Malaria
+Piperaquine,CC(C)O,Plasmodium falciparum DHFR,0.594,Malaria
+Tafenoquine,COC,Falcipain protease,0.917,Malaria
+Pyronaridine,CC(C)CC,Heme detoxification pathway,0.81,Malaria
+Quinine,CCOC(=O)C,Falcipain protease,0.925,Malaria
+Atovaquone,CNC,Falcipain protease,0.777,Malaria
+Amodiaquine,CCN,Falcipain protease,0.737,Malaria
+Piperaquine,CCNC,Falcipain protease,0.688,Malaria
+Piperaquine,COC,Mitochondrial electron transport,0.593,Malaria
+Mefloquine,CCN,Plasmodium falciparum DHFR,0.774,Malaria
+Mefloquine,CCN(CC)CC,Plasmodium protease,0.721,Malaria
+Lumefantrine,C1CCCCC1,Heme detoxification pathway,0.877,Malaria
+Halofantrine,CCCO,Plasmodium protease,0.892,Malaria
+Quinine,CCC,Falcipain protease,0.573,Malaria
+Lumefantrine,CC(C)O,Heme detoxification pathway,0.624,Malaria
+Doxycycline,CCN(CC)CC,Falcipain protease,0.62,Malaria
+Amodiaquine,CCOC(=O)C,Falcipain protease,0.691,Malaria
+Tafenoquine,CCOC(=O)C,Plasmodium falciparum DHFR,0.555,Malaria
+Lumefantrine,C1CCCCC1,Heme detoxification pathway,0.652,Malaria
+Mefloquine,CCN,Plasmodium falciparum DHFR,0.734,Malaria
+Halofantrine,CCNCO,Mitochondrial electron transport,0.838,Malaria
+Lumefantrine,C1CCCCC1,Falcipain protease,0.571,Malaria
+Proguanil,CCNC,Plasmodium falciparum DHFR,0.722,Malaria
+Mefloquine,CCN,Cytochrome bc1 complex,0.578,Malaria
+Amodiaquine,CCC,Heme detoxification pathway,0.563,Malaria
+Atovaquone,C1CCCCC1,Falcipain protease,0.955,Malaria
+Proguanil,CNC,Mitochondrial electron transport,0.884,Malaria
+Artesunate,CNC,Plasmodium falciparum DHFR,0.846,Malaria
+Artesunate,C1CCCCC1,Plasmodium protease,0.955,Malaria
+Halofantrine,CCNCO,Heme detoxification pathway,0.639,Malaria
+Mefloquine,CC(C)O,Cytochrome bc1 complex,0.902,Malaria
+Artesunate,CCC,Falcipain protease,0.789,Malaria
+Atovaquone,CNC,Plasmodium falciparum DHFR,0.656,Malaria
+Tafenoquine,CNC,Mitochondrial electron transport,0.615,Malaria
+Pyronaridine,COC,Cytochrome bc1 complex,0.626,Malaria
+Artesunate,CCN(CC)CC,Falcipain protease,0.941,Malaria
+Amodiaquine,CC(C)CC,Falcipain protease,0.865,Malaria
+Proguanil,CCN,Mitochondrial electron transport,0.675,Malaria
+Atovaquone,CCOC,Falcipain protease,0.664,Malaria
+Mefloquine,CC(C)O,Mitochondrial electron transport,0.914,Malaria
+Chloroquine,C1CCCCC1,Plasmodium falciparum DHFR,0.914,Malaria
+Primaquine,CCNCO,Plasmodium falciparum DHFR,0.98,Malaria
+Primaquine,CCN(CC)CC,Heme detoxification pathway,0.681,Malaria
+Lumefantrine,COC,Heme detoxification pathway,0.88,Malaria
+Amodiaquine,CCN,Plasmodium protease,0.884,Malaria
+Tafenoquine,CCOC(=O)C,Mitochondrial electron transport,0.704,Malaria
+Doxycycline,CCCN,Plasmodium protease,0.598,Malaria
+Lumefantrine,CCCO,Falcipain protease,0.597,Malaria
+Primaquine,CCN(CC)CC,Heme detoxification pathway,0.784,Malaria
+Artemisinin,CC(C)O,Plasmodium protease,0.872,Malaria
+Artesunate,CCO,Heme detoxification pathway,0.847,Malaria
+Tafenoquine,COC,Heme detoxification pathway,0.905,Malaria
+Lumefantrine,CCNC,Plasmodium protease,0.902,Malaria
+Proguanil,CCN(CC)CC,Plasmodium falciparum DHFR,0.79,Malaria
+Artemisinin,C1CCCCC1,Falcipain protease,0.561,Malaria
+Mefloquine,COC,Plasmodium falciparum DHFR,0.711,Malaria
+Tafenoquine,CCN,Heme detoxification pathway,0.666,Malaria
+Halofantrine,CCCO,Heme detoxification pathway,0.821,Malaria
+Artesunate,CCNC,Cytochrome bc1 complex,0.797,Malaria
+Mefloquine,CCCO,Heme detoxification pathway,0.693,Malaria
+Pyronaridine,CCCN,Cytochrome bc1 complex,0.831,Malaria
+Amodiaquine,CCCN,Falcipain protease,0.726,Malaria
+Atovaquone,CCC,Plasmodium protease,0.928,Malaria
+Amodiaquine,CCO,Heme detoxification pathway,0.603,Malaria
+Piperaquine,COC,Plasmodium falciparum DHFR,0.701,Malaria
+Mefloquine,CCOC,Plasmodium falciparum DHFR,0.877,Malaria
+Doxycycline,CC(C)O,Plasmodium falciparum DHFR,0.956,Malaria
+Pyronaridine,CCNC,Heme detoxification pathway,0.825,Malaria
+Artesunate,CCNCO,Heme detoxification pathway,0.826,Malaria
+Atovaquone,CNC,Mitochondrial electron transport,0.712,Malaria
+Artesunate,CCN,Falcipain protease,0.683,Malaria
+Atovaquone,CCC,Falcipain protease,0.723,Malaria
+Amodiaquine,CCO,Mitochondrial electron transport,0.716,Malaria
+Lumefantrine,CCOC(=O)C,Cytochrome bc1 complex,0.976,Malaria
+Halofantrine,CCNCO,Falcipain protease,0.662,Malaria
+Amodiaquine,CC(C)O,Cytochrome bc1 complex,0.581,Malaria
+Mefloquine,CCOC,Mitochondrial electron transport,0.723,Malaria
+Halofantrine,CCO,Mitochondrial electron transport,0.696,Malaria
+Piperaquine,CC(C)CC,Plasmodium protease,0.758,Malaria
+Tafenoquine,CCNCO,Falcipain protease,0.893,Malaria
+Atovaquone,COC,Heme detoxification pathway,0.964,Malaria
+Quinine,CCCN,Heme detoxification pathway,0.783,Malaria
+Quinine,CCOC,Mitochondrial electron transport,0.608,Malaria
+Tafenoquine,CCNC,Mitochondrial electron transport,0.78,Malaria
+Atovaquone,CCNCO,Falcipain protease,0.626,Malaria
+Chloroquine,COC,Plasmodium falciparum DHFR,0.802,Malaria
+Primaquine,CCNCO,Falcipain protease,0.888,Malaria
+Atovaquone,CCNCO,Mitochondrial electron transport,0.83,Malaria
+Atovaquone,CNC,Plasmodium protease,0.86,Malaria
+Artesunate,CCOC,Cytochrome bc1 complex,0.701,Malaria
+Primaquine,CCC,Plasmodium falciparum DHFR,0.655,Malaria
+Atovaquone,CC(C)CC,Plasmodium protease,0.82,Malaria
+Artemisinin,CCCN,Plasmodium falciparum DHFR,0.909,Malaria
+Halofantrine,CCNC,Heme detoxification pathway,0.668,Malaria
+Proguanil,COC,Plasmodium protease,0.731,Malaria
+Lumefantrine,CCN(CC)CC,Heme detoxification pathway,0.793,Malaria
+Mefloquine,CCN(CC)CC,Falcipain protease,0.794,Malaria
+Artesunate,COC,Falcipain protease,0.908,Malaria
+Pyronaridine,CNC,Plasmodium falciparum DHFR,0.774,Malaria
+Quinine,CCN,Heme detoxification pathway,0.718,Malaria
+Mefloquine,CCOC(=O)C,Heme detoxification pathway,0.851,Malaria
+Amodiaquine,CCN,Plasmodium protease,0.92,Malaria
+Tafenoquine,COC,Plasmodium falciparum DHFR,0.644,Malaria
+Artesunate,CNC,Plasmodium falciparum DHFR,0.611,Malaria
+Artemisinin,C1CCCCC1,Heme detoxification pathway,0.583,Malaria
+Mefloquine,CCC,Mitochondrial electron transport,0.811,Malaria
+Atovaquone,CCOC(=O)C,Mitochondrial electron transport,0.818,Malaria
+Pyronaridine,C1CCCCC1,Plasmodium falciparum DHFR,0.732,Malaria
+Pyronaridine,CCC,Falcipain protease,0.815,Malaria
+Amodiaquine,CC(C)CC,Cytochrome bc1 complex,0.934,Malaria
+Primaquine,CCN(CC)CC,Plasmodium protease,0.746,Malaria
+Chloroquine,CCNCO,Mitochondrial electron transport,0.671,Malaria
+Halofantrine,CC(C)CC,Heme detoxification pathway,0.948,Malaria
+Artesunate,CNC,Plasmodium falciparum DHFR,0.876,Malaria
+Quinine,CC(C)O,Falcipain protease,0.728,Malaria
+Piperaquine,CC(C)O,Heme detoxification pathway,0.736,Malaria
+Atovaquone,CCOC,Cytochrome bc1 complex,0.601,Malaria
+Atovaquone,CCCN,Cytochrome bc1 complex,0.746,Malaria
+Doxycycline,CCOC,Plasmodium falciparum DHFR,0.806,Malaria
+Pyronaridine,CCN(CC)CC,Heme detoxification pathway,0.927,Malaria
+Artesunate,CCO,Falcipain protease,0.893,Malaria
+Lumefantrine,CC(C)O,Plasmodium falciparum DHFR,0.554,Malaria
+Pyronaridine,CC(C)O,Plasmodium protease,0.713,Malaria
+Halofantrine,CNC,Cytochrome bc1 complex,0.719,Malaria
+Pyronaridine,COC,Plasmodium protease,0.751,Malaria
+Mefloquine,CCNCO,Cytochrome bc1 complex,0.845,Malaria
+Artesunate,CCNCO,Cytochrome bc1 complex,0.94,Malaria
+Atovaquone,CCOC(=O)C,Heme detoxification pathway,0.846,Malaria
+Piperaquine,CCOC(=O)C,Plasmodium protease,0.855,Malaria
+Proguanil,CCN(CC)CC,Plasmodium falciparum DHFR,0.636,Malaria
+Pyronaridine,CCC,Plasmodium protease,0.77,Malaria
+Primaquine,CNC,Heme detoxification pathway,0.917,Malaria
+Mefloquine,CCO,Plasmodium protease,0.591,Malaria
+Primaquine,CC(C)CC,Heme detoxification pathway,0.96,Malaria
+Pyronaridine,CC(C)O,Mitochondrial electron transport,0.877,Malaria
+Primaquine,CC(C)O,Mitochondrial electron transport,0.912,Malaria
+Pyronaridine,CCNCO,Heme detoxification pathway,0.927,Malaria
+Artemisinin,CCOC,Heme detoxification pathway,0.667,Malaria
+Atovaquone,COC,Falcipain protease,0.6,Malaria
+Primaquine,CCOC,Plasmodium protease,0.927,Malaria
+Primaquine,CCCO,Plasmodium falciparum DHFR,0.934,Malaria
+Artesunate,CCCO,Cytochrome bc1 complex,0.834,Malaria
+Proguanil,COC,Plasmodium protease,0.811,Malaria
+Artemisinin,CC(C)CC,Plasmodium falciparum DHFR,0.602,Malaria
+Artemisinin,CNC,Heme detoxification pathway,0.639,Malaria
+Pyronaridine,CCNC,Mitochondrial electron transport,0.592,Malaria
+Pyronaridine,CCN,Cytochrome bc1 complex,0.886,Malaria
+Proguanil,CCCO,Heme detoxification pathway,0.615,Malaria
+Lumefantrine,CCNCO,Mitochondrial electron transport,0.825,Malaria
+Artemisinin,COC,Cytochrome bc1 complex,0.943,Malaria
+Tafenoquine,CCC,Plasmodium protease,0.637,Malaria
+Halofantrine,CC(C)O,Mitochondrial electron transport,0.841,Malaria
+Pyronaridine,C1CCCCC1,Plasmodium protease,0.678,Malaria
+Atovaquone,CCOC(=O)C,Cytochrome bc1 complex,0.587,Malaria
+Quinine,CCCN,Plasmodium protease,0.72,Malaria
+Artesunate,CCOC,Mitochondrial electron transport,0.915,Malaria
+Quinine,CNC,Heme detoxification pathway,0.55,Malaria
+Amodiaquine,CCN(CC)CC,Mitochondrial electron transport,0.869,Malaria
+Primaquine,CCN(CC)CC,Mitochondrial electron transport,0.668,Malaria
+Tafenoquine,CCN,Cytochrome bc1 complex,0.677,Malaria
+Tafenoquine,CNC,Cytochrome bc1 complex,0.655,Malaria
+Mefloquine,COC,Heme detoxification pathway,0.685,Malaria
+Mefloquine,CCCN,Mitochondrial electron transport,0.842,Malaria
+Atovaquone,CCO,Mitochondrial electron transport,0.938,Malaria
+Halofantrine,CCNCO,Cytochrome bc1 complex,0.968,Malaria
+Lumefantrine,CCN(CC)CC,Heme detoxification pathway,0.788,Malaria
+Artemisinin,CC(C)CC,Falcipain protease,0.799,Malaria
+Artesunate,CCNC,Plasmodium protease,0.662,Malaria
+Doxycycline,CC(C)CC,Cytochrome bc1 complex,0.945,Malaria
+Pyronaridine,CCN,Cytochrome bc1 complex,0.706,Malaria
+Lumefantrine,CCOC(=O)C,Cytochrome bc1 complex,0.791,Malaria
+Pyronaridine,CCN(CC)CC,Plasmodium protease,0.659,Malaria
+Tafenoquine,CCOC,Heme detoxification pathway,0.978,Malaria
+Chloroquine,CCOC,Heme detoxification pathway,0.75,Malaria
+Quinine,CC(C)O,Falcipain protease,0.655,Malaria
+Chloroquine,CCNCO,Falcipain protease,0.742,Malaria
+Amodiaquine,CNC,Plasmodium falciparum DHFR,0.881,Malaria
+Quinine,CCN,Plasmodium falciparum DHFR,0.932,Malaria
+Doxycycline,CCCO,Plasmodium falciparum DHFR,0.566,Malaria
+Artesunate,CC(C)CC,Cytochrome bc1 complex,0.825,Malaria
+Atovaquone,CCN,Plasmodium falciparum DHFR,0.594,Malaria
+Primaquine,CCOC,Falcipain protease,0.779,Malaria
+Proguanil,CCN(CC)CC,Mitochondrial electron transport,0.671,Malaria
+Proguanil,COC,Heme detoxification pathway,0.892,Malaria
+Primaquine,CCN,Plasmodium falciparum DHFR,0.961,Malaria
+Chloroquine,CCO,Falcipain protease,0.707,Malaria
+Piperaquine,CCNC,Plasmodium falciparum DHFR,0.708,Malaria
+Piperaquine,CNC,Heme detoxification pathway,0.554,Malaria
+Piperaquine,C1CCCCC1,Mitochondrial electron transport,0.552,Malaria
+Amodiaquine,CCO,Plasmodium falciparum DHFR,0.733,Malaria
+Piperaquine,CCNCO,Plasmodium protease,0.58,Malaria
+Primaquine,CCNCO,Plasmodium falciparum DHFR,0.766,Malaria
+Atovaquone,CCN,Falcipain protease,0.653,Malaria
+Atovaquone,CCCN,Mitochondrial electron transport,0.678,Malaria
+Mefloquine,CCCN,Cytochrome bc1 complex,0.669,Malaria
+Mefloquine,CNC,Plasmodium protease,0.904,Malaria
+Artemisinin,CCCN,Plasmodium falciparum DHFR,0.973,Malaria
+Tafenoquine,CC(C)O,Cytochrome bc1 complex,0.665,Malaria
+Chloroquine,CC(C)CC,Plasmodium protease,0.865,Malaria
+Halofantrine,CCNCO,Mitochondrial electron transport,0.782,Malaria
+Mefloquine,CCCN,Mitochondrial electron transport,0.853,Malaria
+Atovaquone,CCOC,Plasmodium protease,0.904,Malaria
+Doxycycline,CCCO,Mitochondrial electron transport,0.65,Malaria
+Piperaquine,CCC,Mitochondrial electron transport,0.866,Malaria
+Atovaquone,COC,Falcipain protease,0.729,Malaria
+Pyronaridine,CNC,Plasmodium falciparum DHFR,0.771,Malaria
+Tafenoquine,CCNCO,Mitochondrial electron transport,0.61,Malaria
+Piperaquine,CC(C)O,Plasmodium falciparum DHFR,0.584,Malaria
+Tafenoquine,CCCN,Mitochondrial electron transport,0.623,Malaria
+Chloroquine,CCO,Heme detoxification pathway,0.832,Malaria
+Atovaquone,CCOC,Mitochondrial electron transport,0.694,Malaria
+Primaquine,CCC,Mitochondrial electron transport,0.738,Malaria
+Atovaquone,CCN(CC)CC,Plasmodium falciparum DHFR,0.6,Malaria
+Amodiaquine,CCNC,Falcipain protease,0.56,Malaria
+Artesunate,CCNCO,Heme detoxification pathway,0.901,Malaria
+Piperaquine,CCOC(=O)C,Cytochrome bc1 complex,0.645,Malaria
+Quinine,CCOC,Mitochondrial electron transport,0.709,Malaria
+Tafenoquine,CCNCO,Cytochrome bc1 complex,0.839,Malaria
+Halofantrine,COC,Heme detoxification pathway,0.864,Malaria
+Tafenoquine,COC,Falcipain protease,0.896,Malaria
+Proguanil,C1CCCCC1,Plasmodium protease,0.551,Malaria
+Chloroquine,CC(C)O,Mitochondrial electron transport,0.955,Malaria
+Halofantrine,CCNC,Cytochrome bc1 complex,0.781,Malaria
+Quinine,C1CCCCC1,Falcipain protease,0.871,Malaria
+Doxycycline,CCOC(=O)C,Falcipain protease,0.689,Malaria
+Tafenoquine,CCC,Heme detoxification pathway,0.851,Malaria
+Proguanil,CCN,Mitochondrial electron transport,0.558,Malaria
+Tafenoquine,CCC,Plasmodium falciparum DHFR,0.819,Malaria
+Amodiaquine,CCCN,Plasmodium falciparum DHFR,0.874,Malaria
+Piperaquine,CCC,Heme detoxification pathway,0.553,Malaria
+Doxycycline,CCOC(=O)C,Plasmodium falciparum DHFR,0.781,Malaria
+Quinine,CCCN,Cytochrome bc1 complex,0.68,Malaria
+Artemisinin,CC(C)CC,Plasmodium protease,0.857,Malaria
+Artesunate,CCO,Heme detoxification pathway,0.974,Malaria
+Atovaquone,CCNCO,Plasmodium protease,0.94,Malaria
+Primaquine,CCOC,Falcipain protease,0.735,Malaria
+Pyronaridine,CCN,Mitochondrial electron transport,0.942,Malaria
+Amodiaquine,CCOC,Falcipain protease,0.811,Malaria
+Doxycycline,CCCO,Mitochondrial electron transport,0.748,Malaria
+Amodiaquine,C1CCCCC1,Cytochrome bc1 complex,0.64,Malaria
+Quinine,COC,Falcipain protease,0.767,Malaria
+Quinine,CCN,Mitochondrial electron transport,0.588,Malaria
+Mefloquine,CC(C)O,Mitochondrial electron transport,0.903,Malaria
+Doxycycline,CCN,Cytochrome bc1 complex,0.855,Malaria
+Piperaquine,CCCN,Mitochondrial electron transport,0.582,Malaria
+Halofantrine,CCN,Mitochondrial electron transport,0.889,Malaria
+Doxycycline,CCCO,Cytochrome bc1 complex,0.839,Malaria
+Mefloquine,CCOC(=O)C,Mitochondrial electron transport,0.628,Malaria
+Primaquine,CCOC,Mitochondrial electron transport,0.744,Malaria
+Piperaquine,CC(C)CC,Cytochrome bc1 complex,0.584,Malaria
+Artesunate,CCNCO,Falcipain protease,0.938,Malaria
+Doxycycline,CCN,Cytochrome bc1 complex,0.796,Malaria
+Atovaquone,CNC,Plasmodium protease,0.873,Malaria
+Tafenoquine,CC(C)O,Plasmodium falciparum DHFR,0.835,Malaria
+Piperaquine,CCC,Cytochrome bc1 complex,0.823,Malaria
+Halofantrine,CCC,Plasmodium protease,0.673,Malaria
+Proguanil,CCC,Mitochondrial electron transport,0.933,Malaria
+Pyronaridine,CCOC,Mitochondrial electron transport,0.733,Malaria
+Pyronaridine,CCCO,Mitochondrial electron transport,0.689,Malaria
+Proguanil,COC,Plasmodium falciparum DHFR,0.846,Malaria
+Amodiaquine,CCCN,Plasmodium falciparum DHFR,0.718,Malaria
+Amodiaquine,CC(C)CC,Plasmodium falciparum DHFR,0.637,Malaria
+Lumefantrine,CCNC,Plasmodium protease,0.633,Malaria
+Mefloquine,CCN,Plasmodium protease,0.599,Malaria
+Artesunate,CCNCO,Heme detoxification pathway,0.55,Malaria
+Primaquine,CCNCO,Plasmodium falciparum DHFR,0.777,Malaria
+Pyronaridine,CC(C)CC,Plasmodium protease,0.69,Malaria
+Primaquine,CNC,Plasmodium protease,0.968,Malaria
+Artesunate,CC(C)CC,Plasmodium protease,0.894,Malaria
+Lumefantrine,CCN(CC)CC,Cytochrome bc1 complex,0.608,Malaria
+Tafenoquine,CCC,Plasmodium protease,0.86,Malaria
+Atovaquone,COC,Cytochrome bc1 complex,0.582,Malaria
+Mefloquine,COC,Heme detoxification pathway,0.592,Malaria
+Primaquine,CCO,Falcipain protease,0.596,Malaria
+Tafenoquine,CCNCO,Mitochondrial electron transport,0.877,Malaria
+Amodiaquine,CCCO,Mitochondrial electron transport,0.621,Malaria
+Proguanil,CCOC,Cytochrome bc1 complex,0.641,Malaria
+Halofantrine,CCNCO,Cytochrome bc1 complex,0.952,Malaria
+Pyronaridine,CCOC(=O)C,Cytochrome bc1 complex,0.608,Malaria
+Chloroquine,CCN,Plasmodium falciparum DHFR,0.716,Malaria
+Artesunate,CCCO,Plasmodium falciparum DHFR,0.95,Malaria
+Amodiaquine,COC,Falcipain protease,0.803,Malaria
+Doxycycline,COC,Plasmodium protease,0.598,Malaria
+Artemisinin,CCNC,Heme detoxification pathway,0.686,Malaria
+Proguanil,CCCO,Plasmodium protease,0.698,Malaria
+Proguanil,CCOC(=O)C,Cytochrome bc1 complex,0.766,Malaria
+Lumefantrine,CCN(CC)CC,Falcipain protease,0.604,Malaria
+Primaquine,C1CCCCC1,Cytochrome bc1 complex,0.561,Malaria
+Amodiaquine,CC(C)O,Cytochrome bc1 complex,0.965,Malaria
+Atovaquone,CCN,Plasmodium falciparum DHFR,0.699,Malaria
+Lumefantrine,CCN(CC)CC,Plasmodium falciparum DHFR,0.955,Malaria
+Atovaquone,CCC,Cytochrome bc1 complex,0.813,Malaria
+Tafenoquine,CCCO,Heme detoxification pathway,0.955,Malaria
+Doxycycline,CCOC,Falcipain protease,0.653,Malaria
+Primaquine,CNC,Falcipain protease,0.594,Malaria
+Proguanil,CCOC,Plasmodium falciparum DHFR,0.91,Malaria
+Lumefantrine,CCOC(=O)C,Heme detoxification pathway,0.683,Malaria
+Primaquine,CCNCO,Cytochrome bc1 complex,0.848,Malaria
+Halofantrine,CCO,Mitochondrial electron transport,0.805,Malaria
+Pyronaridine,CCCO,Mitochondrial electron transport,0.826,Malaria
+Chloroquine,CCNC,Cytochrome bc1 complex,0.945,Malaria
+Primaquine,CCN(CC)CC,Falcipain protease,0.971,Malaria
+Pyronaridine,CC(C)CC,Falcipain protease,0.872,Malaria
+Doxycycline,CCC,Falcipain protease,0.626,Malaria
+Primaquine,CCC,Mitochondrial electron transport,0.915,Malaria
+Pyronaridine,CCO,Falcipain protease,0.693,Malaria
+Doxycycline,CCO,Cytochrome bc1 complex,0.805,Malaria
+Primaquine,CCCN,Plasmodium protease,0.893,Malaria
+Mefloquine,CC(C)CC,Falcipain protease,0.914,Malaria
+Amodiaquine,CNC,Cytochrome bc1 complex,0.935,Malaria
+Atovaquone,CCC,Heme detoxification pathway,0.88,Malaria
+Halofantrine,CC(C)CC,Cytochrome bc1 complex,0.626,Malaria
+Proguanil,CNC,Falcipain protease,0.712,Malaria
+Atovaquone,CCNCO,Falcipain protease,0.96,Malaria
+Amodiaquine,CCNCO,Cytochrome bc1 complex,0.728,Malaria
+Doxycycline,COC,Cytochrome bc1 complex,0.653,Malaria
+Artesunate,CCN(CC)CC,Falcipain protease,0.782,Malaria
+Doxycycline,CCN,Falcipain protease,0.957,Malaria
+Artemisinin,CC(C)O,Falcipain protease,0.972,Malaria
+Quinine,CCO,Mitochondrial electron transport,0.838,Malaria
+Lumefantrine,COC,Cytochrome bc1 complex,0.961,Malaria
+Proguanil,CCNC,Cytochrome bc1 complex,0.819,Malaria
+Amodiaquine,CC(C)O,Plasmodium falciparum DHFR,0.852,Malaria
+Pyronaridine,CCCO,Falcipain protease,0.556,Malaria
+Proguanil,CCO,Cytochrome bc1 complex,0.902,Malaria
+Mefloquine,CCCN,Plasmodium protease,0.677,Malaria
+Lumefantrine,CCN(CC)CC,Cytochrome bc1 complex,0.673,Malaria
+Amodiaquine,CC(C)O,Mitochondrial electron transport,0.725,Malaria
+Piperaquine,CC(C)CC,Plasmodium falciparum DHFR,0.976,Malaria
+Artesunate,CCO,Plasmodium falciparum DHFR,0.762,Malaria
+Quinine,CCCO,Cytochrome bc1 complex,0.812,Malaria
+Primaquine,CCC,Falcipain protease,0.782,Malaria
+Artemisinin,COC,Falcipain protease,0.832,Malaria
+Piperaquine,COC,Plasmodium falciparum DHFR,0.857,Malaria
+Proguanil,CCN,Plasmodium falciparum DHFR,0.72,Malaria
+Primaquine,CCNC,Cytochrome bc1 complex,0.962,Malaria
+Artemisinin,CCC,Falcipain protease,0.582,Malaria
+Pyronaridine,C1CCCCC1,Plasmodium falciparum DHFR,0.801,Malaria
+Pyronaridine,CCNC,Cytochrome bc1 complex,0.953,Malaria
+Artemisinin,CCO,Heme detoxification pathway,0.656,Malaria
+Proguanil,CCOC(=O)C,Mitochondrial electron transport,0.785,Malaria
+Proguanil,CNC,Falcipain protease,0.814,Malaria
+Artemisinin,CC(C)O,Plasmodium protease,0.61,Malaria
+Doxycycline,CCOC,Heme detoxification pathway,0.943,Malaria
+Piperaquine,C1CCCCC1,Falcipain protease,0.884,Malaria
+Primaquine,COC,Mitochondrial electron transport,0.574,Malaria
+Lumefantrine,CCOC(=O)C,Plasmodium falciparum DHFR,0.655,Malaria
+Pyronaridine,CC(C)CC,Cytochrome bc1 complex,0.794,Malaria
+Proguanil,C1CCCCC1,Plasmodium falciparum DHFR,0.815,Malaria
+Artemisinin,CC(C)O,Plasmodium falciparum DHFR,0.912,Malaria
+Chloroquine,CCOC,Falcipain protease,0.879,Malaria
+Mefloquine,CNC,Mitochondrial electron transport,0.559,Malaria
+Mefloquine,CCNCO,Plasmodium falciparum DHFR,0.786,Malaria
+Proguanil,CCOC(=O)C,Cytochrome bc1 complex,0.615,Malaria
+Halofantrine,CNC,Cytochrome bc1 complex,0.745,Malaria
+Tafenoquine,CC(C)CC,Mitochondrial electron transport,0.555,Malaria
+Artemisinin,C1CCCCC1,Cytochrome bc1 complex,0.593,Malaria
+Primaquine,CCOC,Mitochondrial electron transport,0.851,Malaria
+Atovaquone,CCC,Mitochondrial electron transport,0.681,Malaria
+Proguanil,CCNCO,Mitochondrial electron transport,0.743,Malaria
+Tafenoquine,CCOC(=O)C,Plasmodium falciparum DHFR,0.684,Malaria
+Piperaquine,CCCN,Plasmodium falciparum DHFR,0.895,Malaria
+Mefloquine,CCO,Heme detoxification pathway,0.831,Malaria
+Halofantrine,CNC,Cytochrome bc1 complex,0.771,Malaria
+Atovaquone,CCN(CC)CC,Cytochrome bc1 complex,0.91,Malaria
+Piperaquine,CCNCO,Plasmodium protease,0.788,Malaria
+Tafenoquine,CCOC(=O)C,Cytochrome bc1 complex,0.902,Malaria
+Atovaquone,CCC,Falcipain protease,0.707,Malaria
+Atovaquone,CCOC,Plasmodium protease,0.795,Malaria
+Proguanil,CNC,Falcipain protease,0.899,Malaria
+Quinine,CCNC,Heme detoxification pathway,0.66,Malaria
+Atovaquone,CCCO,Heme detoxification pathway,0.762,Malaria
+Artemisinin,CCOC(=O)C,Heme detoxification pathway,0.871,Malaria
+Quinine,CC(C)O,Plasmodium falciparum DHFR,0.624,Malaria
+Doxycycline,CCNC,Plasmodium falciparum DHFR,0.815,Malaria
+Amodiaquine,CCC,Plasmodium falciparum DHFR,0.911,Malaria
+Artesunate,COC,Plasmodium falciparum DHFR,0.969,Malaria
+Halofantrine,CC(C)O,Falcipain protease,0.623,Malaria
+Artemisinin,CC(C)CC,Mitochondrial electron transport,0.768,Malaria
+Amodiaquine,CCN(CC)CC,Falcipain protease,0.925,Malaria
+Piperaquine,C1CCCCC1,Plasmodium protease,0.613,Malaria
+Chloroquine,COC,Plasmodium protease,0.769,Malaria
+Chloroquine,CCOC,Mitochondrial electron transport,0.809,Malaria
+Artemisinin,CC(C)O,Plasmodium protease,0.711,Malaria
+Artesunate,CCNCO,Plasmodium protease,0.688,Malaria
+Amodiaquine,CCOC(=O)C,Falcipain protease,0.92,Malaria
+Tafenoquine,CCC,Heme detoxification pathway,0.713,Malaria
+Chloroquine,CNC,Falcipain protease,0.976,Malaria
+Halofantrine,CNC,Heme detoxification pathway,0.769,Malaria
+Doxycycline,CC(C)CC,Heme detoxification pathway,0.699,Malaria
+Amodiaquine,COC,Mitochondrial electron transport,0.765,Malaria
+Mefloquine,CCO,Plasmodium protease,0.901,Malaria
+Pyronaridine,CCN,Plasmodium falciparum DHFR,0.75,Malaria
+Doxycycline,CCN,Plasmodium falciparum DHFR,0.703,Malaria
+Halofantrine,CCO,Mitochondrial electron transport,0.914,Malaria
+Quinine,CCOC,Mitochondrial electron transport,0.655,Malaria
+Mefloquine,CCN(CC)CC,Cytochrome bc1 complex,0.621,Malaria
+Lumefantrine,CCCN,Heme detoxification pathway,0.72,Malaria
+Artemisinin,CC(C)CC,Plasmodium protease,0.813,Malaria
+Atovaquone,CCC,Heme detoxification pathway,0.713,Malaria
+Artemisinin,CCOC,Falcipain protease,0.955,Malaria
+Chloroquine,CCC,Cytochrome bc1 complex,0.63,Malaria
+Proguanil,CCO,Heme detoxification pathway,0.911,Malaria
+Primaquine,COC,Plasmodium protease,0.705,Malaria
+Atovaquone,CCOC(=O)C,Mitochondrial electron transport,0.786,Malaria
+Mefloquine,CCC,Plasmodium protease,0.913,Malaria
+Primaquine,CNC,Mitochondrial electron transport,0.897,Malaria
+Tafenoquine,CCCN,Heme detoxification pathway,0.765,Malaria
+Piperaquine,CCN,Falcipain protease,0.576,Malaria
+Proguanil,CC(C)O,Plasmodium protease,0.955,Malaria
+Quinine,CNC,Mitochondrial electron transport,0.847,Malaria
+Doxycycline,CCNCO,Heme detoxification pathway,0.872,Malaria
+Piperaquine,CCO,Plasmodium protease,0.972,Malaria
+Proguanil,CCNC,Cytochrome bc1 complex,0.867,Malaria
+Chloroquine,CCNCO,Plasmodium protease,0.93,Malaria
+Mefloquine,CCNCO,Falcipain protease,0.636,Malaria
+Artesunate,CNC,Heme detoxification pathway,0.722,Malaria
+Tafenoquine,CCNCO,Falcipain protease,0.625,Malaria
+Proguanil,C1CCCCC1,Cytochrome bc1 complex,0.94,Malaria
+Atovaquone,CCOC(=O)C,Plasmodium protease,0.967,Malaria
+Chloroquine,CCOC(=O)C,Plasmodium falciparum DHFR,0.56,Malaria
+Artemisinin,CCCO,Cytochrome bc1 complex,0.767,Malaria
+Artesunate,COC,Mitochondrial electron transport,0.923,Malaria
+Primaquine,CCCN,Cytochrome bc1 complex,0.641,Malaria
+Tafenoquine,CCOC,Mitochondrial electron transport,0.802,Malaria
+Halofantrine,CC(C)CC,Mitochondrial electron transport,0.719,Malaria
+Artemisinin,CC(C)CC,Plasmodium protease,0.61,Malaria
+Atovaquone,CCCO,Falcipain protease,0.755,Malaria
+Primaquine,CCCO,Falcipain protease,0.589,Malaria
+Proguanil,CNC,Falcipain protease,0.854,Malaria
+Atovaquone,CCOC,Heme detoxification pathway,0.971,Malaria
+Quinine,CCNCO,Plasmodium falciparum DHFR,0.842,Malaria
+Halofantrine,CCN(CC)CC,Mitochondrial electron transport,0.589,Malaria
+Mefloquine,CCCN,Heme detoxification pathway,0.669,Malaria
+Pyronaridine,CC(C)CC,Heme detoxification pathway,0.736,Malaria
+Primaquine,CC(C)O,Plasmodium protease,0.975,Malaria
+Quinine,C1CCCCC1,Plasmodium falciparum DHFR,0.616,Malaria
+Doxycycline,CCO,Plasmodium falciparum DHFR,0.794,Malaria
+Artesunate,CNC,Heme detoxification pathway,0.846,Malaria
+Piperaquine,CC(C)O,Plasmodium protease,0.667,Malaria
+Quinine,CCCN,Plasmodium falciparum DHFR,0.755,Malaria
+Pyronaridine,CC(C)CC,Plasmodium falciparum DHFR,0.811,Malaria
+Amodiaquine,CCN,Mitochondrial electron transport,0.839,Malaria
+Piperaquine,CCCN,Plasmodium protease,0.847,Malaria
+Pyronaridine,CCO,Heme detoxification pathway,0.699,Malaria
+Quinine,CCOC(=O)C,Plasmodium falciparum DHFR,0.643,Malaria
+Primaquine,CCCN,Falcipain protease,0.856,Malaria
+Piperaquine,CCN,Cytochrome bc1 complex,0.641,Malaria
+Tafenoquine,CCN(CC)CC,Plasmodium protease,0.876,Malaria
+Primaquine,CCCO,Heme detoxification pathway,0.87,Malaria
+Proguanil,CCO,Falcipain protease,0.838,Malaria
+Lumefantrine,CCOC(=O)C,Heme detoxification pathway,0.963,Malaria
+Artesunate,CC(C)CC,Heme detoxification pathway,0.769,Malaria
+Chloroquine,CCOC(=O)C,Falcipain protease,0.736,Malaria
+Piperaquine,CCN(CC)CC,Plasmodium protease,0.823,Malaria
+Atovaquone,C1CCCCC1,Cytochrome bc1 complex,0.607,Malaria
+Amodiaquine,CCN,Mitochondrial electron transport,0.695,Malaria
+Amodiaquine,CCN(CC)CC,Plasmodium protease,0.887,Malaria
+Artesunate,C1CCCCC1,Falcipain protease,0.793,Malaria
+Quinine,CCC,Plasmodium protease,0.777,Malaria
+Tafenoquine,CCOC,Mitochondrial electron transport,0.929,Malaria
+Pyronaridine,CCN(CC)CC,Heme detoxification pathway,0.785,Malaria
+Artemisinin,CCCO,Cytochrome bc1 complex,0.702,Malaria
+Chloroquine,CNC,Heme detoxification pathway,0.874,Malaria
+Primaquine,CC(C)CC,Plasmodium protease,0.708,Malaria
+Atovaquone,CCNC,Heme detoxification pathway,0.677,Malaria
+Halofantrine,CCNCO,Plasmodium falciparum DHFR,0.671,Malaria
+Amodiaquine,CNC,Mitochondrial electron transport,0.886,Malaria
+Doxycycline,CCN,Mitochondrial electron transport,0.732,Malaria
+Amodiaquine,CCCO,Falcipain protease,0.627,Malaria
+Doxycycline,CNC,Falcipain protease,0.793,Malaria
+Doxycycline,CC(C)CC,Plasmodium protease,0.875,Malaria
+Proguanil,CCN(CC)CC,Plasmodium protease,0.769,Malaria
+Artesunate,CCN,Plasmodium falciparum DHFR,0.861,Malaria
+Halofantrine,CCOC,Heme detoxification pathway,0.868,Malaria
+Piperaquine,CC(C)CC,Heme detoxification pathway,0.957,Malaria
+Primaquine,CCC,Heme detoxification pathway,0.842,Malaria
+Lumefantrine,C1CCCCC1,Cytochrome bc1 complex,0.56,Malaria
+Atovaquone,CCN,Cytochrome bc1 complex,0.739,Malaria
+Atovaquone,COC,Falcipain protease,0.935,Malaria
+Lumefantrine,CCC,Plasmodium falciparum DHFR,0.583,Malaria
+Artemisinin,CNC,Heme detoxification pathway,0.932,Malaria
+Quinine,C1CCCCC1,Falcipain protease,0.674,Malaria
+Halofantrine,CCOC,Cytochrome bc1 complex,0.822,Malaria
+Artemisinin,CCN(CC)CC,Falcipain protease,0.571,Malaria
+Atovaquone,COC,Mitochondrial electron transport,0.59,Malaria
+Mefloquine,CCCO,Cytochrome bc1 complex,0.625,Malaria
+Atovaquone,CC(C)CC,Mitochondrial electron transport,0.792,Malaria
+Proguanil,CCC,Heme detoxification pathway,0.847,Malaria
+Amodiaquine,CCOC,Falcipain protease,0.656,Malaria
+Artesunate,CCC,Mitochondrial electron transport,0.853,Malaria
+Halofantrine,CNC,Falcipain protease,0.592,Malaria
+Artesunate,CCCN,Plasmodium protease,0.979,Malaria
+Artesunate,CCCN,Mitochondrial electron transport,0.74,Malaria
+Atovaquone,CNC,Falcipain protease,0.87,Malaria
+Proguanil,CCNCO,Heme detoxification pathway,0.878,Malaria
+Doxycycline,CCN(CC)CC,Mitochondrial electron transport,0.679,Malaria
+Artesunate,CCC,Cytochrome bc1 complex,0.574,Malaria
+Pyronaridine,CCCO,Heme detoxification pathway,0.853,Malaria
+Quinine,COC,Falcipain protease,0.674,Malaria
+Artemisinin,COC,Mitochondrial electron transport,0.687,Malaria
+Artemisinin,CC(C)O,Falcipain protease,0.978,Malaria
+Tafenoquine,CCOC,Mitochondrial electron transport,0.695,Malaria
+Artesunate,CCN,Cytochrome bc1 complex,0.673,Malaria
+Primaquine,CCC,Cytochrome bc1 complex,0.93,Malaria
+Lumefantrine,CNC,Mitochondrial electron transport,0.558,Malaria
+Chloroquine,CCO,Heme detoxification pathway,0.58,Malaria
+Piperaquine,CCOC(=O)C,Cytochrome bc1 complex,0.87,Malaria
+Lumefantrine,CCO,Heme detoxification pathway,0.564,Malaria
+Artesunate,CC(C)CC,Cytochrome bc1 complex,0.94,Malaria
+Primaquine,CCC,Plasmodium falciparum DHFR,0.796,Malaria
+Lumefantrine,CCN(CC)CC,Heme detoxification pathway,0.685,Malaria
+Chloroquine,CCN(CC)CC,Falcipain protease,0.843,Malaria
+Artesunate,CCO,Mitochondrial electron transport,0.562,Malaria
+Piperaquine,CCNC,Plasmodium protease,0.655,Malaria
+Pyronaridine,CCOC(=O)C,Cytochrome bc1 complex,0.614,Malaria
+Primaquine,CCNC,Mitochondrial electron transport,0.793,Malaria
+Proguanil,CCNCO,Mitochondrial electron transport,0.637,Malaria
+Piperaquine,CCOC(=O)C,Cytochrome bc1 complex,0.703,Malaria
+Mefloquine,CCCN,Mitochondrial electron transport,0.602,Malaria
+Primaquine,CC(C)CC,Falcipain protease,0.806,Malaria
+Tafenoquine,CCCO,Plasmodium protease,0.748,Malaria
+Lumefantrine,CCOC(=O)C,Heme detoxification pathway,0.636,Malaria
+Artemisinin,COC,Falcipain protease,0.63,Malaria
+Pyronaridine,CCN,Falcipain protease,0.935,Malaria
+Piperaquine,CCOC(=O)C,Plasmodium protease,0.673,Malaria
+Amodiaquine,CCCN,Heme detoxification pathway,0.614,Malaria
+Quinine,CCOC,Heme detoxification pathway,0.663,Malaria
+Mefloquine,CCNCO,Plasmodium falciparum DHFR,0.774,Malaria
+Artesunate,C1CCCCC1,Mitochondrial electron transport,0.602,Malaria
+Proguanil,CCOC,Falcipain protease,0.959,Malaria
+Mefloquine,CCN(CC)CC,Mitochondrial electron transport,0.558,Malaria
+Primaquine,CCOC(=O)C,Falcipain protease,0.65,Malaria
+Atovaquone,CCCO,Plasmodium falciparum DHFR,0.597,Malaria
+Piperaquine,COC,Plasmodium protease,0.657,Malaria
+Piperaquine,CNC,Cytochrome bc1 complex,0.906,Malaria
+Chloroquine,CCCN,Plasmodium falciparum DHFR,0.931,Malaria
+Amodiaquine,CC(C)O,Mitochondrial electron transport,0.574,Malaria
+Tafenoquine,CCOC(=O)C,Heme detoxification pathway,0.552,Malaria
+Proguanil,CCOC(=O)C,Plasmodium protease,0.655,Malaria
+Primaquine,CC(C)O,Plasmodium falciparum DHFR,0.799,Malaria
+Proguanil,COC,Cytochrome bc1 complex,0.618,Malaria
+Pyronaridine,CCC,Mitochondrial electron transport,0.835,Malaria
+Artemisinin,CCC,Heme detoxification pathway,0.834,Malaria
+Proguanil,CCCN,Cytochrome bc1 complex,0.788,Malaria
+Quinine,CCN(CC)CC,Cytochrome bc1 complex,0.973,Malaria
+Pyronaridine,CC(C)O,Heme detoxification pathway,0.901,Malaria
+Pyronaridine,CCN,Heme detoxification pathway,0.57,Malaria
+Lumefantrine,C1CCCCC1,Cytochrome bc1 complex,0.79,Malaria
+Artemisinin,CCCN,Heme detoxification pathway,0.791,Malaria
+Piperaquine,CCN,Plasmodium falciparum DHFR,0.618,Malaria
+Tafenoquine,CC(C)O,Cytochrome bc1 complex,0.884,Malaria
+Piperaquine,COC,Plasmodium protease,0.851,Malaria
+Mefloquine,CCC,Heme detoxification pathway,0.702,Malaria
+Chloroquine,CCN(CC)CC,Plasmodium falciparum DHFR,0.879,Malaria
+Proguanil,CCN,Heme detoxification pathway,0.71,Malaria
+Tafenoquine,CCNC,Mitochondrial electron transport,0.913,Malaria
+Artemisinin,CCC,Heme detoxification pathway,0.843,Malaria
+Mefloquine,CCNC,Plasmodium falciparum DHFR,0.849,Malaria
+Halofantrine,CCCN,Cytochrome bc1 complex,0.946,Malaria
+Proguanil,CCC,Falcipain protease,0.956,Malaria
+Pyronaridine,C1CCCCC1,Heme detoxification pathway,0.704,Malaria
+Quinine,CCOC,Plasmodium protease,0.591,Malaria
+Artesunate,CCN,Falcipain protease,0.678,Malaria
+Primaquine,C1CCCCC1,Heme detoxification pathway,0.922,Malaria
+Atovaquone,CCCN,Falcipain protease,0.659,Malaria
+Amodiaquine,CCN,Plasmodium protease,0.63,Malaria
+Pyronaridine,CCO,Mitochondrial electron transport,0.603,Malaria
+Mefloquine,CCOC,Cytochrome bc1 complex,0.579,Malaria
+Amodiaquine,CCOC,Plasmodium falciparum DHFR,0.636,Malaria
+Chloroquine,CNC,Heme detoxification pathway,0.833,Malaria
+Piperaquine,CCCO,Plasmodium protease,0.718,Malaria
+Artesunate,CCCO,Plasmodium protease,0.969,Malaria
+Mefloquine,CNC,Mitochondrial electron transport,0.844,Malaria
+Halofantrine,C1CCCCC1,Cytochrome bc1 complex,0.609,Malaria
+Doxycycline,CCN,Mitochondrial electron transport,0.624,Malaria
+Mefloquine,C1CCCCC1,Heme detoxification pathway,0.603,Malaria
+Amodiaquine,CCO,Plasmodium protease,0.727,Malaria
+Tafenoquine,CC(C)O,Mitochondrial electron transport,0.661,Malaria
+Chloroquine,CCO,Heme detoxification pathway,0.925,Malaria
+Mefloquine,CCC,Plasmodium falciparum DHFR,0.848,Malaria
+Quinine,CCNCO,Plasmodium protease,0.799,Malaria
+Artesunate,CCCN,Falcipain protease,0.81,Malaria
+Artesunate,CCNCO,Cytochrome bc1 complex,0.615,Malaria
+Artemisinin,C1CCCCC1,Falcipain protease,0.949,Malaria
+Amodiaquine,CC(C)O,Plasmodium falciparum DHFR,0.747,Malaria
+Tafenoquine,CCOC,Plasmodium falciparum DHFR,0.605,Malaria
+Atovaquone,COC,Plasmodium protease,0.567,Malaria
+Tafenoquine,C1CCCCC1,Plasmodium protease,0.98,Malaria
+Tafenoquine,CCOC,Mitochondrial electron transport,0.869,Malaria
+Lumefantrine,COC,Heme detoxification pathway,0.719,Malaria
+Halofantrine,CCNCO,Cytochrome bc1 complex,0.838,Malaria
+Proguanil,CCN,Cytochrome bc1 complex,0.7,Malaria
+Amodiaquine,CCC,Cytochrome bc1 complex,0.582,Malaria
+Pyronaridine,CC(C)O,Plasmodium protease,0.906,Malaria
+Primaquine,CCN,Mitochondrial electron transport,0.824,Malaria
+Doxycycline,CC(C)O,Plasmodium protease,0.823,Malaria
+Proguanil,CCO,Plasmodium protease,0.809,Malaria
+Chloroquine,COC,Heme detoxification pathway,0.695,Malaria
+Pyronaridine,COC,Falcipain protease,0.868,Malaria
+Artemisinin,CCCO,Plasmodium protease,0.896,Malaria
+Primaquine,CC(C)CC,Plasmodium falciparum DHFR,0.795,Malaria
+Pyronaridine,COC,Cytochrome bc1 complex,0.918,Malaria
+Tafenoquine,CCNCO,Mitochondrial electron transport,0.902,Malaria
+Piperaquine,CCN(CC)CC,Plasmodium falciparum DHFR,0.653,Malaria
+Artemisinin,CCN,Falcipain protease,0.573,Malaria
+Pyronaridine,CCCO,Plasmodium falciparum DHFR,0.576,Malaria
+Quinine,CCOC,Mitochondrial electron transport,0.905,Malaria
+Piperaquine,CCOC,Cytochrome bc1 complex,0.66,Malaria
+Piperaquine,CC(C)O,Mitochondrial electron transport,0.825,Malaria
+Quinine,CCO,Heme detoxification pathway,0.769,Malaria
+Doxycycline,CCCN,Heme detoxification pathway,0.591,Malaria
+Pyronaridine,CCNC,Cytochrome bc1 complex,0.921,Malaria
+Atovaquone,CCN(CC)CC,Plasmodium falciparum DHFR,0.98,Malaria
+Tafenoquine,CCN(CC)CC,Falcipain protease,0.712,Malaria
+Tafenoquine,CCCO,Heme detoxification pathway,0.922,Malaria
+Chloroquine,CCNCO,Cytochrome bc1 complex,0.87,Malaria
+Amodiaquine,COC,Cytochrome bc1 complex,0.6,Malaria
+Doxycycline,CCNCO,Plasmodium protease,0.585,Malaria
+Doxycycline,CCCO,Mitochondrial electron transport,0.804,Malaria
+Artesunate,CCN,Falcipain protease,0.902,Malaria
+Mefloquine,CCC,Falcipain protease,0.905,Malaria
+Quinine,CNC,Falcipain protease,0.677,Malaria
+Proguanil,CCC,Plasmodium falciparum DHFR,0.867,Malaria
+Pyronaridine,CCC,Falcipain protease,0.813,Malaria
+Quinine,CCNCO,Cytochrome bc1 complex,0.873,Malaria
+Amodiaquine,CCNC,Falcipain protease,0.818,Malaria
+Doxycycline,CC(C)O,Cytochrome bc1 complex,0.952,Malaria
+Doxycycline,CCOC,Plasmodium falciparum DHFR,0.958,Malaria
+Tafenoquine,COC,Cytochrome bc1 complex,0.946,Malaria
+Doxycycline,CNC,Falcipain protease,0.929,Malaria
+Proguanil,CCN(CC)CC,Plasmodium falciparum DHFR,0.965,Malaria
+Halofantrine,CCC,Cytochrome bc1 complex,0.8,Malaria
+Tafenoquine,CCCO,Cytochrome bc1 complex,0.652,Malaria
+Mefloquine,CCNC,Cytochrome bc1 complex,0.779,Malaria
+Proguanil,CCCN,Heme detoxification pathway,0.699,Malaria
+Pyronaridine,CCN(CC)CC,Mitochondrial electron transport,0.929,Malaria
+Primaquine,CCN(CC)CC,Mitochondrial electron transport,0.773,Malaria
+Piperaquine,CCOC,Cytochrome bc1 complex,0.561,Malaria
+Mefloquine,CCNCO,Plasmodium protease,0.569,Malaria
+Atovaquone,CCCN,Plasmodium falciparum DHFR,0.652,Malaria
+Quinine,CCCN,Mitochondrial electron transport,0.934,Malaria
+Halofantrine,CCCO,Cytochrome bc1 complex,0.811,Malaria
+Pyronaridine,COC,Falcipain protease,0.762,Malaria
+Lumefantrine,CCOC(=O)C,Mitochondrial electron transport,0.647,Malaria
+Tafenoquine,CCN,Falcipain protease,0.827,Malaria
+Amodiaquine,CNC,Falcipain protease,0.678,Malaria
+Piperaquine,CCNCO,Plasmodium falciparum DHFR,0.698,Malaria
+Halofantrine,CCCO,Plasmodium falciparum DHFR,0.835,Malaria
+Proguanil,CCO,Plasmodium protease,0.566,Malaria
+Primaquine,CCNC,Falcipain protease,0.959,Malaria
+Chloroquine,COC,Heme detoxification pathway,0.948,Malaria
+Artesunate,CCO,Falcipain protease,0.626,Malaria
+Chloroquine,COC,Heme detoxification pathway,0.674,Malaria
+Piperaquine,COC,Plasmodium falciparum DHFR,0.634,Malaria
+Piperaquine,CC(C)CC,Falcipain protease,0.899,Malaria
+Primaquine,CCNC,Falcipain protease,0.703,Malaria
+Artemisinin,C1CCCCC1,Mitochondrial electron transport,0.723,Malaria
+Halofantrine,CCN,Plasmodium protease,0.837,Malaria
+Proguanil,CCCO,Mitochondrial electron transport,0.623,Malaria
+Doxycycline,CCN(CC)CC,Plasmodium protease,0.655,Malaria
+Amodiaquine,CCCN,Cytochrome bc1 complex,0.821,Malaria
+Primaquine,CCN,Falcipain protease,0.674,Malaria
+Tafenoquine,CCNC,Plasmodium protease,0.704,Malaria
+Quinine,COC,Falcipain protease,0.889,Malaria
+Doxycycline,CCN(CC)CC,Heme detoxification pathway,0.604,Malaria
+Mefloquine,CCC,Cytochrome bc1 complex,0.64,Malaria
+Quinine,CCOC(=O)C,Mitochondrial electron transport,0.925,Malaria
+Tafenoquine,CCNCO,Plasmodium falciparum DHFR,0.947,Malaria
+Primaquine,CCNCO,Cytochrome bc1 complex,0.711,Malaria
+Artesunate,CCNCO,Falcipain protease,0.804,Malaria
+Artemisinin,CC(C)CC,Cytochrome bc1 complex,0.642,Malaria
+Lumefantrine,CCN(CC)CC,Plasmodium falciparum DHFR,0.747,Malaria
+Tafenoquine,CCNC,Plasmodium falciparum DHFR,0.707,Malaria
+Halofantrine,CCO,Heme detoxification pathway,0.781,Malaria
+Quinine,CCOC(=O)C,Cytochrome bc1 complex,0.707,Malaria
+Pyronaridine,CCN(CC)CC,Cytochrome bc1 complex,0.639,Malaria
+Doxycycline,CCCN,Plasmodium falciparum DHFR,0.796,Malaria
+Primaquine,CC(C)CC,Plasmodium protease,0.888,Malaria
+Atovaquone,CCO,Plasmodium falciparum DHFR,0.779,Malaria
+Atovaquone,CCN(CC)CC,Plasmodium protease,0.905,Malaria
+Proguanil,CCN(CC)CC,Plasmodium falciparum DHFR,0.578,Malaria
+Lumefantrine,CCN(CC)CC,Mitochondrial electron transport,0.625,Malaria
+Halofantrine,CCOC,Plasmodium falciparum DHFR,0.562,Malaria
+Primaquine,CNC,Mitochondrial electron transport,0.69,Malaria
+Doxycycline,CCN,Falcipain protease,0.606,Malaria
+Amodiaquine,CCNCO,Plasmodium protease,0.668,Malaria
+Amodiaquine,CCO,Mitochondrial electron transport,0.859,Malaria
+Atovaquone,CCN,Plasmodium protease,0.977,Malaria
+Chloroquine,CCO,Plasmodium falciparum DHFR,0.602,Malaria
+Doxycycline,CCN(CC)CC,Mitochondrial electron transport,0.592,Malaria
+Tafenoquine,CC(C)CC,Mitochondrial electron transport,0.75,Malaria
+Halofantrine,CCCO,Cytochrome bc1 complex,0.596,Malaria
+Proguanil,CNC,Mitochondrial electron transport,0.677,Malaria
+Pyronaridine,CC(C)CC,Plasmodium protease,0.589,Malaria
+Pyronaridine,CCO,Mitochondrial electron transport,0.935,Malaria
+Primaquine,CC(C)O,Mitochondrial electron transport,0.793,Malaria
+Primaquine,CC(C)CC,Falcipain protease,0.584,Malaria
+Chloroquine,CCN(CC)CC,Falcipain protease,0.723,Malaria
+Primaquine,CCO,Mitochondrial electron transport,0.695,Malaria
+Proguanil,CCCN,Mitochondrial electron transport,0.852,Malaria
+Tafenoquine,CC(C)O,Heme detoxification pathway,0.949,Malaria
+Chloroquine,CCNC,Heme detoxification pathway,0.634,Malaria
+Tafenoquine,CCOC,Plasmodium falciparum DHFR,0.796,Malaria
+Chloroquine,CCC,Mitochondrial electron transport,0.717,Malaria
+Artemisinin,C1CCCCC1,Plasmodium protease,0.709,Malaria
+Amodiaquine,CCNC,Falcipain protease,0.972,Malaria
+Atovaquone,CCNC,Mitochondrial electron transport,0.766,Malaria
+Amodiaquine,C1CCCCC1,Cytochrome bc1 complex,0.814,Malaria
+Tafenoquine,C1CCCCC1,Heme detoxification pathway,0.895,Malaria
+Doxycycline,CCCO,Plasmodium protease,0.681,Malaria
+Quinine,CCNCO,Heme detoxification pathway,0.746,Malaria
+Halofantrine,CNC,Plasmodium protease,0.676,Malaria
+Artemisinin,CCN,Plasmodium protease,0.67,Malaria
+Halofantrine,CCC,Plasmodium protease,0.618,Malaria
+Mefloquine,CCN(CC)CC,Mitochondrial electron transport,0.812,Malaria
+Lumefantrine,CNC,Plasmodium protease,0.652,Malaria
+Chloroquine,CCOC,Plasmodium falciparum DHFR,0.706,Malaria
+Artesunate,CCOC,Falcipain protease,0.922,Malaria
+Amodiaquine,CCNC,Falcipain protease,0.813,Malaria
+Amodiaquine,CCCO,Plasmodium protease,0.766,Malaria
+Pyronaridine,CCCO,Falcipain protease,0.851,Malaria
+Mefloquine,CCOC(=O)C,Heme detoxification pathway,0.714,Malaria
+Pyronaridine,CCCO,Plasmodium falciparum DHFR,0.721,Malaria
+Lumefantrine,CCN,Heme detoxification pathway,0.581,Malaria
+Proguanil,CCNCO,Heme detoxification pathway,0.596,Malaria
+Tafenoquine,COC,Cytochrome bc1 complex,0.728,Malaria
+Amodiaquine,CCO,Cytochrome bc1 complex,0.57,Malaria
+Pyronaridine,CNC,Heme detoxification pathway,0.62,Malaria
+Amodiaquine,CCO,Cytochrome bc1 complex,0.875,Malaria
+Pyronaridine,CCNC,Heme detoxification pathway,0.582,Malaria
+Chloroquine,CC(C)O,Cytochrome bc1 complex,0.938,Malaria
+Primaquine,CCC,Falcipain protease,0.831,Malaria
+Mefloquine,CCN(CC)CC,Plasmodium falciparum DHFR,0.916,Malaria
+Halofantrine,CCC,Plasmodium protease,0.842,Malaria
+Piperaquine,CCO,Falcipain protease,0.923,Malaria
+Piperaquine,CCCO,Plasmodium protease,0.758,Malaria
+Atovaquone,COC,Plasmodium protease,0.65,Malaria
+Tafenoquine,CCO,Falcipain protease,0.762,Malaria
+Primaquine,CC(C)CC,Plasmodium falciparum DHFR,0.91,Malaria
+Piperaquine,CCNCO,Plasmodium falciparum DHFR,0.862,Malaria
+Pyronaridine,CCC,Heme detoxification pathway,0.664,Malaria
+Tafenoquine,COC,Plasmodium protease,0.553,Malaria
+Tafenoquine,CCNCO,Heme detoxification pathway,0.561,Malaria
+Atovaquone,CCOC(=O)C,Falcipain protease,0.58,Malaria
+Proguanil,CCOC,Falcipain protease,0.635,Malaria
+Quinine,CCCO,Cytochrome bc1 complex,0.659,Malaria
+Tafenoquine,COC,Falcipain protease,0.559,Malaria
+Mefloquine,CCOC,Plasmodium protease,0.832,Malaria
+Lumefantrine,CCN(CC)CC,Mitochondrial electron transport,0.675,Malaria
+Doxycycline,CCNCO,Plasmodium protease,0.777,Malaria
+Chloroquine,CCNCO,Plasmodium protease,0.886,Malaria
+Chloroquine,COC,Plasmodium protease,0.576,Malaria
+Halofantrine,CCOC(=O)C,Falcipain protease,0.672,Malaria
+Chloroquine,CCN,Mitochondrial electron transport,0.973,Malaria
+Lumefantrine,COC,Cytochrome bc1 complex,0.82,Malaria
+Chloroquine,CCOC,Heme detoxification pathway,0.653,Malaria
+Proguanil,CC(C)O,Falcipain protease,0.606,Malaria
+Chloroquine,CC(C)O,Plasmodium protease,0.817,Malaria
+Pyronaridine,CCN,Falcipain protease,0.658,Malaria
+Atovaquone,CCOC,Plasmodium falciparum DHFR,0.553,Malaria
+Tafenoquine,CCNCO,Falcipain protease,0.755,Malaria
+Atovaquone,CCOC,Plasmodium falciparum DHFR,0.635,Malaria
+Proguanil,CC(C)CC,Mitochondrial electron transport,0.596,Malaria
+Lumefantrine,CCO,Mitochondrial electron transport,0.803,Malaria
+Atovaquone,CCNC,Plasmodium protease,0.912,Malaria
+Atovaquone,CCCN,Heme detoxification pathway,0.559,Malaria
+Amodiaquine,CCOC(=O)C,Cytochrome bc1 complex,0.936,Malaria
+Quinine,CCNCO,Falcipain protease,0.581,Malaria
+Tafenoquine,CCCN,Falcipain protease,0.798,Malaria
+Pyronaridine,CC(C)O,Falcipain protease,0.776,Malaria
+Halofantrine,CCNC,Plasmodium falciparum DHFR,0.726,Malaria
+Chloroquine,CC(C)CC,Cytochrome bc1 complex,0.758,Malaria
+Chloroquine,CCNC,Mitochondrial electron transport,0.607,Malaria
+Piperaquine,CC(C)CC,Plasmodium protease,0.773,Malaria
+Proguanil,CCN(CC)CC,Mitochondrial electron transport,0.606,Malaria
+Doxycycline,CCN(CC)CC,Falcipain protease,0.823,Malaria
+Tafenoquine,COC,Plasmodium protease,0.931,Malaria
+Primaquine,CCN,Plasmodium protease,0.664,Malaria
+Quinine,CCOC,Heme detoxification pathway,0.919,Malaria
+Atovaquone,CCOC(=O)C,Heme detoxification pathway,0.575,Malaria
+Atovaquone,C1CCCCC1,Heme detoxification pathway,0.712,Malaria
+Halofantrine,CC(C)O,Mitochondrial electron transport,0.683,Malaria
+Artesunate,CCN(CC)CC,Cytochrome bc1 complex,0.829,Malaria
+Tafenoquine,CCNC,Plasmodium protease,0.894,Malaria
+Artemisinin,CCO,Heme detoxification pathway,0.88,Malaria
+Primaquine,CNC,Cytochrome bc1 complex,0.68,Malaria
+Quinine,CCO,Falcipain protease,0.965,Malaria
+Lumefantrine,CCOC,Heme detoxification pathway,0.57,Malaria
+Mefloquine,CCNCO,Plasmodium falciparum DHFR,0.592,Malaria
+Atovaquone,CC(C)CC,Mitochondrial electron transport,0.782,Malaria
+Mefloquine,C1CCCCC1,Mitochondrial electron transport,0.684,Malaria
+Artemisinin,CCN,Cytochrome bc1 complex,0.728,Malaria
+Tafenoquine,CCO,Mitochondrial electron transport,0.907,Malaria
+Primaquine,CCCO,Plasmodium protease,0.558,Malaria
+Quinine,CNC,Mitochondrial electron transport,0.713,Malaria
+Artesunate,CCO,Plasmodium falciparum DHFR,0.751,Malaria
+Atovaquone,CCOC,Heme detoxification pathway,0.571,Malaria
+Primaquine,CC(C)O,Plasmodium falciparum DHFR,0.724,Malaria
+Artesunate,CCNC,Falcipain protease,0.953,Malaria
+Proguanil,CCC,Mitochondrial electron transport,0.733,Malaria
+Atovaquone,CCOC,Plasmodium falciparum DHFR,0.642,Malaria
+Artesunate,CCOC,Plasmodium protease,0.968,Malaria
+Artesunate,CCN(CC)CC,Falcipain protease,0.967,Malaria
+Amodiaquine,CCO,Falcipain protease,0.72,Malaria
+Quinine,COC,Plasmodium falciparum DHFR,0.669,Malaria
+Atovaquone,C1CCCCC1,Plasmodium falciparum DHFR,0.734,Malaria
+Artesunate,CNC,Falcipain protease,0.888,Malaria
+Amodiaquine,CCNC,Plasmodium falciparum DHFR,0.551,Malaria
+Halofantrine,CCNC,Plasmodium falciparum DHFR,0.712,Malaria
+Tafenoquine,CCN(CC)CC,Plasmodium falciparum DHFR,0.978,Malaria
+Quinine,CCO,Cytochrome bc1 complex,0.779,Malaria
+Quinine,CNC,Plasmodium protease,0.912,Malaria
+Halofantrine,CCO,Cytochrome bc1 complex,0.573,Malaria
+Tafenoquine,CCCO,Falcipain protease,0.662,Malaria
+Lumefantrine,CCCO,Falcipain protease,0.799,Malaria
+Atovaquone,CCO,Heme detoxification pathway,0.607,Malaria
+Piperaquine,CCNCO,Heme detoxification pathway,0.776,Malaria
+Piperaquine,CCN(CC)CC,Falcipain protease,0.879,Malaria
+Doxycycline,CNC,Heme detoxification pathway,0.64,Malaria
+Mefloquine,CCC,Plasmodium falciparum DHFR,0.714,Malaria
+Pyronaridine,CCN,Plasmodium falciparum DHFR,0.807,Malaria
+Lumefantrine,CCCN,Falcipain protease,0.908,Malaria
+Quinine,CC(C)CC,Mitochondrial electron transport,0.688,Malaria
+Mefloquine,CCO,Mitochondrial electron transport,0.86,Malaria
+Chloroquine,CCC,Heme detoxification pathway,0.892,Malaria
+Artemisinin,CNC,Plasmodium falciparum DHFR,0.568,Malaria
+Pyronaridine,CNC,Plasmodium protease,0.55,Malaria
+Lumefantrine,CNC,Plasmodium protease,0.793,Malaria
+Tafenoquine,CCCO,Mitochondrial electron transport,0.732,Malaria
+Halofantrine,CC(C)CC,Mitochondrial electron transport,0.558,Malaria
+Chloroquine,CC(C)CC,Mitochondrial electron transport,0.845,Malaria
+Proguanil,CCO,Cytochrome bc1 complex,0.97,Malaria
+Halofantrine,CC(C)CC,Plasmodium falciparum DHFR,0.695,Malaria
+Pyronaridine,CCC,Falcipain protease,0.86,Malaria
+Halofantrine,CCCN,Falcipain protease,0.834,Malaria
+Tafenoquine,CCOC,Plasmodium protease,0.826,Malaria
+Mefloquine,COC,Plasmodium protease,0.747,Malaria
+Piperaquine,C1CCCCC1,Falcipain protease,0.836,Malaria
+Doxycycline,CC(C)O,Plasmodium protease,0.716,Malaria
+Tafenoquine,CCNC,Plasmodium falciparum DHFR,0.755,Malaria
+Amodiaquine,CCN(CC)CC,Falcipain protease,0.551,Malaria
+Lumefantrine,CNC,Plasmodium protease,0.752,Malaria
+Mefloquine,CCOC(=O)C,Plasmodium protease,0.857,Malaria
+Doxycycline,CCN(CC)CC,Cytochrome bc1 complex,0.837,Malaria
+Halofantrine,CCO,Falcipain protease,0.77,Malaria
+Halofantrine,CCCN,Heme detoxification pathway,0.889,Malaria
+Atovaquone,CCCO,Cytochrome bc1 complex,0.606,Malaria
+Pyronaridine,CCNCO,Mitochondrial electron transport,0.596,Malaria
+Amodiaquine,CCCN,Cytochrome bc1 complex,0.759,Malaria
+Tafenoquine,CCCO,Plasmodium protease,0.865,Malaria
+Mefloquine,CCCN,Plasmodium protease,0.836,Malaria
+Halofantrine,CC(C)O,Falcipain protease,0.82,Malaria
+Tafenoquine,CC(C)O,Cytochrome bc1 complex,0.601,Malaria
+Doxycycline,CC(C)O,Mitochondrial electron transport,0.672,Malaria
+Artemisinin,CCOC(=O)C,Plasmodium falciparum DHFR,0.823,Malaria
+Piperaquine,CC(C)O,Falcipain protease,0.572,Malaria
+Artesunate,COC,Mitochondrial electron transport,0.785,Malaria
+Piperaquine,CCO,Cytochrome bc1 complex,0.89,Malaria
+Halofantrine,CCN,Plasmodium falciparum DHFR,0.812,Malaria
+Lumefantrine,C1CCCCC1,Falcipain protease,0.791,Malaria
+Chloroquine,CCCN,Falcipain protease,0.951,Malaria
+Mefloquine,CCNC,Cytochrome bc1 complex,0.928,Malaria
+Quinine,CCCN,Heme detoxification pathway,0.633,Malaria
+Atovaquone,CCN,Mitochondrial electron transport,0.777,Malaria
+Lumefantrine,CCN(CC)CC,Heme detoxification pathway,0.781,Malaria
+Quinine,CCCN,Cytochrome bc1 complex,0.702,Malaria
+Quinine,C1CCCCC1,Cytochrome bc1 complex,0.735,Malaria
+Proguanil,CCNCO,Cytochrome bc1 complex,0.675,Malaria
+Tafenoquine,C1CCCCC1,Heme detoxification pathway,0.921,Malaria
+Artesunate,CCO,Falcipain protease,0.62,Malaria
+Primaquine,CCNCO,Plasmodium protease,0.733,Malaria
+Lumefantrine,CCO,Cytochrome bc1 complex,0.9,Malaria
+Halofantrine,CCN(CC)CC,Plasmodium protease,0.589,Malaria
+Artemisinin,COC,Heme detoxification pathway,0.56,Malaria
+Quinine,C1CCCCC1,Cytochrome bc1 complex,0.811,Malaria
+Quinine,CCOC,Heme detoxification pathway,0.897,Malaria
+Quinine,CCCO,Heme detoxification pathway,0.851,Malaria
+Lumefantrine,CCNCO,Falcipain protease,0.684,Malaria
+Artemisinin,CCNCO,Heme detoxification pathway,0.634,Malaria
+Pyronaridine,CCOC(=O)C,Plasmodium protease,0.713,Malaria
+Mefloquine,COC,Falcipain protease,0.637,Malaria
+Atovaquone,CCC,Plasmodium falciparum DHFR,0.741,Malaria
+Chloroquine,CCO,Plasmodium protease,0.675,Malaria
+Proguanil,CC(C)O,Falcipain protease,0.8,Malaria
+Quinine,CCC,Plasmodium protease,0.939,Malaria
+Pyronaridine,CCNCO,Cytochrome bc1 complex,0.637,Malaria
+Chloroquine,CCOC,Falcipain protease,0.839,Malaria
+Quinine,CNC,Cytochrome bc1 complex,0.903,Malaria
+Artesunate,CNC,Falcipain protease,0.835,Malaria
+Atovaquone,CCN(CC)CC,Cytochrome bc1 complex,0.663,Malaria
+Quinine,CCN,Mitochondrial electron transport,0.831,Malaria
+Halofantrine,C1CCCCC1,Plasmodium falciparum DHFR,0.617,Malaria
+Doxycycline,CNC,Heme detoxification pathway,0.912,Malaria
+Tafenoquine,CCN(CC)CC,Cytochrome bc1 complex,0.918,Malaria
+Primaquine,CCCO,Plasmodium protease,0.757,Malaria
+Piperaquine,CC(C)CC,Plasmodium falciparum DHFR,0.662,Malaria
+Pyronaridine,CCNC,Heme detoxification pathway,0.882,Malaria
+Pyronaridine,C1CCCCC1,Plasmodium falciparum DHFR,0.746,Malaria
+Quinine,CCNC,Plasmodium protease,0.616,Malaria
+Doxycycline,CCCO,Falcipain protease,0.605,Malaria
+Primaquine,CC(C)O,Cytochrome bc1 complex,0.621,Malaria
+Artesunate,CCC,Plasmodium protease,0.951,Malaria
+Artemisinin,CCNC,Plasmodium protease,0.925,Malaria
+Mefloquine,CCOC,Mitochondrial electron transport,0.709,Malaria
+Artesunate,CCOC,Mitochondrial electron transport,0.827,Malaria
+Mefloquine,C1CCCCC1,Falcipain protease,0.551,Malaria
+Proguanil,CNC,Mitochondrial electron transport,0.691,Malaria
+Quinine,C1CCCCC1,Plasmodium falciparum DHFR,0.962,Malaria
+Piperaquine,CCNCO,Falcipain protease,0.58,Malaria
+Quinine,CC(C)CC,Heme detoxification pathway,0.617,Malaria
+Artesunate,CNC,Cytochrome bc1 complex,0.908,Malaria
+Artesunate,CCNCO,Mitochondrial electron transport,0.559,Malaria
+Lumefantrine,CCCO,Plasmodium protease,0.91,Malaria
+Primaquine,CNC,Plasmodium falciparum DHFR,0.806,Malaria
+Atovaquone,CCOC,Mitochondrial electron transport,0.657,Malaria
+Artesunate,CCO,Heme detoxification pathway,0.739,Malaria
+Amodiaquine,CCC,Plasmodium falciparum DHFR,0.918,Malaria
+Halofantrine,CC(C)O,Plasmodium falciparum DHFR,0.758,Malaria
+Proguanil,CCCO,Falcipain protease,0.951,Malaria
+Doxycycline,CCNCO,Heme detoxification pathway,0.728,Malaria
+Chloroquine,COC,Heme detoxification pathway,0.935,Malaria
+Amodiaquine,CCN(CC)CC,Falcipain protease,0.752,Malaria
+Tafenoquine,COC,Mitochondrial electron transport,0.887,Malaria
+Artesunate,CCN,Mitochondrial electron transport,0.927,Malaria
+Quinine,CCNC,Falcipain protease,0.713,Malaria
+Doxycycline,CCOC(=O)C,Mitochondrial electron transport,0.65,Malaria
+Amodiaquine,CCCO,Plasmodium protease,0.955,Malaria
+Amodiaquine,CCN,Heme detoxification pathway,0.866,Malaria
+Amodiaquine,CCN,Plasmodium falciparum DHFR,0.823,Malaria
+Tafenoquine,C1CCCCC1,Cytochrome bc1 complex,0.869,Malaria
+Chloroquine,CC(C)O,Heme detoxification pathway,0.763,Malaria
+Lumefantrine,CCOC(=O)C,Falcipain protease,0.569,Malaria
+Doxycycline,CCCN,Falcipain protease,0.865,Malaria
+Lumefantrine,CCCN,Mitochondrial electron transport,0.736,Malaria
+Mefloquine,CCNCO,Cytochrome bc1 complex,0.766,Malaria
+Proguanil,CCN(CC)CC,Heme detoxification pathway,0.732,Malaria
+Atovaquone,CC(C)O,Falcipain protease,0.577,Malaria
+Amodiaquine,CCN(CC)CC,Plasmodium protease,0.701,Malaria
+Amodiaquine,CCN(CC)CC,Falcipain protease,0.865,Malaria
+Chloroquine,C1CCCCC1,Heme detoxification pathway,0.733,Malaria
+Artesunate,CC(C)CC,Plasmodium protease,0.771,Malaria
+Proguanil,CCNC,Falcipain protease,0.927,Malaria
+Proguanil,CCOC,Plasmodium protease,0.639,Malaria
+Piperaquine,CC(C)CC,Plasmodium protease,0.885,Malaria
+Artesunate,COC,Falcipain protease,0.741,Malaria
+Proguanil,COC,Cytochrome bc1 complex,0.726,Malaria
+Proguanil,CCCO,Mitochondrial electron transport,0.862,Malaria
+Doxycycline,CCCN,Heme detoxification pathway,0.762,Malaria
+Halofantrine,CCOC,Falcipain protease,0.591,Malaria
+Doxycycline,CCOC,Cytochrome bc1 complex,0.671,Malaria
+Chloroquine,CCNC,Plasmodium falciparum DHFR,0.809,Malaria
+Piperaquine,CCC,Plasmodium falciparum DHFR,0.573,Malaria
+Mefloquine,CCC,Heme detoxification pathway,0.902,Malaria
+Tafenoquine,CCNC,Heme detoxification pathway,0.56,Malaria
+Amodiaquine,CCN(CC)CC,Mitochondrial electron transport,0.758,Malaria
+Atovaquone,CCN(CC)CC,Falcipain protease,0.763,Malaria
+Artemisinin,CCN,Cytochrome bc1 complex,0.642,Malaria
+Doxycycline,CC(C)O,Mitochondrial electron transport,0.691,Malaria
+Tafenoquine,CCOC,Plasmodium falciparum DHFR,0.787,Malaria
+Halofantrine,CCN,Heme detoxification pathway,0.714,Malaria
+Lumefantrine,CCCO,Plasmodium protease,0.661,Malaria
+Pyronaridine,CC(C)O,Mitochondrial electron transport,0.833,Malaria
+Chloroquine,CCCO,Falcipain protease,0.737,Malaria
+Mefloquine,CCOC(=O)C,Cytochrome bc1 complex,0.96,Malaria
+Amodiaquine,CCO,Mitochondrial electron transport,0.801,Malaria
+Primaquine,CCCN,Heme detoxification pathway,0.935,Malaria
+Quinine,CC(C)O,Cytochrome bc1 complex,0.679,Malaria
+Artemisinin,CCCO,Cytochrome bc1 complex,0.738,Malaria
+Doxycycline,C1CCCCC1,Heme detoxification pathway,0.818,Malaria
+Atovaquone,CCCN,Falcipain protease,0.692,Malaria
+Artemisinin,CCN,Plasmodium protease,0.692,Malaria
+Proguanil,C1CCCCC1,Falcipain protease,0.673,Malaria
+Amodiaquine,CCOC,Falcipain protease,0.96,Malaria
+Proguanil,CC(C)O,Mitochondrial electron transport,0.871,Malaria
+Tafenoquine,CCNC,Plasmodium protease,0.722,Malaria
+Tafenoquine,CCN(CC)CC,Heme detoxification pathway,0.71,Malaria
+Mefloquine,C1CCCCC1,Heme detoxification pathway,0.583,Malaria
+Chloroquine,CCN,Plasmodium protease,0.918,Malaria
+Tafenoquine,CCCO,Falcipain protease,0.909,Malaria
+Chloroquine,CCC,Mitochondrial electron transport,0.785,Malaria
+Doxycycline,CCCO,Heme detoxification pathway,0.811,Malaria
+Quinine,CNC,Mitochondrial electron transport,0.825,Malaria
+Artesunate,CCN,Plasmodium protease,0.925,Malaria
+Lumefantrine,CCN(CC)CC,Plasmodium protease,0.881,Malaria
+Tafenoquine,COC,Heme detoxification pathway,0.912,Malaria
+Piperaquine,CCCN,Cytochrome bc1 complex,0.767,Malaria
+Proguanil,CCNCO,Plasmodium falciparum DHFR,0.6,Malaria
+Chloroquine,CCN,Mitochondrial electron transport,0.885,Malaria
+Tafenoquine,CCCN,Heme detoxification pathway,0.725,Malaria
+Atovaquone,CCCO,Heme detoxification pathway,0.58,Malaria
+Primaquine,CCN(CC)CC,Mitochondrial electron transport,0.564,Malaria
+Piperaquine,CCN,Heme detoxification pathway,0.976,Malaria
+Piperaquine,CCOC(=O)C,Heme detoxification pathway,0.693,Malaria
+Halofantrine,CC(C)O,Heme detoxification pathway,0.769,Malaria
+Tafenoquine,CCC,Plasmodium protease,0.91,Malaria
+Mefloquine,C1CCCCC1,Plasmodium falciparum DHFR,0.896,Malaria
+Artemisinin,CC(C)CC,Plasmodium falciparum DHFR,0.746,Malaria
+Quinine,CC(C)O,Plasmodium protease,0.678,Malaria
+Quinine,CC(C)O,Falcipain protease,0.608,Malaria
+Atovaquone,C1CCCCC1,Plasmodium protease,0.874,Malaria
+Primaquine,CCOC,Falcipain protease,0.64,Malaria
+Chloroquine,CCO,Cytochrome bc1 complex,0.953,Malaria
+Tafenoquine,CCCN,Plasmodium protease,0.565,Malaria
+Halofantrine,CC(C)CC,Cytochrome bc1 complex,0.697,Malaria
+Mefloquine,CCOC,Cytochrome bc1 complex,0.814,Malaria
+Doxycycline,CCNCO,Cytochrome bc1 complex,0.792,Malaria
+Artesunate,CCCO,Cytochrome bc1 complex,0.786,Malaria
+Artesunate,C1CCCCC1,Falcipain protease,0.96,Malaria
+Mefloquine,CCCN,Cytochrome bc1 complex,0.616,Malaria
+Amodiaquine,C1CCCCC1,Plasmodium protease,0.86,Malaria
+Artesunate,CCOC(=O)C,Plasmodium falciparum DHFR,0.588,Malaria
+Tafenoquine,CCOC,Falcipain protease,0.801,Malaria
+Chloroquine,COC,Plasmodium protease,0.739,Malaria
+Atovaquone,CCN(CC)CC,Cytochrome bc1 complex,0.67,Malaria
+Amodiaquine,CC(C)O,Mitochondrial electron transport,0.71,Malaria
+Proguanil,CCN(CC)CC,Plasmodium protease,0.74,Malaria
+Tafenoquine,COC,Plasmodium falciparum DHFR,0.617,Malaria
+Halofantrine,CCOC(=O)C,Cytochrome bc1 complex,0.554,Malaria
+Amodiaquine,C1CCCCC1,Mitochondrial electron transport,0.704,Malaria
+Artemisinin,CCCO,Plasmodium protease,0.93,Malaria
+Doxycycline,CCN,Mitochondrial electron transport,0.941,Malaria
+Primaquine,CCOC,Plasmodium falciparum DHFR,0.551,Malaria
+Tafenoquine,CCC,Heme detoxification pathway,0.562,Malaria
+Atovaquone,CNC,Mitochondrial electron transport,0.801,Malaria
+Tafenoquine,CC(C)O,Mitochondrial electron transport,0.63,Malaria
+Halofantrine,CCCN,Heme detoxification pathway,0.831,Malaria
+Amodiaquine,CCN(CC)CC,Cytochrome bc1 complex,0.829,Malaria
+Lumefantrine,CC(C)CC,Cytochrome bc1 complex,0.827,Malaria
+Primaquine,C1CCCCC1,Heme detoxification pathway,0.844,Malaria
+Halofantrine,CC(C)O,Falcipain protease,0.822,Malaria
+Primaquine,CCOC(=O)C,Mitochondrial electron transport,0.955,Malaria
+Amodiaquine,CCNCO,Cytochrome bc1 complex,0.638,Malaria
+Chloroquine,CCOC,Mitochondrial electron transport,0.788,Malaria
+Amodiaquine,CCNC,Cytochrome bc1 complex,0.767,Malaria
+Tafenoquine,CCN(CC)CC,Plasmodium falciparum DHFR,0.93,Malaria
+Piperaquine,CCOC,Plasmodium falciparum DHFR,0.675,Malaria
+Lumefantrine,CCN(CC)CC,Falcipain protease,0.959,Malaria
+Pyronaridine,CNC,Falcipain protease,0.554,Malaria
+Proguanil,CCCN,Falcipain protease,0.758,Malaria
+Piperaquine,CC(C)CC,Plasmodium protease,0.867,Malaria
+Doxycycline,CCOC,Mitochondrial electron transport,0.953,Malaria
+Proguanil,CCN,Plasmodium falciparum DHFR,0.571,Malaria
+Lumefantrine,C1CCCCC1,Falcipain protease,0.794,Malaria
+Tafenoquine,CCOC(=O)C,Mitochondrial electron transport,0.714,Malaria
+Primaquine,COC,Cytochrome bc1 complex,0.872,Malaria
+Proguanil,CCOC(=O)C,Cytochrome bc1 complex,0.644,Malaria
+Piperaquine,CC(C)O,Heme detoxification pathway,0.911,Malaria
+Doxycycline,CC(C)CC,Plasmodium protease,0.94,Malaria
+Atovaquone,CCCO,Mitochondrial electron transport,0.867,Malaria
+Quinine,CCC,Falcipain protease,0.75,Malaria
+Chloroquine,CCC,Plasmodium falciparum DHFR,0.754,Malaria
+Quinine,CCO,Cytochrome bc1 complex,0.877,Malaria
+Amodiaquine,CCNCO,Plasmodium protease,0.904,Malaria
+Quinine,CCOC,Mitochondrial electron transport,0.685,Malaria
+Primaquine,CCOC,Mitochondrial electron transport,0.774,Malaria
+Amodiaquine,CCO,Cytochrome bc1 complex,0.57,Malaria
+Piperaquine,CCCN,Plasmodium protease,0.769,Malaria
+Mefloquine,CCN,Plasmodium protease,0.825,Malaria
+Artesunate,CNC,Cytochrome bc1 complex,0.781,Malaria
+Proguanil,COC,Plasmodium falciparum DHFR,0.67,Malaria
+Lumefantrine,CCCN,Plasmodium falciparum DHFR,0.719,Malaria
+Atovaquone,CCN(CC)CC,Falcipain protease,0.673,Malaria
+Doxycycline,COC,Plasmodium falciparum DHFR,0.59,Malaria
+Halofantrine,CNC,Falcipain protease,0.558,Malaria
+Quinine,CCO,Mitochondrial electron transport,0.618,Malaria
+Doxycycline,CCN(CC)CC,Heme detoxification pathway,0.936,Malaria
+Lumefantrine,CCC,Mitochondrial electron transport,0.838,Malaria
+Amodiaquine,CCOC(=O)C,Plasmodium protease,0.888,Malaria
+Doxycycline,CC(C)O,Cytochrome bc1 complex,0.976,Malaria
+Artemisinin,CNC,Mitochondrial electron transport,0.556,Malaria
+Piperaquine,CC(C)CC,Heme detoxification pathway,0.592,Malaria
+Tafenoquine,CCN(CC)CC,Heme detoxification pathway,0.696,Malaria
+Artesunate,CCN,Mitochondrial electron transport,0.617,Malaria
+Atovaquone,CCCO,Cytochrome bc1 complex,0.832,Malaria
+Pyronaridine,CCNCO,Plasmodium protease,0.599,Malaria
+Mefloquine,CCOC(=O)C,Plasmodium protease,0.604,Malaria
+Atovaquone,CCCN,Cytochrome bc1 complex,0.888,Malaria
+Pyronaridine,CCCN,Plasmodium protease,0.568,Malaria
+Amodiaquine,CC(C)O,Plasmodium protease,0.778,Malaria
+Atovaquone,CCCN,Mitochondrial electron transport,0.588,Malaria
+Halofantrine,CC(C)CC,Plasmodium falciparum DHFR,0.699,Malaria
+Tafenoquine,CCOC(=O)C,Mitochondrial electron transport,0.562,Malaria
+Halofantrine,CCCN,Falcipain protease,0.912,Malaria
+Tafenoquine,CCCN,Plasmodium protease,0.635,Malaria
+Mefloquine,COC,Plasmodium protease,0.797,Malaria
+Artesunate,CCCN,Falcipain protease,0.874,Malaria
+Halofantrine,CCNCO,Falcipain protease,0.581,Malaria
+Proguanil,CCNC,Plasmodium protease,0.77,Malaria
+Artesunate,CC(C)O,Plasmodium protease,0.842,Malaria
+Artemisinin,CNC,Plasmodium protease,0.761,Malaria
+Tafenoquine,CCCN,Plasmodium protease,0.812,Malaria
+Pyronaridine,CCNCO,Cytochrome bc1 complex,0.563,Malaria
+Lumefantrine,CCOC(=O)C,Cytochrome bc1 complex,0.822,Malaria
+Artemisinin,CC(C)O,Cytochrome bc1 complex,0.762,Malaria
+Mefloquine,CNC,Plasmodium falciparum DHFR,0.948,Malaria
+Pyronaridine,CCOC(=O)C,Heme detoxification pathway,0.923,Malaria
+Atovaquone,C1CCCCC1,Cytochrome bc1 complex,0.804,Malaria
+Artesunate,CC(C)O,Falcipain protease,0.912,Malaria
+Primaquine,CCN(CC)CC,Falcipain protease,0.576,Malaria
+Proguanil,COC,Cytochrome bc1 complex,0.718,Malaria
+Lumefantrine,CCO,Falcipain protease,0.759,Malaria
+Tafenoquine,CCO,Plasmodium protease,0.833,Malaria
+Artesunate,CNC,Falcipain protease,0.964,Malaria
+Atovaquone,COC,Plasmodium falciparum DHFR,0.762,Malaria
+Mefloquine,CC(C)CC,Falcipain protease,0.579,Malaria
+Proguanil,CCO,Heme detoxification pathway,0.577,Malaria
+Artesunate,COC,Falcipain protease,0.633,Malaria
+Proguanil,CCN,Heme detoxification pathway,0.713,Malaria
+Proguanil,C1CCCCC1,Heme detoxification pathway,0.947,Malaria
+Halofantrine,CCCO,Cytochrome bc1 complex,0.581,Malaria
+Tafenoquine,CCNC,Falcipain protease,0.9,Malaria
+Halofantrine,CC(C)O,Cytochrome bc1 complex,0.887,Malaria
+Mefloquine,CCNC,Plasmodium protease,0.884,Malaria
+Artemisinin,CNC,Mitochondrial electron transport,0.626,Malaria
+Pyronaridine,CCN,Cytochrome bc1 complex,0.695,Malaria
+Halofantrine,CC(C)O,Mitochondrial electron transport,0.787,Malaria
+Atovaquone,CCN(CC)CC,Cytochrome bc1 complex,0.563,Malaria
+Chloroquine,CCN(CC)CC,Cytochrome bc1 complex,0.61,Malaria
+Chloroquine,CCNC,Heme detoxification pathway,0.931,Malaria
+Primaquine,CCN,Mitochondrial electron transport,0.86,Malaria
+Lumefantrine,CCNCO,Heme detoxification pathway,0.938,Malaria
+Pyronaridine,CCN,Plasmodium falciparum DHFR,0.871,Malaria
+Quinine,CCCO,Plasmodium protease,0.736,Malaria
+Chloroquine,CCCN,Plasmodium falciparum DHFR,0.69,Malaria
+Amodiaquine,CC(C)CC,Plasmodium falciparum DHFR,0.908,Malaria
+Artesunate,CCO,Cytochrome bc1 complex,0.748,Malaria
+Proguanil,C1CCCCC1,Plasmodium falciparum DHFR,0.896,Malaria
+Primaquine,CC(C)O,Mitochondrial electron transport,0.563,Malaria
+Doxycycline,CCN,Mitochondrial electron transport,0.938,Malaria
+Artesunate,CCC,Cytochrome bc1 complex,0.796,Malaria
+Pyronaridine,CC(C)CC,Falcipain protease,0.876,Malaria
+Primaquine,CCC,Cytochrome bc1 complex,0.977,Malaria
+Chloroquine,C1CCCCC1,Falcipain protease,0.653,Malaria
+Amodiaquine,CCN,Plasmodium protease,0.896,Malaria
+Pyronaridine,CCO,Cytochrome bc1 complex,0.942,Malaria
+Atovaquone,CCOC(=O)C,Plasmodium falciparum DHFR,0.585,Malaria
+Artemisinin,CCOC(=O)C,Mitochondrial electron transport,0.856,Malaria
+Halofantrine,CCC,Plasmodium falciparum DHFR,0.668,Malaria
+Primaquine,CC(C)CC,Plasmodium protease,0.88,Malaria
+Atovaquone,CCC,Plasmodium protease,0.901,Malaria
+Mefloquine,CNC,Plasmodium protease,0.598,Malaria
+Primaquine,CCN(CC)CC,Falcipain protease,0.945,Malaria
+Pyronaridine,CNC,Heme detoxification pathway,0.754,Malaria
+Lumefantrine,CCOC(=O)C,Cytochrome bc1 complex,0.576,Malaria
+Atovaquone,CCO,Plasmodium falciparum DHFR,0.618,Malaria
+Atovaquone,CCN,Cytochrome bc1 complex,0.763,Malaria
+Piperaquine,CCC,Plasmodium protease,0.676,Malaria
+Quinine,CNC,Cytochrome bc1 complex,0.909,Malaria
+Primaquine,COC,Plasmodium protease,0.923,Malaria
+Tafenoquine,CCC,Falcipain protease,0.569,Malaria
+Amodiaquine,CCNCO,Cytochrome bc1 complex,0.77,Malaria
+Tafenoquine,CNC,Heme detoxification pathway,0.814,Malaria
+Proguanil,CCN(CC)CC,Cytochrome bc1 complex,0.961,Malaria
+Doxycycline,CCOC,Heme detoxification pathway,0.847,Malaria
+Doxycycline,C1CCCCC1,Heme detoxification pathway,0.695,Malaria
+Tafenoquine,CCCN,Mitochondrial electron transport,0.876,Malaria
+Proguanil,CCC,Mitochondrial electron transport,0.958,Malaria
+Amodiaquine,CCCN,Falcipain protease,0.603,Malaria
+Primaquine,CC(C)O,Cytochrome bc1 complex,0.71,Malaria
+Atovaquone,CCC,Falcipain protease,0.787,Malaria
+Quinine,CCO,Falcipain protease,0.571,Malaria
+Chloroquine,CCN(CC)CC,Heme detoxification pathway,0.65,Malaria
+Mefloquine,CCNC,Cytochrome bc1 complex,0.714,Malaria
+Pyronaridine,CCN(CC)CC,Plasmodium falciparum DHFR,0.888,Malaria
+Artesunate,CCN(CC)CC,Heme detoxification pathway,0.926,Malaria
+Atovaquone,CCN,Plasmodium falciparum DHFR,0.689,Malaria
+Artesunate,CCOC,Plasmodium falciparum DHFR,0.629,Malaria
+Halofantrine,CCCO,Plasmodium protease,0.817,Malaria
+Piperaquine,CCNC,Plasmodium protease,0.9,Malaria
+Mefloquine,CCOC,Falcipain protease,0.733,Malaria
+Lumefantrine,CC(C)CC,Mitochondrial electron transport,0.781,Malaria
+Halofantrine,CC(C)O,Plasmodium falciparum DHFR,0.697,Malaria
+Pyronaridine,CC(C)O,Falcipain protease,0.705,Malaria
+Quinine,CCC,Mitochondrial electron transport,0.907,Malaria
+Doxycycline,CCNCO,Heme detoxification pathway,0.864,Malaria
+Halofantrine,C1CCCCC1,Heme detoxification pathway,0.761,Malaria
+Pyronaridine,CCNCO,Cytochrome bc1 complex,0.866,Malaria
+Lumefantrine,CCNCO,Mitochondrial electron transport,0.825,Malaria
+Atovaquone,CC(C)O,Plasmodium falciparum DHFR,0.64,Malaria
+Tafenoquine,CC(C)O,Cytochrome bc1 complex,0.922,Malaria
+Tafenoquine,COC,Mitochondrial electron transport,0.584,Malaria
+Proguanil,CCOC(=O)C,Falcipain protease,0.798,Malaria
+Pyronaridine,COC,Plasmodium falciparum DHFR,0.607,Malaria
+Lumefantrine,CCCO,Falcipain protease,0.694,Malaria
+Chloroquine,CCN,Mitochondrial electron transport,0.967,Malaria
+Tafenoquine,CCC,Plasmodium protease,0.89,Malaria
+Amodiaquine,CCOC(=O)C,Plasmodium protease,0.671,Malaria
+Doxycycline,CCNCO,Cytochrome bc1 complex,0.688,Malaria
+Tafenoquine,CCOC(=O)C,Heme detoxification pathway,0.803,Malaria
+Chloroquine,C1CCCCC1,Falcipain protease,0.677,Malaria
+Chloroquine,CCNC,Cytochrome bc1 complex,0.875,Malaria
+Doxycycline,CC(C)O,Cytochrome bc1 complex,0.937,Malaria
+Primaquine,C1CCCCC1,Plasmodium protease,0.76,Malaria
+Chloroquine,COC,Mitochondrial electron transport,0.948,Malaria
+Artemisinin,CCOC,Heme detoxification pathway,0.571,Malaria
+Primaquine,CC(C)O,Falcipain protease,0.699,Malaria
+Piperaquine,CCN,Mitochondrial electron transport,0.783,Malaria
+Pyronaridine,CCCO,Heme detoxification pathway,0.6,Malaria
+Artesunate,CC(C)CC,Cytochrome bc1 complex,0.661,Malaria
+Mefloquine,CCO,Mitochondrial electron transport,0.947,Malaria
+Amodiaquine,CCOC(=O)C,Plasmodium falciparum DHFR,0.568,Malaria
+Artemisinin,CCNCO,Cytochrome bc1 complex,0.797,Malaria
+Pyronaridine,CCCO,Plasmodium falciparum DHFR,0.611,Malaria
+Amodiaquine,CCC,Falcipain protease,0.6,Malaria
+Artesunate,CCNC,Plasmodium falciparum DHFR,0.773,Malaria
